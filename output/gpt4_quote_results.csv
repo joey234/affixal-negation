@@ -1,0 +1,2099 @@
+Unnamed: 0,word,negative_affix,tokenizer,bytes,correct,tokenizer_type,Negated
+2,abducent,ab,cl100k_base,"['ab', 'du', 'cent']",Correct,byte_level_bpe,False
+12,unable,un,cl100k_base,['unable'],Not segmented,byte_level_bpe,True
+22,unabridged,un,cl100k_base,"['un', 'ab', 'ridged']",Correct,byte_level_bpe,True
+32,nonabsorbent,non,cl100k_base,"['non', 'abs', 'orb', 'ent']",Correct,byte_level_bpe,True
+42,unabused,un,cl100k_base,"['un', 'ab', 'used']",Correct,byte_level_bpe,True
+52,acatalectic,a,cl100k_base,"['ac', 'ata', 'lectic']",Incorrect,byte_level_bpe,True
+62,unacceptable,un,cl100k_base,"['un', 'acceptable']",Correct,byte_level_bpe,True
+72,inaccessible,in,cl100k_base,"['in', 'accessible']",Correct,byte_level_bpe,True
+82,unaccommodating,un,cl100k_base,"['un', 'accom', 'mod', 'ating']",Correct,byte_level_bpe,True
+92,unaccompanied,un,cl100k_base,"['un', 'accom', 'panied']",Correct,byte_level_bpe,True
+102,discordant,dis,cl100k_base,"['discord', 'ant']",Incorrect,byte_level_bpe,False
+112,inaccurate,in,cl100k_base,"['in', 'accur', 'ate']",Correct,byte_level_bpe,True
+122,unaccustomed,un,cl100k_base,"['un', 'acc', 'ustomed']",Correct,byte_level_bpe,True
+132,unacknowledged,un,cl100k_base,"['un', 'ack', 'nowled', 'ged']",Correct,byte_level_bpe,True
+142,unacquisitive,un,cl100k_base,"['un', 'ac', 'quis', 'itive']",Correct,byte_level_bpe,True
+152,unactable,un,cl100k_base,"['un', 'actable']",Correct,byte_level_bpe,True
+162,abactinal,ab,cl100k_base,"['ab', 'act', 'inal']",Correct,byte_level_bpe,True
+172,inactive,in,cl100k_base,['inactive'],Not segmented,byte_level_bpe,True
+182,unadaptable,un,cl100k_base,"['un', 'ad', 'ap', 'table']",Correct,byte_level_bpe,True
+192,unaddicted,un,cl100k_base,"['un', 'add', 'icted']",Correct,byte_level_bpe,True
+202,nonaddictive,non,cl100k_base,"['non', 'add', 'ict', 'ive']",Correct,byte_level_bpe,True
+212,unaddressed,un,cl100k_base,"['un', 'address', 'ed']",Correct,byte_level_bpe,True
+222,inadequate,in,cl100k_base,"['in', 'ade', 'quate']",Correct,byte_level_bpe,True
+232,nonadhesive,non,cl100k_base,"['non', 'ad', 'hesive']",Correct,byte_level_bpe,True
+242,maladjusted,mal,cl100k_base,"['mal', 'adjusted']",Correct,byte_level_bpe,True
+252,unadjusted,un,cl100k_base,"['un', 'adjusted']",Correct,byte_level_bpe,True
+262,inadmissible,in,cl100k_base,"['in', 'ad', 'missible']",Correct,byte_level_bpe,True
+272,unadoptable,un,cl100k_base,"['un', 'adopt', 'able']",Correct,byte_level_bpe,True
+282,unadorned,un,cl100k_base,"['un', 'ad', 'orn', 'ed']",Correct,byte_level_bpe,True
+292,maladroit,mal,cl100k_base,"['mal', 'ad', 'roit']",Correct,byte_level_bpe,True
+302,nonadsorbent,non,cl100k_base,"['non', 'ads', 'orb', 'ent']",Correct,byte_level_bpe,True
+312,disadvantageous,dis,cl100k_base,"['dis', 'adv', 'antage', 'ous']",Correct,byte_level_bpe,True
+322,unadventurous,un,cl100k_base,"['un', 'ad', 'vent', 'urous']",Correct,byte_level_bpe,True
+332,inadvisable,in,cl100k_base,"['in', 'ad', 'vis', 'able']",Correct,byte_level_bpe,True
+342,inaesthetic,in,cl100k_base,"['ina', 'esthetic']",Incorrect,byte_level_bpe,True
+352,unaffected,un,cl100k_base,"['un', 'affected']",Correct,byte_level_bpe,True
+362,unaffixed,un,cl100k_base,"['un', 'aff', 'ixed']",Correct,byte_level_bpe,True
+372,unafraid,un,cl100k_base,"['un', 'af', 'raid']",Correct,byte_level_bpe,True
+382,unaggressive,un,cl100k_base,"['un', 'ag', 'gressive']",Correct,byte_level_bpe,True
+392,unagitated,un,cl100k_base,"['un', 'ag', 'itated']",Correct,byte_level_bpe,True
+402,disagreeable,dis,cl100k_base,"['dis', 'agree', 'able']",Correct,byte_level_bpe,True
+412,unairworthy,un,cl100k_base,"['un', 'air', 'worthy']",Correct,byte_level_bpe,True
+422,unalarming,un,cl100k_base,"['unal', 'arming']",Incorrect,byte_level_bpe,True
+432,nonalcoholic,non,cl100k_base,"['non', 'al', 'coholic']",Correct,byte_level_bpe,True
+442,unalert,un,cl100k_base,"['un', 'alert']",Correct,byte_level_bpe,True
+452,inalienable,in,cl100k_base,"['inal', 'ien', 'able']",Incorrect,byte_level_bpe,True
+462,nonaligned,non,cl100k_base,"['non', 'aligned']",Correct,byte_level_bpe,True
+472,unalike,un,cl100k_base,"['unal', 'ike']",Incorrect,byte_level_bpe,True
+482,analphabetic,an,cl100k_base,"['an', 'alph', 'abetic']",Correct,byte_level_bpe,True
+492,unalterable,un,cl100k_base,"['unal', 'ter', 'able']",Incorrect,byte_level_bpe,True
+502,unaltered,un,cl100k_base,"['unal', 'tered']",Incorrect,byte_level_bpe,True
+512,unambiguous,un,cl100k_base,"['un', 'ambiguous']",Correct,byte_level_bpe,True
+522,unambitious,un,cl100k_base,"['un', 'amb', 'itious']",Correct,byte_level_bpe,True
+532,unamended,un,cl100k_base,"['un', 'am', 'ended']",Correct,byte_level_bpe,True
+542,unanalyzed,un,cl100k_base,"['un', 'analy', 'zed']",Correct,byte_level_bpe,True
+552,anastigmatic,un,cl100k_base,"['an', 'ast', 'igmatic']",Incorrect,byte_level_bpe,False
+562,unangry,un,cl100k_base,"['un', 'ang', 'ry']",Correct,byte_level_bpe,True
+572,inanimate,in,cl100k_base,"['in', 'animate']",Correct,byte_level_bpe,True
+582,unanimated,un,cl100k_base,"['un', 'animated']",Correct,byte_level_bpe,True
+592,anonymous,ab,cl100k_base,['anonymous'],Not segmented,byte_level_bpe,False
+602,anticlinal,anti,cl100k_base,"['antic', 'l', 'inal']",Incorrect,byte_level_bpe,False
+612,unapologetic,un,cl100k_base,"['un', 'ap', 'olo', 'getic']",Correct,byte_level_bpe,True
+622,unappealable,un,cl100k_base,"['un', 'appe', 'al', 'able']",Correct,byte_level_bpe,True
+632,unappealing,un,cl100k_base,"['un', 'appe', 'aling']",Correct,byte_level_bpe,True
+642,unappendaged,un,cl100k_base,"['un', 'append', 'aged']",Correct,byte_level_bpe,True
+652,unappetizing,un,cl100k_base,"['un', 'app', 'et', 'izing']",Correct,byte_level_bpe,True
+662,unapproachable,un,cl100k_base,"['un', 'appro', 'achable']",Correct,byte_level_bpe,True
+672,inappropriate,in,cl100k_base,"['in', 'appropriate']",Correct,byte_level_bpe,True
+682,nonarbitrable,non,cl100k_base,"['non', 'ar', 'bit', 'r', 'able']",Correct,byte_level_bpe,True
+692,nonarbitrary,non,cl100k_base,"['non', 'ar', 'bitrary']",Correct,byte_level_bpe,True
+702,nonarboreal,non,cl100k_base,"['non', 'arb', 'oreal']",Correct,byte_level_bpe,True
+712,unargumentative,un,cl100k_base,"['un', 'argument', 'ative']",Correct,byte_level_bpe,True
+722,armless,less,cl100k_base,"['arm', 'less']",Correct,byte_level_bpe,True
+732,unarmed,un,cl100k_base,"['un', 'armed']",Correct,byte_level_bpe,True
+742,unarmored,un,cl100k_base,"['un', 'arm', 'ored']",Correct,byte_level_bpe,True
+752,disarranged,dis,cl100k_base,"['dis', 'arr', 'anged']",Correct,byte_level_bpe,True
+762,subartesian,sub,cl100k_base,"['sub', 'art', 'esian']",Correct,byte_level_bpe,False
+772,artless,less,cl100k_base,"['art', 'less']",Correct,byte_level_bpe,True
+782,inarticulate,in,cl100k_base,"['in', 'artic', 'ulate']",Correct,byte_level_bpe,True
+792,unarticulated,un,cl100k_base,"['un', 'artic', 'ulated']",Correct,byte_level_bpe,True
+802,descending,de,cl100k_base,['descending'],Not segmented,byte_level_bpe,False
+812,unashamed,un,cl100k_base,"['un', 'ash', 'amed']",Correct,byte_level_bpe,True
+822,unassertive,un,cl100k_base,"['un', 'assert', 'ive']",Correct,byte_level_bpe,True
+832,unassigned,un,cl100k_base,"['un', 'assigned']",Correct,byte_level_bpe,True
+842,unassisted,un,cl100k_base,"['un', 'ass', 'isted']",Correct,byte_level_bpe,True
+852,nonassociative,non,cl100k_base,"['non', 'associ', 'ative']",Correct,byte_level_bpe,True
+862,nonastringent,non,cl100k_base,"['non', 'a', 'string', 'ent']",Correct,byte_level_bpe,True
+872,hypertrophied,hyper,cl100k_base,"['hyp', 'ert', 'roph', 'ied']",Incorrect,byte_level_bpe,False
+882,detachable,de,cl100k_base,"['detach', 'able']",Incorrect,byte_level_bpe,False
+892,detached,de,cl100k_base,"['det', 'ached']",Incorrect,byte_level_bpe,False
+902,unattached,un,cl100k_base,"['un', 'attached']",Correct,byte_level_bpe,True
+912,inattentive,in,cl100k_base,"['in', 'att', 'ent', 'ive']",Correct,byte_level_bpe,True
+922,unattractive,un,cl100k_base,"['un', 'at', 'tractive']",Correct,byte_level_bpe,True
+932,unattributable,un,cl100k_base,"['un', 'attrib', 'utable']",Correct,byte_level_bpe,True
+942,inaudible,in,cl100k_base,"['ina', 'ud', 'ible']",Incorrect,byte_level_bpe,True
+952,inauspicious,in,cl100k_base,"['ina', 'usp', 'icious']",Incorrect,byte_level_bpe,True
+962,unauthorized,un,cl100k_base,"['un', 'authorized']",Correct,byte_level_bpe,True
+972,unavailable,un,cl100k_base,"['un', 'available']",Correct,byte_level_bpe,True
+982,unavenged,un,cl100k_base,"['un', 'av', 'eng', 'ed']",Correct,byte_level_bpe,True
+992,unawakened,un,cl100k_base,"['un', 'aw', 'aken', 'ed']",Correct,byte_level_bpe,True
+1002,unaware,un,cl100k_base,"['un', 'aware']",Correct,byte_level_bpe,True
+1012,unawed,un,cl100k_base,"['un', 'aw', 'ed']",Correct,byte_level_bpe,True
+1022,awnless,less,cl100k_base,"['awn', 'less']",Correct,byte_level_bpe,True
+1032,backless,less,cl100k_base,"['back', 'less']",Correct,byte_level_bpe,True
+1042,unbalanced,un,cl100k_base,"['un', 'balanced']",Correct,byte_level_bpe,True
+1052,unbalconied,un,cl100k_base,"['un', 'bal', 'con', 'ied']",Correct,byte_level_bpe,True
+1062,unbanded,un,cl100k_base,"['un', 'b', 'anded']",Correct,byte_level_bpe,True
+1072,unbaptized,un,cl100k_base,"['un', 'b', 'apt', 'ized']",Correct,byte_level_bpe,True
+1082,unbarreled,un,cl100k_base,"['un', 'bar', 're', 'led']",Correct,byte_level_bpe,True
+1092,beakless,less,cl100k_base,"['be', 'ak', 'less']",Correct,byte_level_bpe,True
+1102,nonbearing,non,cl100k_base,"['non', 'bearing']",Correct,byte_level_bpe,True
+1112,bedless,less,cl100k_base,"['bed', 'less']",Correct,byte_level_bpe,True
+1122,bellyless,less,cl100k_base,"['bel', 'ly', 'less']",Correct,byte_level_bpe,True
+1132,unbelted,un,cl100k_base,"['un', 'belt', 'ed']",Correct,byte_level_bpe,True
+1142,unbeneficed,un,cl100k_base,"['un', 'benef', 'iced']",Correct,byte_level_bpe,True
+1152,maleficent,mal,cl100k_base,"['male', 'fic', 'ent']",Incorrect,byte_level_bpe,True
+1162,malign,mal,cl100k_base,"['m', 'align']",Incorrect,byte_level_bpe,True
+1172,malignant,mal,cl100k_base,"['m', 'align', 'ant']",Incorrect,byte_level_bpe,False
+1182,bibless,less,cl100k_base,"['bib', 'less']",Correct,byte_level_bpe,False
+1192,unicameral,un,cl100k_base,"['unic', 'am', 'eral']",Incorrect,byte_level_bpe,False
+1202,unimodal,un,cl100k_base,"['un', 'im', 'odal']",Correct,byte_level_bpe,False
+1212,unblemished,un,cl100k_base,"['un', 'blem', 'ished']",Correct,byte_level_bpe,True
+1222,unblended,un,cl100k_base,"['un', 'bl', 'ended']",Correct,byte_level_bpe,True
+1232,bloodless,less,cl100k_base,"['blood', 'less']",Correct,byte_level_bpe,True
+1242,unbodied,un,cl100k_base,"['un', 'b', 'odied']",Correct,byte_level_bpe,True
+1252,boneless,less,cl100k_base,"['bone', 'less']",Correct,byte_level_bpe,True
+1262,unbordered,un,cl100k_base,"['un', 'border', 'ed']",Correct,byte_level_bpe,True
+1272,unborn,un,cl100k_base,"['un', 'born']",Correct,byte_level_bpe,True
+1282,bottomless,less,cl100k_base,"['bottom', 'less']",Correct,byte_level_bpe,True
+1292,unbound,un,cl100k_base,"['un', 'bound']",Correct,byte_level_bpe,True
+1302,ebracteate,e,cl100k_base,"['e', 'br', 'act', 'e', 'ate']",Correct,byte_level_bpe,True
+1312,unbrainwashed,un,cl100k_base,"['un', 'brain', 'w', 'ashed']",Correct,byte_level_bpe,True
+1322,abranchiate,a,cl100k_base,"['abr', 'anch', 'iate']",Incorrect,byte_level_bpe,True
+1332,branchless,less,cl100k_base,"['branch', 'less']",Correct,byte_level_bpe,True
+1342,unbranded,un,cl100k_base,"['un', 'br', 'anded']",Correct,byte_level_bpe,True
+1352,unbreakable,un,cl100k_base,"['un', 'break', 'able']",Correct,byte_level_bpe,True
+1362,breastless,less,cl100k_base,"['bre', 'ast', 'less']",Correct,byte_level_bpe,True
+1372,breathless,less,cl100k_base,"['bre', 'ath', 'less']",Correct,byte_level_bpe,False
+1382,unbridgeable,un,cl100k_base,"['un', 'bridge', 'able']",Correct,byte_level_bpe,True
+1392,unbroken,un,cl100k_base,"['un', 'broken']",Correct,byte_level_bpe,True
+1402,unburdened,un,cl100k_base,"['un', 'bur', 'den', 'ed']",Correct,byte_level_bpe,True
+1412,unburied,un,cl100k_base,"['un', 'bur', 'ied']",Correct,byte_level_bpe,True
+1422,unbuttoned,un,cl100k_base,"['un', 'button', 'ed']",Correct,byte_level_bpe,True
+1432,discalced,dis,cl100k_base,"['d', 'iscal', 'ced']",Incorrect,byte_level_bpe,False
+1442,incalculable,in,cl100k_base,"['inc', 'al', 'cul', 'able']",Incorrect,byte_level_bpe,False
+1452,uncamphorated,un,cl100k_base,"['unc', 'am', 'ph', 'or', 'ated']",Incorrect,byte_level_bpe,True
+1462,incapable,in,cl100k_base,"['inc', 'ap', 'able']",Incorrect,byte_level_bpe,True
+1472,uncared-for,un,cl100k_base,"['unc', 'ared', '-for']",Incorrect,byte_level_bpe,True
+1482,careless,less,cl100k_base,"['care', 'less']",Correct,byte_level_bpe,True
+1492,acarpelous,a,cl100k_base,"['ac', 'arp', 'el', 'ous']",Incorrect,byte_level_bpe,True
+1502,uncarpeted,un,cl100k_base,"['unc', 'ar', 'pet', 'ed']",Incorrect,byte_level_bpe,True
+1512,uncarved,un,cl100k_base,"['unc', 'ar', 'ved']",Incorrect,byte_level_bpe,True
+1522,uncastrated,un,cl100k_base,"['un', 'ca', 'str', 'ated']",Correct,byte_level_bpe,True
+1532,hypercatalectic,hyper,cl100k_base,"['hy', 'perc', 'ata', 'lectic']",Incorrect,byte_level_bpe,False
+1542,syncategorematic,syn,cl100k_base,"['sync', 'ateg', 'orem', 'atic']",Incorrect,byte_level_bpe,False
+1552,acaulescent,a,cl100k_base,"['aca', 'ules', 'cent']",Incorrect,byte_level_bpe,True
+1562,uncaulked,un,cl100k_base,"['un', 'ca', 'ulk', 'ed']",Correct,byte_level_bpe,True
+1572,noncausative,non,cl100k_base,"['non', 'ca', 'us', 'ative']",Correct,byte_level_bpe,True
+1582,incautious,in,cl100k_base,"['in', 'ca', 'ut', 'ious']",Correct,byte_level_bpe,True
+1592,noncellular,non,cl100k_base,"['non', 'cell', 'ular']",Correct,byte_level_bpe,True
+1602,uncensored,un,cl100k_base,"['unc', 'ensored']",Incorrect,byte_level_bpe,True
+1612,decentralized,de,cl100k_base,"['de', 'central', 'ized']",Correct,byte_level_bpe,False
+1622,decentralizing,de,cl100k_base,"['de', 'central', 'izing']",Correct,byte_level_bpe,False
+1632,uncertain,un,cl100k_base,"['unc', 'ertain']",Incorrect,byte_level_bpe,False
+1642,uncertified,un,cl100k_base,"['unc', 'ert', 'ified']",Incorrect,byte_level_bpe,True
+1652,unchangeable,un,cl100k_base,"['unch', 'ange', 'able']",Incorrect,byte_level_bpe,True
+1662,unchanged,un,cl100k_base,"['unch', 'anged']",Incorrect,byte_level_bpe,False
+1672,uncharacteristic,un,cl100k_base,"['un', 'character', 'istic']",Correct,byte_level_bpe,True
+1682,uncharged,un,cl100k_base,"['unch', 'arged']",Incorrect,byte_level_bpe,True
+1692,uncharitable,un,cl100k_base,"['un', 'char', 'itable']",Correct,byte_level_bpe,True
+1702,unchartered,un,cl100k_base,"['un', 'char', 'tered']",Correct,byte_level_bpe,True
+1712,unchaste,un,cl100k_base,"['unch', 'aste']",Incorrect,byte_level_bpe,True
+1722,anticholinergic,anti,cl100k_base,"['ant', 'ich', 'olin', 'ergic']",Incorrect,byte_level_bpe,False
+1732,achondritic,a,cl100k_base,"['ach', 'ond', 'ritic']",Incorrect,byte_level_bpe,False
+1742,unchristian,un,cl100k_base,"['unch', 'rist', 'ian']",Incorrect,byte_level_bpe,True
+1752,achromatic,a,cl100k_base,"['ach', 'romatic']",Incorrect,byte_level_bpe,True
+1762,achromatinic,a,cl100k_base,"['ach', 'rom', 'atin', 'ic']",Incorrect,byte_level_bpe,False
+1772,tramontane,tra,cl100k_base,"['tram', 'ont', 'ane']",Incorrect,byte_level_bpe,False
+1782,uncivil,un,cl100k_base,"['unc', 'ivil']",Incorrect,byte_level_bpe,True
+1792,noncivilized,non,cl100k_base,"['non', 'civil', 'ized']",Correct,byte_level_bpe,True
+1802,nonclassical,non,cl100k_base,"['non', 'class', 'ical']",Correct,byte_level_bpe,True
+1812,unclassified,un,cl100k_base,"['un', 'classified']",Correct,byte_level_bpe,True
+1822,unclean,un,cl100k_base,"['unc', 'lean']",Incorrect,byte_level_bpe,True
+1832,unclear,un,cl100k_base,"['unc', 'lear']",Incorrect,byte_level_bpe,True
+1842,uncleared,un,cl100k_base,"['unc', 'leared']",Incorrect,byte_level_bpe,True
+1852,inclement,in,cl100k_base,"['inc', 'lement']",Incorrect,byte_level_bpe,True
+1862,anticlimactic,anti,cl100k_base,"['antic', 'lim', 'actic']",Incorrect,byte_level_bpe,True
+1872,unclothed,un,cl100k_base,"['unc', 'loth', 'ed']",Incorrect,byte_level_bpe,True
+1882,inland,in,cl100k_base,"['in', 'land']",Correct,byte_level_bpe,False
+1892,uncoated,un,cl100k_base,"['un', 'co', 'ated']",Correct,byte_level_bpe,True
+1902,incoherent,in,cl100k_base,"['in', 'co', 'herent']",Correct,byte_level_bpe,True
+1912,uncoiled,un,cl100k_base,"['un', 'co', 'iled']",Correct,byte_level_bpe,False
+1922,noncollapsible,non,cl100k_base,"['non', 'coll', 'apsible']",Correct,byte_level_bpe,True
+1932,uncollected,un,cl100k_base,"['unc', 'ol', 'lected']",Incorrect,byte_level_bpe,True
+1942,distributive,dis,cl100k_base,"['d', 'istrib', 'utive']",Incorrect,byte_level_bpe,False
+1952,uncolored,un,cl100k_base,"['unc', 'ol', 'ored']",Incorrect,byte_level_bpe,True
+1962,colorless,less,cl100k_base,"['color', 'less']",Correct,byte_level_bpe,True
+1972,colourless,less,cl100k_base,"['colour', 'less']",Correct,byte_level_bpe,True
+1982,noncolumned,non,cl100k_base,"['non', 'column', 'ed']",Correct,byte_level_bpe,True
+1992,uncombed,un,cl100k_base,"['un', 'com', 'bed']",Correct,byte_level_bpe,True
+2002,noncombinative,non,cl100k_base,"['non', 'com', 'bin', 'ative']",Correct,byte_level_bpe,True
+2012,uncombined,un,cl100k_base,"['un', 'combined']",Correct,byte_level_bpe,True
+2022,noncombustible,non,cl100k_base,"['non', 'comb', 'ust', 'ible']",Correct,byte_level_bpe,True
+2032,uncomfortable,un,cl100k_base,"['un', 'comfort', 'able']",Correct,byte_level_bpe,True
+2042,incommensurate,in,cl100k_base,"['in', 'comm', 'ens', 'urate']",Correct,byte_level_bpe,True
+2052,noncommercial,non,cl100k_base,"['non', 'commercial']",Correct,byte_level_bpe,True
+2062,noncommissioned,non,cl100k_base,"['non', 'commission', 'ed']",Correct,byte_level_bpe,True
+2072,uncommitted,un,cl100k_base,"['un', 'committed']",Correct,byte_level_bpe,True
+2082,incommodious,in,cl100k_base,"['in', 'com', 'mod', 'ious']",Correct,byte_level_bpe,True
+2092,uncommon,un,cl100k_base,"['un', 'common']",Correct,byte_level_bpe,True
+2102,uncommunicative,un,cl100k_base,"['un', 'communic', 'ative']",Correct,byte_level_bpe,True
+2112,incommutable,in,cl100k_base,"['in', 'comm', 'utable']",Correct,byte_level_bpe,True
+2122,incomparable,in,cl100k_base,"['in', 'com', 'parable']",Correct,byte_level_bpe,True
+2132,uncompartmented,un,cl100k_base,"['un', 'comp', 'artment', 'ed']",Correct,byte_level_bpe,True
+2142,uncompassionate,un,cl100k_base,"['un', 'compass', 'ionate']",Correct,byte_level_bpe,True
+2152,incompatible,in,cl100k_base,"['in', 'compatible']",Correct,byte_level_bpe,True
+2162,incompetent,in,cl100k_base,"['in', 'compet', 'ent']",Correct,byte_level_bpe,True
+2172,noncompetitive,non,cl100k_base,"['non', 'competitive']",Correct,byte_level_bpe,True
+2182,uncomplaining,un,cl100k_base,"['un', 'com', 'pl', 'aining']",Correct,byte_level_bpe,True
+2192,incomplete,in,cl100k_base,"['in', 'complete']",Correct,byte_level_bpe,True
+2202,uncomplimentary,un,cl100k_base,"['un', 'com', 'pl', 'imentary']",Correct,byte_level_bpe,True
+2212,discomposed,dis,cl100k_base,"['dis', 'composed']",Correct,byte_level_bpe,True
+2222,incomprehensible,in,cl100k_base,"['in', 'com', 'preh', 'ensible']",Correct,byte_level_bpe,True
+2232,noncomprehensive,non,cl100k_base,"['non', 'com', 'prehensive']",Correct,byte_level_bpe,True
+2242,incompressible,in,cl100k_base,"['in', 'compress', 'ible']",Correct,byte_level_bpe,True
+2252,unconcealed,un,cl100k_base,"['un', 'con', 'ce', 'aled']",Correct,byte_level_bpe,True
+2262,revealing,re,cl100k_base,"['reve', 'aling']",Incorrect,byte_level_bpe,False
+2272,distributed,dis,cl100k_base,['distributed'],Not segmented,byte_level_bpe,False
+2282,unconcerned,un,cl100k_base,"['un', 'con', 'cern', 'ed']",Correct,byte_level_bpe,True
+2292,inconclusive,in,cl100k_base,"['in', 'con', 'clusive']",Correct,byte_level_bpe,True
+2302,unconditional,un,cl100k_base,"['un', 'conditional']",Correct,byte_level_bpe,False
+2312,unconditioned,un,cl100k_base,"['un', 'condition', 'ed']",Correct,byte_level_bpe,True
+2322,nonconductive,non,cl100k_base,"['non', 'con', 'ductive']",Correct,byte_level_bpe,True
+2332,confident,dis,cl100k_base,"['conf', 'ident']",Incorrect,byte_level_bpe,False
+2342,unconfined,un,cl100k_base,"['un', 'conf', 'ined']",Correct,byte_level_bpe,True
+2352,unconfirmed,un,cl100k_base,"['un', 'confirmed']",Correct,byte_level_bpe,True
+2362,uncongenial,un,cl100k_base,"['un', 'con', 'gen', 'ial']",Correct,byte_level_bpe,True
+2372,incongruent,in,cl100k_base,"['in', 'con', 'gr', 'uent']",Correct,byte_level_bpe,True
+2382,incongruous,in,cl100k_base,"['in', 'con', 'gr', 'uous']",Correct,byte_level_bpe,False
+2392,disjunct,dis,cl100k_base,"['dis', 'j', 'unct']",Correct,byte_level_bpe,False
+2402,disjunctive,dis,cl100k_base,"['dis', 'j', 'unct', 'ive']",Correct,byte_level_bpe,False
+2412,unconnected,un,cl100k_base,"['un', 'connected']",Correct,byte_level_bpe,True
+2422,unconquerable,un,cl100k_base,"['un', 'con', 'quer', 'able']",Correct,byte_level_bpe,True
+2432,unconscientious,un,cl100k_base,"['un', 'con', 'scient', 'ious']",Correct,byte_level_bpe,True
+2442,unconscious,un,cl100k_base,"['un', 'conscious']",Correct,byte_level_bpe,True
+2452,desecrated,de,cl100k_base,"['des', 'ec', 'rated']",Incorrect,byte_level_bpe,False
+2462,inconsiderable,in,cl100k_base,"['in', 'consider', 'able']",Correct,byte_level_bpe,True
+2472,inconsiderate,in,cl100k_base,"['in', 'consider', 'ate']",Correct,byte_level_bpe,True
+2482,inconsistent,in,cl100k_base,"['in', 'consistent']",Correct,byte_level_bpe,True
+2492,inconsolable,in,cl100k_base,"['in', 'cons', 'ol', 'able']",Correct,byte_level_bpe,True
+2502,inconspicuous,in,cl100k_base,"['in', 'con', 'sp', 'ic', 'uous']",Correct,byte_level_bpe,True
+2512,inconstant,in,cl100k_base,"['in', 'constant']",Correct,byte_level_bpe,True
+2522,unconstipated,un,cl100k_base,"['un', 'const', 'ipated']",Correct,byte_level_bpe,True
+2532,unconstitutional,un,cl100k_base,"['un', 'constitutional']",Correct,byte_level_bpe,True
+2542,unconstricted,un,cl100k_base,"['un', 'con', 'stricted']",Correct,byte_level_bpe,True
+2552,destructive,de,cl100k_base,"['destruct', 'ive']",Incorrect,byte_level_bpe,False
+2562,unconsummated,un,cl100k_base,"['un', 'consum', 'm', 'ated']",Correct,byte_level_bpe,True
+2572,uncontaminated,un,cl100k_base,"['un', 'cont', 'amin', 'ated']",Correct,byte_level_bpe,True
+2582,discontented,dis,cl100k_base,"['dis', 'content', 'ed']",Correct,byte_level_bpe,True
+2592,incontestable,in,cl100k_base,"['in', 'contest', 'able']",Correct,byte_level_bpe,False
+2602,uncontested,un,cl100k_base,"['un', 'cont', 'ested']",Correct,byte_level_bpe,True
+2612,incontinent,in,cl100k_base,"['in', 'continent']",Correct,byte_level_bpe,True
+2622,discontinued,dis,cl100k_base,"['dis', 'continued']",Correct,byte_level_bpe,True
+2632,discontinuous,dis,cl100k_base,"['dis', 'continuous']",Correct,byte_level_bpe,True
+2642,uncontrolled,un,cl100k_base,"['un', 'controlled']",Correct,byte_level_bpe,True
+2652,uncontroversial,un,cl100k_base,"['un', 'cont', 'rovers', 'ial']",Correct,byte_level_bpe,True
+2662,inconvenient,in,cl100k_base,"['in', 'con', 'venient']",Correct,byte_level_bpe,True
+2672,unconventional,un,cl100k_base,"['un', 'con', 'ventional']",Correct,byte_level_bpe,True
+2682,divergent,di,cl100k_base,"['div', 'erg', 'ent']",Incorrect,byte_level_bpe,False
+2692,inconvertible,in,cl100k_base,"['in', 'convert', 'ible']",Correct,byte_level_bpe,True
+2702,unconvinced,un,cl100k_base,"['un', 'con', 'vin', 'ced']",Correct,byte_level_bpe,True
+2712,unconvincing,un,cl100k_base,"['un', 'conv', 'inc', 'ing']",Correct,byte_level_bpe,True
+2722,uncooperative,un,cl100k_base,"['un', 'co', 'operative']",Correct,byte_level_bpe,True
+2732,incorporeal,in,cl100k_base,"['inc', 'orp', 'oreal']",Incorrect,byte_level_bpe,True
+2742,incorrect,in,cl100k_base,['incorrect'],Not segmented,byte_level_bpe,True
+2752,uncorrected,un,cl100k_base,"['unc', 'orrect', 'ed']",Incorrect,byte_level_bpe,True
+2762,incorrigible,in,cl100k_base,"['inc', 'or', 'rig', 'ible']",Incorrect,byte_level_bpe,True
+2772,incorrupt,in,cl100k_base,"['inc', 'or', 'rupt']",Incorrect,byte_level_bpe,True
+2782,counterclockwise,counter,cl100k_base,"['count', 'erc', 'lock', 'wise']",Incorrect,byte_level_bpe,False
+2792,discourteous,dis,cl100k_base,"['disc', 'our', 'te', 'ous']",Incorrect,byte_level_bpe,True
+2802,uncousinly,un,cl100k_base,"['unc', 'ous', 'in', 'ly']",Incorrect,byte_level_bpe,False
+2812,uncrannied,un,cl100k_base,"['unc', 'r', 'ann', 'ied']",Incorrect,byte_level_bpe,True
+2822,uncreative,un,cl100k_base,"['un', 'creative']",Correct,byte_level_bpe,True
+2832,incredible,in,cl100k_base,"['in', 'credible']",Correct,byte_level_bpe,False
+2842,incredulous,in,cl100k_base,"['in', 'cred', 'ulous']",Correct,byte_level_bpe,True
+2852,noncritical,non,cl100k_base,"['non', 'critical']",Correct,byte_level_bpe,True
+2862,uncritical,un,cl100k_base,"['unc', 'ritical']",Incorrect,byte_level_bpe,True
+2872,uncrossed,un,cl100k_base,"['unc', 'ross', 'ed']",Incorrect,byte_level_bpe,True
+2882,uncrowded,un,cl100k_base,"['unc', 'row', 'ded']",Incorrect,byte_level_bpe,True
+2892,uncrowned,un,cl100k_base,"['unc', 'rowned']",Incorrect,byte_level_bpe,True
+2902,noncrucial,non,cl100k_base,"['non', 'cr', 'uc', 'ial']",Correct,byte_level_bpe,True
+2912,noncrystalline,non,cl100k_base,"['non', 'cr', 'yst', 'all', 'ine']",Correct,byte_level_bpe,True
+2922,uncrystallized,un,cl100k_base,"['unc', 'r', 'yst', 'all', 'ized']",Incorrect,byte_level_bpe,True
+2932,uncultivated,un,cl100k_base,"['unc', 'ult', 'ivated']",Incorrect,byte_level_bpe,True
+2942,incurable,in,cl100k_base,"['in', 'cur', 'able']",Correct,byte_level_bpe,True
+2952,incurious,in,cl100k_base,"['in', 'cur', 'ious']",Correct,byte_level_bpe,True
+2962,noncurrent,non,cl100k_base,"['non', 'current']",Correct,byte_level_bpe,True
+2972,uncut,un,cl100k_base,"['unc', 'ut']",Incorrect,byte_level_bpe,True
+2982,acyclic,a,cl100k_base,"['acy', 'c', 'lic']",Incorrect,byte_level_bpe,True
+2992,noncyclic,non,cl100k_base,"['non', 'c', 'yclic']",Correct,byte_level_bpe,True
+3002,undamaged,un,cl100k_base,"['und', 'amaged']",Incorrect,byte_level_bpe,True
+3012,undatable,un,cl100k_base,"['und', 'atable']",Incorrect,byte_level_bpe,True
+3022,indecent,in,cl100k_base,"['inde', 'cent']",Incorrect,byte_level_bpe,True
+3032,undeciphered,un,cl100k_base,"['und', 'ec', 'ipher', 'ed']",Incorrect,byte_level_bpe,True
+3042,indecisive,in,cl100k_base,"['in', 'dec', 'is', 'ive']",Correct,byte_level_bpe,False
+3052,undeclared,un,cl100k_base,"['unde', 'clared']",Incorrect,byte_level_bpe,True
+3062,indecorous,in,cl100k_base,"['inde', 'cor', 'ous']",Incorrect,byte_level_bpe,True
+3072,undedicated,un,cl100k_base,"['unded', 'icated']",Incorrect,byte_level_bpe,True
+3082,nondeductible,non,cl100k_base,"['n', 'ond', 'educt', 'ible']",Incorrect,byte_level_bpe,True
+3092,indefeasible,in,cl100k_base,"['in', 'def', 'e', 'as', 'ible']",Correct,byte_level_bpe,True
+3102,undefeated,un,cl100k_base,"['undef', 'eated']",Incorrect,byte_level_bpe,True
+3112,undefined,un,cl100k_base,['undefined'],Not segmented,byte_level_bpe,False
+3122,indefinite,in,cl100k_base,"['in', 'def', 'inite']",Correct,byte_level_bpe,True
+3132,indehiscent,in,cl100k_base,"['inde', 'his', 'cent']",Incorrect,byte_level_bpe,True
+3142,dejected,de,cl100k_base,"['de', 'jected']",Correct,byte_level_bpe,False
+3152,undelineated,un,cl100k_base,"['und', 'eline', 'ated']",Incorrect,byte_level_bpe,True
+3162,undemanding,un,cl100k_base,"['und', 'emand', 'ing']",Incorrect,byte_level_bpe,True
+3172,undemocratic,un,cl100k_base,"['und', 'em', 'ocratic']",Incorrect,byte_level_bpe,True
+3182,undemonstrative,un,cl100k_base,"['und', 'emon', 'str', 'ative']",Incorrect,byte_level_bpe,True
+3192,undeniable,un,cl100k_base,"['unden', 'iable']",Incorrect,byte_level_bpe,True
+3202,undependable,un,cl100k_base,"['und', 'epend', 'able']",Incorrect,byte_level_bpe,True
+3212,independent,in,cl100k_base,"['in', 'dependent']",Correct,byte_level_bpe,False
+3222,underived,un,cl100k_base,"['under', 'ived']",Incorrect,byte_level_bpe,True
+3232,undescriptive,un,cl100k_base,"['und', 'es', 'criptive']",Incorrect,byte_level_bpe,True
+3242,undesigned,un,cl100k_base,"['und', 'es', 'igned']",Incorrect,byte_level_bpe,True
+3252,undesirable,un,cl100k_base,"['und', 'es', 'irable']",Incorrect,byte_level_bpe,True
+3262,undesirous,un,cl100k_base,"['und', 'es', 'ir', 'ous']",Incorrect,byte_level_bpe,True
+3272,indestructible,in,cl100k_base,"['inde', 'struct', 'ible']",Incorrect,byte_level_bpe,True
+3282,undetected,un,cl100k_base,"['und', 'et', 'ected']",Incorrect,byte_level_bpe,True
+3292,indeterminable,in,cl100k_base,"['ind', 'etermin', 'able']",Incorrect,byte_level_bpe,True
+3302,indeterminate,in,cl100k_base,"['ind', 'eterminate']",Incorrect,byte_level_bpe,False
+3312,undetermined,un,cl100k_base,"['und', 'etermined']",Incorrect,byte_level_bpe,True
+3322,undeveloped,un,cl100k_base,"['unde', 'velop', 'ed']",Incorrect,byte_level_bpe,True
+3332,adiabatic,a,cl100k_base,"['adi', 'ab', 'atic']",Incorrect,byte_level_bpe,False
+3342,undifferentiated,un,cl100k_base,"['und', 'ifferent', 'iated']",Incorrect,byte_level_bpe,True
+3352,indigestible,in,cl100k_base,"['ind', 'igest', 'ible']",Incorrect,byte_level_bpe,True
+3362,undignified,un,cl100k_base,"['und', 'ign', 'ified']",Incorrect,byte_level_bpe,True
+3372,undiluted,un,cl100k_base,"['und', 'il', 'uted']",Incorrect,byte_level_bpe,True
+3382,undimmed,un,cl100k_base,"['und', 'im', 'med']",Incorrect,byte_level_bpe,True
+3392,undiplomatic,un,cl100k_base,"['und', 'ipl', 'omatic']",Incorrect,byte_level_bpe,True
+3402,indirect,in,cl100k_base,"['ind', 'irect']",Incorrect,byte_level_bpe,True
+3412,indiscernible,in,cl100k_base,"['ind', 'isc', 'ern', 'ible']",Incorrect,byte_level_bpe,True
+3422,undiscerning,un,cl100k_base,"['und', 'isc', 'ern', 'ing']",Incorrect,byte_level_bpe,True
+3432,indiscreet,in,cl100k_base,"['ind', 'is', 'cre', 'et']",Incorrect,byte_level_bpe,True
+3442,indiscriminate,in,cl100k_base,"['ind', 'iscrim', 'inate']",Incorrect,byte_level_bpe,True
+3452,undiscriminating,un,cl100k_base,"['und', 'iscrim', 'inating']",Incorrect,byte_level_bpe,True
+3462,indispensable,in,cl100k_base,"['ind', 'ispens', 'able']",Incorrect,byte_level_bpe,False
+3472,nondisposable,non,cl100k_base,"['n', 'ond', 'isposable']",Incorrect,byte_level_bpe,True
+3482,indistinct,in,cl100k_base,"['ind', 'ist', 'inct']",Incorrect,byte_level_bpe,True
+3492,indistinguishable,in,cl100k_base,"['ind', 'istinguish', 'able']",Incorrect,byte_level_bpe,True
+3502,undiversified,un,cl100k_base,"['und', 'ivers', 'ified']",Incorrect,byte_level_bpe,True
+3512,indivisible,in,cl100k_base,"['ind', 'iv', 'isible']",Incorrect,byte_level_bpe,True
+3522,undocumented,un,cl100k_base,"['und', 'ocumented']",Incorrect,byte_level_bpe,True
+3532,undomestic,un,cl100k_base,"['und', 'om', 'estic']",Incorrect,byte_level_bpe,True
+3542,downstairs,down,cl100k_base,"['down', 'stairs']",Correct,byte_level_bpe,False
+3552,undrained,un,cl100k_base,"['und', 'r', 'ained']",Incorrect,byte_level_bpe,True
+3562,undramatic,un,cl100k_base,"['und', 'ram', 'atic']",Incorrect,byte_level_bpe,True
+3572,undrinkable,un,cl100k_base,"['und', 'rink', 'able']",Incorrect,byte_level_bpe,True
+3582,undue,un,cl100k_base,"['und', 'ue']",Incorrect,byte_level_bpe,True
+3592,undynamic,un,cl100k_base,"['und', 'ynamic']",Incorrect,byte_level_bpe,True
+3602,uneager,un,cl100k_base,"['une', 'ager']",Incorrect,byte_level_bpe,True
+3612,earless,less,cl100k_base,"['ear', 'less']",Correct,byte_level_bpe,True
+3622,unearned,un,cl100k_base,"['un', 'earned']",Correct,byte_level_bpe,True
+3632,uneasy,un,cl100k_base,"['une', 'asy']",Incorrect,byte_level_bpe,True
+3642,nonechoic,non,cl100k_base,"['none', 'cho', 'ic']",Incorrect,byte_level_bpe,True
+3652,inedible,in,cl100k_base,"['ined', 'ible']",Incorrect,byte_level_bpe,True
+3662,unedifying,un,cl100k_base,"['uned', 'ifying']",Incorrect,byte_level_bpe,True
+3672,uneducated,un,cl100k_base,"['un', 'educated']",Correct,byte_level_bpe,True
+3682,ineffective,in,cl100k_base,"['ine', 'ffective']",Incorrect,byte_level_bpe,True
+3692,noneffervescent,non,cl100k_base,"['none', 'ff', 'erves', 'cent']",Incorrect,byte_level_bpe,True
+3702,inefficacious,in,cl100k_base,"['ine', 'ffic', 'acious']",Incorrect,byte_level_bpe,True
+3712,inefficient,in,cl100k_base,"['ine', 'ff', 'icient']",Incorrect,byte_level_bpe,True
+3722,effortless,less,cl100k_base,"['eff', 'ort', 'less']",Correct,byte_level_bpe,False
+3732,inelastic,in,cl100k_base,"['inel', 'astic']",Incorrect,byte_level_bpe,False
+3742,inelegant,in,cl100k_base,"['ine', 'legant']",Incorrect,byte_level_bpe,True
+3752,ineligible,in,cl100k_base,"['inel', 'ig', 'ible']",Incorrect,byte_level_bpe,True
+3762,unemotional,un,cl100k_base,"['un', 'em', 'otional']",Correct,byte_level_bpe,True
+3772,unemployable,un,cl100k_base,"['un', 'employ', 'able']",Correct,byte_level_bpe,True
+3782,unemployed,un,cl100k_base,"['un', 'employed']",Correct,byte_level_bpe,True
+3792,disabling,dis,cl100k_base,"['dis', 'abling']",Correct,byte_level_bpe,True
+3802,disenchanted,dis,cl100k_base,"['dis', 'ench', 'anted']",Correct,byte_level_bpe,True
+3812,unenclosed,un,cl100k_base,"['un', 'enc', 'losed']",Correct,byte_level_bpe,True
+3822,discouraging,dis,cl100k_base,"['disc', 'our', 'aging']",Incorrect,byte_level_bpe,False
+3832,unencumbered,un,cl100k_base,"['un', 'enc', 'umber', 'ed']",Correct,byte_level_bpe,True
+3842,unendowed,un,cl100k_base,"['un', 'end', 'owed']",Correct,byte_level_bpe,True
+3852,unenforceable,un,cl100k_base,"['un', 'en', 'force', 'able']",Correct,byte_level_bpe,True
+3862,unenforced,un,cl100k_base,"['un', 'en', 'forced']",Correct,byte_level_bpe,True
+3872,disenfranchised,dis,cl100k_base,"['dis', 'en', 'fr', 'anch', 'ised']",Correct,byte_level_bpe,True
+3882,unenlightened,un,cl100k_base,"['un', 'en', 'light', 'ened']",Correct,byte_level_bpe,True
+3892,unenlightening,un,cl100k_base,"['un', 'en', 'light', 'ening']",Correct,byte_level_bpe,True
+3902,unenlivened,un,cl100k_base,"['un', 'en', 'l', 'iven', 'ed']",Correct,byte_level_bpe,True
+3912,unenterprising,un,cl100k_base,"['un', 'enter', 'prising']",Correct,byte_level_bpe,True
+3922,unenthusiastic,un,cl100k_base,"['un', 'ent', 'hus', 'i', 'astic']",Correct,byte_level_bpe,True
+3932,unequal,un,cl100k_base,"['une', 'qual']",Incorrect,byte_level_bpe,True
+3942,unequipped,un,cl100k_base,"['une', 'qu', 'ipped']",Incorrect,byte_level_bpe,True
+3952,inequitable,in,cl100k_base,"['ine', 'qu', 'itable']",Incorrect,byte_level_bpe,True
+3962,unequivocal,un,cl100k_base,"['une', 'quiv', 'ocal']",Incorrect,byte_level_bpe,False
+3972,ineradicable,in,cl100k_base,"['iner', 'adic', 'able']",Incorrect,byte_level_bpe,True
+3982,unerect,un,cl100k_base,"['uner', 'ect']",Incorrect,byte_level_bpe,True
+3992,unestablished,un,cl100k_base,"['un', 'establish', 'ed']",Correct,byte_level_bpe,True
+4002,anestrous,an,cl100k_base,"['an', 'est', 'rous']",Correct,byte_level_bpe,True
+4012,unethical,un,cl100k_base,"['un', 'ethical']",Correct,byte_level_bpe,True
+4022,dysphemistic,dys,cl100k_base,"['d', 'ys', 'phem', 'istic']",Incorrect,byte_level_bpe,True
+4032,dysphoric,dys,cl100k_base,"['d', 'ys', 'ph', 'oric']",Incorrect,byte_level_bpe,True
+4042,uneven,un,cl100k_base,"['une', 'ven']",Incorrect,byte_level_bpe,True
+4052,uneventful,un,cl100k_base,"['une', 'vent', 'ful']",Incorrect,byte_level_bpe,True
+4062,inexact,in,cl100k_base,"['in', 'exact']",Correct,byte_level_bpe,True
+4072,unexchangeable,un,cl100k_base,"['un', 'exchange', 'able']",Correct,byte_level_bpe,True
+4082,unexcitable,un,cl100k_base,"['un', 'exc', 'itable']",Correct,byte_level_bpe,True
+4092,unexcited,un,cl100k_base,"['un', 'exc', 'ited']",Correct,byte_level_bpe,True
+4102,unexciting,un,cl100k_base,"['un', 'exc', 'iting']",Correct,byte_level_bpe,True
+4112,inculpatory,in,cl100k_base,"['inc', 'ul', 'pat', 'ory']",Incorrect,byte_level_bpe,False
+4122,inexcusable,in,cl100k_base,"['in', 'exc', 'usable']",Correct,byte_level_bpe,True
+4132,nonexempt,non,cl100k_base,"['non', 'ex', 'empt']",Correct,byte_level_bpe,True
+4142,unexhausted,un,cl100k_base,"['un', 'ex', 'haust', 'ed']",Correct,byte_level_bpe,True
+4152,inexhaustible,in,cl100k_base,"['in', 'ex', 'haust', 'ible']",Correct,byte_level_bpe,True
+4162,nonexistent,non,cl100k_base,"['non', 'existent']",Correct,byte_level_bpe,True
+4172,unexpansive,un,cl100k_base,"['un', 'exp', 'ans', 'ive']",Correct,byte_level_bpe,True
+4182,unexpected,un,cl100k_base,['unexpected'],Not segmented,byte_level_bpe,False
+4192,inexpedient,in,cl100k_base,"['in', 'exp', 'ed', 'ient']",Correct,byte_level_bpe,True
+4202,unexpendable,un,cl100k_base,"['un', 'ex', 'pend', 'able']",Correct,byte_level_bpe,True
+4212,inexperienced,in,cl100k_base,"['in', 'ex', 'perienced']",Correct,byte_level_bpe,True
+4222,unexpired,un,cl100k_base,"['un', 'expired']",Correct,byte_level_bpe,True
+4232,inexplicable,in,cl100k_base,"['in', 'exp', 'licable']",Correct,byte_level_bpe,True
+4242,implicit,im,cl100k_base,['implicit'],Not segmented,byte_level_bpe,False
+4252,unexploited,un,cl100k_base,"['un', 'explo', 'ited']",Correct,byte_level_bpe,True
+4262,nonexploratory,non,cl100k_base,"['non', 'expl', 'or', 'atory']",Correct,byte_level_bpe,True
+4272,nonexplosive,non,cl100k_base,"['non', 'exp', 'los', 'ive']",Correct,byte_level_bpe,True
+4282,unexportable,un,cl100k_base,"['un', 'export', 'able']",Correct,byte_level_bpe,True
+4292,inexpressible,in,cl100k_base,"['in', 'express', 'ible']",Correct,byte_level_bpe,True
+4302,unextended,un,cl100k_base,"['un', 'extended']",Correct,byte_level_bpe,True
+4312,nonextensile,non,cl100k_base,"['non', 'ext', 'ens', 'ile']",Correct,byte_level_bpe,True
+4322,inextinguishable,in,cl100k_base,"['in', 'ext', 'ingu', 'ish', 'able']",Correct,byte_level_bpe,True
+4332,inextricable,in,cl100k_base,"['in', 'extr', 'icable']",Correct,byte_level_bpe,True
+4342,unfaceted,un,cl100k_base,"['un', 'fac', 'eted']",Correct,byte_level_bpe,True
+4352,unfair,un,cl100k_base,"['un', 'fair']",Correct,byte_level_bpe,True
+4362,unfaithful,un,cl100k_base,"['un', 'faith', 'ful']",Correct,byte_level_bpe,True
+4372,infallible,in,cl100k_base,"['in', 'fall', 'ible']",Correct,byte_level_bpe,False
+4382,unfamiliar,un,cl100k_base,"['un', 'f', 'amiliar']",Correct,byte_level_bpe,True
+4392,unfashionable,un,cl100k_base,"['un', 'f', 'ashion', 'able']",Correct,byte_level_bpe,True
+4402,unfastened,un,cl100k_base,"['un', 'fast', 'ened']",Correct,byte_level_bpe,True
+4412,unfastidious,un,cl100k_base,"['un', 'fast', 'idious']",Correct,byte_level_bpe,True
+4422,nonfatal,non,cl100k_base,"['non', 'fatal']",Correct,byte_level_bpe,True
+4432,unfathomable,un,cl100k_base,"['un', 'f', 'athom', 'able']",Correct,byte_level_bpe,True
+4442,nonfat,non,cl100k_base,"['non', 'fat']",Correct,byte_level_bpe,True
+4452,unfavorable,un,cl100k_base,"['un', 'favor', 'able']",Correct,byte_level_bpe,True
+4462,unfeathered,un,cl100k_base,"['un', 'fe', 'ather', 'ed']",Correct,byte_level_bpe,True
+4472,infelicitous,in,cl100k_base,"['inf', 'el', 'icit', 'ous']",Incorrect,byte_level_bpe,True
+4482,fernless,less,cl100k_base,"['fern', 'less']",Correct,byte_level_bpe,True
+4492,nonfictional,non,cl100k_base,"['non', 'fiction', 'al']",Correct,byte_level_bpe,True
+4502,unfilled,un,cl100k_base,"['un', 'filled']",Correct,byte_level_bpe,True
+4512,nonfinancial,non,cl100k_base,"['non', 'financial']",Correct,byte_level_bpe,True
+4522,unfinished,un,cl100k_base,['unfinished'],Not segmented,byte_level_bpe,True
+4532,infinite,in,cl100k_base,"['in', 'finite']",Correct,byte_level_bpe,False
+4542,nonfissile,non,cl100k_base,"['non', 'f', 'iss', 'ile']",Correct,byte_level_bpe,True
+4552,nonfissionable,non,cl100k_base,"['non', 'f', 'ission', 'able']",Correct,byte_level_bpe,True
+4562,unfit,un,cl100k_base,"['un', 'fit']",Correct,byte_level_bpe,True
+4572,unfixed,un,cl100k_base,"['un', 'fixed']",Correct,byte_level_bpe,True
+4582,unflattering,un,cl100k_base,"['un', 'fl', 'attering']",Correct,byte_level_bpe,True
+4592,unfledged,un,cl100k_base,"['un', 'f', 'ledged']",Correct,byte_level_bpe,True
+4602,inflexible,in,cl100k_base,"['in', 'flex', 'ible']",Correct,byte_level_bpe,True
+4612,flowerless,less,cl100k_base,"['flower', 'less']",Correct,byte_level_bpe,True
+4622,unfocused,un,cl100k_base,"['un', 'focused']",Correct,byte_level_bpe,True
+4632,footless,less,cl100k_base,"['foot', 'less']",Correct,byte_level_bpe,True
+4642,forceless,less,cl100k_base,"['force', 'less']",Correct,byte_level_bpe,True
+4652,unforgettable,un,cl100k_base,"['un', 'forgettable']",Correct,byte_level_bpe,False
+4662,unforgiving,un,cl100k_base,"['un', 'forg', 'iving']",Correct,byte_level_bpe,True
+4672,informal,in,cl100k_base,"['inform', 'al']",Incorrect,byte_level_bpe,False
+4682,unformed,un,cl100k_base,"['un', 'formed']",Correct,byte_level_bpe,True
+4692,unfortunate,un,cl100k_base,"['un', 'fortunate']",Correct,byte_level_bpe,False
+4702,malodorous,mal,cl100k_base,"['mal', 'od', 'orous']",Correct,byte_level_bpe,True
+4712,unframed,un,cl100k_base,"['un', 'fr', 'amed']",Correct,byte_level_bpe,True
+4722,unfree,un,cl100k_base,"['un', 'free']",Correct,byte_level_bpe,True
+4732,infrequent,in,cl100k_base,"['inf', 'requent']",Incorrect,byte_level_bpe,True
+4742,unfretted,un,cl100k_base,"['un', 'f', 'ret', 'ted']",Correct,byte_level_bpe,True
+4752,unfriendly,un,cl100k_base,"['un', 'friendly']",Correct,byte_level_bpe,True
+4762,unfrozen,un,cl100k_base,"['un', 'f', 'rozen']",Correct,byte_level_bpe,True
+4772,unfruitful,un,cl100k_base,"['un', 'fruit', 'ful']",Correct,byte_level_bpe,True
+4782,unfueled,un,cl100k_base,"['un', 'f', 'ue', 'led']",Correct,byte_level_bpe,True
+4792,nonfunctional,non,cl100k_base,"['non', 'functional']",Correct,byte_level_bpe,True
+4802,malfunctioning,mal,cl100k_base,"['mal', 'function', 'ing']",Correct,byte_level_bpe,True
+4812,unfunded,un,cl100k_base,"['un', 'f', 'unded']",Correct,byte_level_bpe,True
+4822,unfurnished,un,cl100k_base,"['un', 'f', 'urnished']",Correct,byte_level_bpe,True
+4832,unfurrowed,un,cl100k_base,"['un', 'fur', 'row', 'ed']",Correct,byte_level_bpe,True
+4842,ungathered,un,cl100k_base,"['ung', 'ather', 'ed']",Incorrect,byte_level_bpe,True
+4852,ungeared,un,cl100k_base,"['unge', 'ared']",Incorrect,byte_level_bpe,True
+4862,ungenerous,un,cl100k_base,"['ung', 'ener', 'ous']",Incorrect,byte_level_bpe,True
+4872,germfree,free,cl100k_base,"['ger', 'm', 'free']",Correct,byte_level_bpe,True
+4882,unglazed,un,cl100k_base,"['ung', 'l', 'azed']",Incorrect,byte_level_bpe,True
+4892,inglorious,in,cl100k_base,"['ing', 'lor', 'ious']",Incorrect,byte_level_bpe,True
+4902,gloveless,less,cl100k_base,"['g', 'love', 'less']",Correct,byte_level_bpe,True
+4912,agnostic,a,cl100k_base,['agnostic'],Not segmented,byte_level_bpe,True
+4922,no-go,no,cl100k_base,"['no', '-go']",Correct,byte_level_bpe,True
+4932,ill-natured,ill,cl100k_base,"['ill', '-n', 'ature', 'd']",Correct,byte_level_bpe,True
+4942,ungracious,un,cl100k_base,"['un', 'gr', 'acious']",Correct,byte_level_bpe,True
+4952,ungrammatical,un,cl100k_base,"['un', 'gram', 'matic', 'al']",Correct,byte_level_bpe,True
+4962,grassless,less,cl100k_base,"['grass', 'less']",Correct,byte_level_bpe,True
+4972,ungrateful,un,cl100k_base,"['un', 'gr', 'ateful']",Correct,byte_level_bpe,True
+4982,ungregarious,un,cl100k_base,"['ung', 'regar', 'ious']",Incorrect,byte_level_bpe,True
+4992,ungroomed,un,cl100k_base,"['ung', 'room', 'ed']",Incorrect,byte_level_bpe,True
+5002,unguided,un,cl100k_base,"['ung', 'uid', 'ed']",Incorrect,byte_level_bpe,True
+5012,ungusseted,un,cl100k_base,"['ung', 'us', 'set', 'ed']",Incorrect,byte_level_bpe,False
+5022,gutless,less,cl100k_base,"['g', 'ut', 'less']",Correct,byte_level_bpe,True
+5032,handless,less,cl100k_base,"['hand', 'less']",Correct,byte_level_bpe,True
+5042,handleless,less,cl100k_base,"['handle', 'less']",Correct,byte_level_bpe,True
+5052,unhappy,un,cl100k_base,"['un', 'happy']",Correct,byte_level_bpe,True
+5062,harmless,less,cl100k_base,"['h', 'arm', 'less']",Correct,byte_level_bpe,True
+5072,nonharmonic,non,cl100k_base,"['non', 'har', 'monic']",Correct,byte_level_bpe,True
+5082,inharmonious,in,cl100k_base,"['in', 'har', 'mon', 'ious']",Correct,byte_level_bpe,True
+5092,hatless,less,cl100k_base,"['hat', 'less']",Correct,byte_level_bpe,True
+5102,headless,less,cl100k_base,"['head', 'less']",Correct,byte_level_bpe,True
+5112,unheaded,un,cl100k_base,"['un', 'headed']",Correct,byte_level_bpe,True
+5122,unhealthful,un,cl100k_base,"['un', 'health', 'ful']",Correct,byte_level_bpe,True
+5132,unhealthy,un,cl100k_base,"['un', 'healthy']",Correct,byte_level_bpe,True
+5142,heedless,less,cl100k_base,"['heed', 'less']",Correct,byte_level_bpe,True
+5152,unhelpful,un,cl100k_base,"['un', 'help', 'ful']",Correct,byte_level_bpe,True
+5162,nonhierarchical,non,cl100k_base,"['non', 'h', 'ierarchical']",Correct,byte_level_bpe,True
+5172,hipless,less,cl100k_base,"['hip', 'less']",Correct,byte_level_bpe,False
+5182,ahistorical,a,cl100k_base,"['ah', 'istorical']",Incorrect,byte_level_bpe,True
+5192,atomistic,a,cl100k_base,"['atom', 'istic']",Incorrect,byte_level_bpe,False
+5202,unholy,un,cl100k_base,"['un', 'h', 'oly']",Correct,byte_level_bpe,True
+5212,dishonest,dis,cl100k_base,"['dish', 'onest']",Incorrect,byte_level_bpe,True
+5222,dishonorable,dis,cl100k_base,"['dish', 'on', 'orable']",Incorrect,byte_level_bpe,True
+5232,hopeless,less,cl100k_base,"['hope', 'less']",Correct,byte_level_bpe,True
+5242,hornless,less,cl100k_base,"['horn', 'less']",Correct,byte_level_bpe,True
+5252,inhospitable,in,cl100k_base,"['inh', 'osp', 'itable']",Incorrect,byte_level_bpe,True
+5262,nonhuman,non,cl100k_base,"['non', 'human']",Correct,byte_level_bpe,True
+5272,inhumane,in,cl100k_base,"['inh', 'um', 'ane']",Incorrect,byte_level_bpe,True
+5282,humorless,less,cl100k_base,"['hum', 'or', 'less']",Correct,byte_level_bpe,True
+5292,unhurried,un,cl100k_base,"['un', 'h', 'ur', 'ried']",Correct,byte_level_bpe,True
+5302,anhydrous,an,cl100k_base,"['an', 'hy', 'd', 'rous']",Correct,byte_level_bpe,True
+5312,hypotensive,hypo,cl100k_base,"['hyp', 'ot', 'ensive']",Incorrect,byte_level_bpe,False
+5322,hypertensive,hyper,cl100k_base,"['hyp', 'ert', 'ensive']",Incorrect,byte_level_bpe,False
+5332,hypotonic,hypo,cl100k_base,"['hyp', 'ot', 'onic']",Incorrect,byte_level_bpe,False
+5342,unidentifiable,un,cl100k_base,"['un', 'ident', 'ifiable']",Correct,byte_level_bpe,True
+5352,nonimitative,non,cl100k_base,"['non', 'imit', 'ative']",Correct,byte_level_bpe,True
+5362,immediate,im,cl100k_base,"['im', 'mediate']",Correct,byte_level_bpe,False
+5372,unimpaired,un,cl100k_base,"['un', 'im', 'paired']",Correct,byte_level_bpe,True
+5382,unimportant,un,cl100k_base,"['un', 'important']",Correct,byte_level_bpe,True
+5392,unimpressionable,un,cl100k_base,"['un', 'im', 'pression', 'able']",Correct,byte_level_bpe,True
+5402,unimpressive,un,cl100k_base,"['un', 'im', 'pressive']",Correct,byte_level_bpe,True
+5412,unimproved,un,cl100k_base,"['un', 'im', 'proved']",Correct,byte_level_bpe,True
+5422,outboard,out,cl100k_base,"['out', 'board']",Correct,byte_level_bpe,False
+5432,disinclined,dis,cl100k_base,"['dis', 'incl', 'ined']",Correct,byte_level_bpe,True
+5442,outgoing,out,cl100k_base,"['out', 'going']",Correct,byte_level_bpe,False
+5452,decreased,de,cl100k_base,"['de', 'cre', 'ased']",Correct,byte_level_bpe,False
+5462,increasing,dis,cl100k_base,"['incre', 'asing']",Incorrect,byte_level_bpe,False
+5472,deductive,de,cl100k_base,"['ded', 'uctive']",Incorrect,byte_level_bpe,False
+5482,nonindulgent,non,cl100k_base,"['non', 'ind', 'ul', 'gent']",Correct,byte_level_bpe,True
+5492,nonindustrial,non,cl100k_base,"['non', 'ind', 'ustrial']",Correct,byte_level_bpe,True
+5502,inevitable,in,cl100k_base,"['ine', 'v', 'itable']",Incorrect,byte_level_bpe,False
+5512,noninfectious,non,cl100k_base,"['non', 'in', 'fect', 'ious']",Correct,byte_level_bpe,True
+5522,supernal,super,cl100k_base,"['sup', 'ernal']",Incorrect,byte_level_bpe,False
+5532,deflationary,de,cl100k_base,"['def', 'lation', 'ary']",Incorrect,byte_level_bpe,False
+5542,uninflected,un,cl100k_base,"['un', 'inf', 'lected']",Correct,byte_level_bpe,True
+5552,uninfluential,un,cl100k_base,"['un', 'in', 'flu', 'ential']",Correct,byte_level_bpe,True
+5562,uninformative,un,cl100k_base,"['un', 'inform', 'ative']",Correct,byte_level_bpe,True
+5572,uninformed,un,cl100k_base,"['un', 'in', 'formed']",Correct,byte_level_bpe,True
+5582,disingenuous,dis,cl100k_base,"['d', 'ising', 'enuous']",Incorrect,byte_level_bpe,True
+5592,uninhabited,un,cl100k_base,"['un', 'in', 'hab', 'ited']",Correct,byte_level_bpe,True
+5602,noninheritable,non,cl100k_base,"['non', 'inherit', 'able']",Correct,byte_level_bpe,True
+5612,uninhibited,un,cl100k_base,"['un', 'in', 'hibited']",Correct,byte_level_bpe,True
+5622,uninjectable,un,cl100k_base,"['un', 'inject', 'able']",Correct,byte_level_bpe,True
+5632,uninjured,un,cl100k_base,"['un', 'in', 'jured']",Correct,byte_level_bpe,True
+5642,uninquiring,un,cl100k_base,"['un', 'inqu', 'iring']",Correct,byte_level_bpe,True
+5652,offshore,off,cl100k_base,"['off', 'shore']",Correct,byte_level_bpe,False
+5662,uninspiring,un,cl100k_base,"['un', 'ins', 'piring']",Correct,byte_level_bpe,True
+5672,noninstitutional,non,cl100k_base,"['non', 'institution', 'al']",Correct,byte_level_bpe,True
+5682,noninstitutionalized,non,cl100k_base,"['non', 'institution', 'al', 'ized']",Correct,byte_level_bpe,True
+5692,uninstructive,un,cl100k_base,"['un', 'in', 'struct', 'ive']",Correct,byte_level_bpe,True
+5702,uninsured,un,cl100k_base,"['un', 'ins', 'ured']",Correct,byte_level_bpe,True
+5712,nonintegrated,non,cl100k_base,"['non', 'int', 'egrated']",Correct,byte_level_bpe,True
+5722,disintegrative,dis,cl100k_base,"['dis', 'integr', 'ative']",Correct,byte_level_bpe,True
+5732,nonintellectual,non,cl100k_base,"['non', 'intel', 'lectual']",Correct,byte_level_bpe,True
+5742,unintelligent,un,cl100k_base,"['un', 'int', 'elligent']",Correct,byte_level_bpe,True
+5752,unintelligible,un,cl100k_base,"['un', 'int', 'ellig', 'ible']",Correct,byte_level_bpe,True
+5762,unintended,un,cl100k_base,"['un', 'int', 'ended']",Correct,byte_level_bpe,True
+5772,intradepartmental,in,cl100k_base,"['in', 'trad', 'ep', 'artment', 'al']",Correct,byte_level_bpe,False
+5782,uninterested,un,cl100k_base,"['un', 'interested']",Correct,byte_level_bpe,True
+5792,uninteresting,un,cl100k_base,"['un', 'interesting']",Correct,byte_level_bpe,True
+5802,intrusive,out,cl100k_base,"['intr', 'usive']",Incorrect,byte_level_bpe,False
+5812,unintrusive,un,cl100k_base,"['un', 'intr', 'usive']",Correct,byte_level_bpe,True
+5822,noninvasive,non,cl100k_base,"['non', 'in', 'vasive']",Correct,byte_level_bpe,True
+5832,non-invertible,non,cl100k_base,"['non', '-in', 'vert', 'ible']",Correct,byte_level_bpe,True
+5842,debilitating,de,cl100k_base,"['deb', 'ilitating']",Incorrect,byte_level_bpe,False
+5852,uninviting,un,cl100k_base,"['un', 'inv', 'iting']",Correct,byte_level_bpe,True
+5862,uninvolved,un,cl100k_base,"['un', 'inv', 'olved']",Correct,byte_level_bpe,True
+5872,outward,out,cl100k_base,"['out', 'ward']",Correct,byte_level_bpe,False
+5882,de-iodinating,de,cl100k_base,"['de', '-', 'iod', 'inating']",Correct,byte_level_bpe,True
+5892,nonionic,non,cl100k_base,"['non', 'ionic']",Correct,byte_level_bpe,True
+5902,nonionized,non,cl100k_base,"['non', 'ion', 'ized']",Correct,byte_level_bpe,True
+5912,contralateral,contra,cl100k_base,"['contr', 'al', 'ateral']",Incorrect,byte_level_bpe,False
+5922,unironed,un,cl100k_base,"['un', 'iron', 'ed']",Correct,byte_level_bpe,True
+5932,hypertonic,hyper,cl100k_base,"['hyp', 'ert', 'onic']",Incorrect,byte_level_bpe,False
+5942,anisotropic,an,cl100k_base,"['an', 'is', 'otropic']",Correct,byte_level_bpe,False
+5952,jawless,less,cl100k_base,"['jaw', 'less']",Correct,byte_level_bpe,True
+5962,joyless,less,cl100k_base,"['joy', 'less']",Correct,byte_level_bpe,True
+5972,nonjudgmental,non,cl100k_base,"['non', 'jud', 'gment', 'al']",Correct,byte_level_bpe,True
+5982,juiceless,less,cl100k_base,"['ju', 'ice', 'less']",Correct,byte_level_bpe,True
+5992,unjust,un,cl100k_base,"['un', 'just']",Correct,byte_level_bpe,True
+6002,keyless,less,cl100k_base,"['key', 'less']",Correct,byte_level_bpe,True
+6012,unkind,un,cl100k_base,"['unk', 'ind']",Incorrect,byte_level_bpe,True
+6022,unknowable,un,cl100k_base,"['unk', 'now', 'able']",Incorrect,byte_level_bpe,True
+6032,unknown,un,cl100k_base,['unknown'],Not segmented,byte_level_bpe,False
+6042,unlabeled,un,cl100k_base,"['un', 'l', 'abeled']",Correct,byte_level_bpe,True
+6052,unlaced,un,cl100k_base,"['un', 'l', 'aced']",Correct,byte_level_bpe,True
+6062,unlamented,un,cl100k_base,"['un', 'l', 'ament', 'ed']",Correct,byte_level_bpe,True
+6072,landless,less,cl100k_base,"['land', 'less']",Correct,byte_level_bpe,True
+6082,unlaureled,un,cl100k_base,"['un', 'la', 'ure', 'led']",Correct,byte_level_bpe,True
+6092,unlawful,un,cl100k_base,"['un', 'law', 'ful']",Correct,byte_level_bpe,True
+6102,unleaded,un,cl100k_base,"['un', 'le', 'aded']",Correct,byte_level_bpe,True
+6112,unleavened,un,cl100k_base,"['un', 'le', 'aven', 'ed']",Correct,byte_level_bpe,True
+6122,illegal,il,cl100k_base,['illegal'],Not segmented,byte_level_bpe,True
+6132,legless,less,cl100k_base,"['leg', 'less']",Correct,byte_level_bpe,False
+6142,illegible,il,cl100k_base,"['il', 'leg', 'ible']",Correct,byte_level_bpe,True
+6152,illegitimate,il,cl100k_base,"['il', 'leg', 'itimate']",Correct,byte_level_bpe,True
+6162,illicit,il,cl100k_base,"['il', 'licit']",Correct,byte_level_bpe,True
+6172,lidless,less,cl100k_base,"['lid', 'less']",Correct,byte_level_bpe,True
+6182,unlighted,un,cl100k_base,"['un', 'light', 'ed']",Correct,byte_level_bpe,True
+6192,unlike,un,cl100k_base,"['un', 'like']",Correct,byte_level_bpe,False
+6202,disliked,dis,cl100k_base,"['dis', 'liked']",Correct,byte_level_bpe,True
+6212,unlikely,un,cl100k_base,['unlikely'],Not segmented,byte_level_bpe,True
+6222,limbless,less,cl100k_base,"['lim', 'b', 'less']",Correct,byte_level_bpe,True
+6232,unlimited,un,cl100k_base,"['un', 'limited']",Correct,byte_level_bpe,False
+6242,nonlinear,non,cl100k_base,"['non', 'linear']",Correct,byte_level_bpe,True
+6252,unlined,un,cl100k_base,"['un', 'lined']",Correct,byte_level_bpe,True
+6262,nonlinguistic,non,cl100k_base,"['non', 'ling', 'u', 'istic']",Correct,byte_level_bpe,True
+6272,lipless,less,cl100k_base,"['lip', 'less']",Correct,byte_level_bpe,True
+6282,unlisted,un,cl100k_base,"['un', 'listed']",Correct,byte_level_bpe,True
+6292,illiterate,il,cl100k_base,"['ill', 'iterate']",Incorrect,byte_level_bpe,True
+6302,unlivable,un,cl100k_base,"['un', 'liv', 'able']",Correct,byte_level_bpe,True
+6312,unliveried,un,cl100k_base,"['un', 'l', 'iver', 'ied']",Correct,byte_level_bpe,True
+6322,unloaded,un,cl100k_base,"['un', 'loaded']",Correct,byte_level_bpe,True
+6332,loamless,less,cl100k_base,"['lo', 'am', 'less']",Correct,byte_level_bpe,True
+6342,illogical,il,cl100k_base,"['il', 'logical']",Correct,byte_level_bpe,True
+6352,lossless,less,cl100k_base,"['loss', 'less']",Correct,byte_level_bpe,True
+6362,unloved,un,cl100k_base,"['un', 'lo', 'ved']",Correct,byte_level_bpe,True
+6372,unloving,un,cl100k_base,"['un', 'lo', 'ving']",Correct,byte_level_bpe,True
+6382,disloyal,dis,cl100k_base,"['dis', 'loy', 'al']",Correct,byte_level_bpe,True
+6392,unlubricated,un,cl100k_base,"['un', 'l', 'ub', 'ric', 'ated']",Correct,byte_level_bpe,True
+6402,unlucky,un,cl100k_base,"['un', 'l', 'ucky']",Correct,byte_level_bpe,True
+6412,unmade,un,cl100k_base,"['un', 'made']",Correct,byte_level_bpe,True
+6422,antimagnetic,anti,cl100k_base,"['ant', 'im', 'agnetic']",Incorrect,byte_level_bpe,True
+6432,nonmagnetic,non,cl100k_base,"['non', 'm', 'agnetic']",Correct,byte_level_bpe,True
+6442,unmalicious,un,cl100k_base,"['un', 'mal', 'icious']",Correct,byte_level_bpe,True
+6452,unmalted,un,cl100k_base,"['un', 'm', 'alted']",Correct,byte_level_bpe,True
+6462,unmanageable,un,cl100k_base,"['un', 'manage', 'able']",Correct,byte_level_bpe,True
+6472,unmanly,un,cl100k_base,"['un', 'man', 'ly']",Correct,byte_level_bpe,True
+6482,unmanned,un,cl100k_base,"['un', 'm', 'anned']",Correct,byte_level_bpe,True
+6492,unmarked,un,cl100k_base,"['un', 'marked']",Correct,byte_level_bpe,False
+6502,unmarried,un,cl100k_base,"['un', 'married']",Correct,byte_level_bpe,True
+6512,mismatched,mis,cl100k_base,"['m', 'ismatch', 'ed']",Incorrect,byte_level_bpe,True
+6522,unmated,un,cl100k_base,"['un', 'm', 'ated']",Correct,byte_level_bpe,True
+6532,immaterial,im,cl100k_base,"['im', 'material']",Correct,byte_level_bpe,True
+6542,immature,im,cl100k_base,"['imm', 'ature']",Incorrect,byte_level_bpe,True
+6552,immeasurable,im,cl100k_base,"['im', 'me', 'asurable']",Correct,byte_level_bpe,True
+6562,meatless,less,cl100k_base,"['me', 'at', 'less']",Correct,byte_level_bpe,True
+6572,nonmechanical,non,cl100k_base,"['non', 'me', 'chan', 'ical']",Correct,byte_level_bpe,True
+6582,unmelodious,un,cl100k_base,"['un', 'mel', 'od', 'ious']",Correct,byte_level_bpe,True
+6592,unmelted,un,cl100k_base,"['un', 'm', 'elt', 'ed']",Correct,byte_level_bpe,True
+6602,memberless,less,cl100k_base,"['member', 'less']",Correct,byte_level_bpe,True
+6612,merciless,less,cl100k_base,"['merc', 'iless']",Incorrect,byte_level_bpe,True
+6622,unmerited,un,cl100k_base,"['un', 'mer', 'ited']",Correct,byte_level_bpe,True
+6632,nonmetallic,non,cl100k_base,"['non', 'metal', 'lic']",Correct,byte_level_bpe,True
+6642,nonmetamorphic,non,cl100k_base,"['non', 'met', 'am', 'orphic']",Correct,byte_level_bpe,True
+6652,nonmigratory,non,cl100k_base,"['non', 'm', 'igr', 'atory']",Correct,byte_level_bpe,True
+6662,intense,in,cl100k_base,"['int', 'ense']",Incorrect,byte_level_bpe,False
+6672,unmilitary,un,cl100k_base,"['un', 'm', 'ilitary']",Correct,byte_level_bpe,True
+6682,unmindful,un,cl100k_base,"['un', 'mind', 'ful']",Correct,byte_level_bpe,True
+6692,unmined,un,cl100k_base,"['un', 'min', 'ed']",Correct,byte_level_bpe,True
+6702,immiscible,im,cl100k_base,"['imm', 'isc', 'ible']",Incorrect,byte_level_bpe,True
+6712,unmitigated,un,cl100k_base,"['un', 'mit', 'igated']",Correct,byte_level_bpe,True
+6722,immobile,im,cl100k_base,"['imm', 'obile']",Incorrect,byte_level_bpe,True
+6732,immoderate,im,cl100k_base,"['im', 'mod', 'erate']",Correct,byte_level_bpe,True
+6742,nonmodern,non,cl100k_base,"['non', 'modern']",Correct,byte_level_bpe,True
+6752,immodest,im,cl100k_base,"['im', 'mod', 'est']",Correct,byte_level_bpe,True
+6762,unmodifiable,un,cl100k_base,"['un', 'modifiable']",Correct,byte_level_bpe,True
+6772,unmodified,un,cl100k_base,"['un', 'modified']",Correct,byte_level_bpe,True
+6782,unmodulated,un,cl100k_base,"['un', 'mod', 'ulated']",Correct,byte_level_bpe,True
+6792,moneyless,less,cl100k_base,"['money', 'less']",Correct,byte_level_bpe,True
+6802,nonmonotonic,non,cl100k_base,"['non', 'mon', 'ot', 'onic']",Correct,byte_level_bpe,False
+6812,moonless,less,cl100k_base,"['moon', 'less']",Correct,byte_level_bpe,True
+6822,immoral,im,cl100k_base,"['imm', 'oral']",Incorrect,byte_level_bpe,True
+6832,immortal,im,cl100k_base,"['imm', 'ortal']",Incorrect,byte_level_bpe,False
+6842,unmotivated,un,cl100k_base,"['un', 'mot', 'ivated']",Correct,byte_level_bpe,True
+6852,unmotorized,un,cl100k_base,"['un', 'motor', 'ized']",Correct,byte_level_bpe,True
+6862,unmoved,un,cl100k_base,"['un', 'moved']",Correct,byte_level_bpe,True
+6872,nonmoving,non,cl100k_base,"['non', 'moving']",Correct,byte_level_bpe,True
+6882,unmoving,un,cl100k_base,"['un', 'moving']",Correct,byte_level_bpe,True
+6892,unmown,un,cl100k_base,"['un', 'm', 'own']",Correct,byte_level_bpe,True
+6902,unmusical,un,cl100k_base,"['un', 'mus', 'ical']",Correct,byte_level_bpe,True
+6912,immutable,im,cl100k_base,['immutable'],Not segmented,byte_level_bpe,True
+6922,unmyelinated,un,cl100k_base,"['un', 'my', 'el', 'inated']",Correct,byte_level_bpe,True
+6932,nonnative,non,cl100k_base,"['non', 'native']",Correct,byte_level_bpe,True
+6942,supernatural,super,cl100k_base,"['sup', 'ern', 'atural']",Incorrect,byte_level_bpe,False
+6952,unnatural,un,cl100k_base,"['unn', 'atural']",Incorrect,byte_level_bpe,True
+6962,unnecessary,un,cl100k_base,"['unn', 'ecessary']",Incorrect,byte_level_bpe,True
+6972,neckless,less,cl100k_base,"['neck', 'less']",Correct,byte_level_bpe,False
+6982,unneurotic,un,cl100k_base,"['un', 'ne', 'uro', 'tic']",Correct,byte_level_bpe,True
+6992,nontranslational,non,cl100k_base,"['non', 'trans', 'l', 'ational']",Correct,byte_level_bpe,True
+7002,abnormal,ab,cl100k_base,"['ab', 'normal']",Correct,byte_level_bpe,True
+7012,paranormal,para,cl100k_base,"['par', 'an', 'ormal']",Incorrect,byte_level_bpe,False
+7022,unnoticeable,un,cl100k_base,"['un', 'notice', 'able']",Correct,byte_level_bpe,True
+7032,unnoticed,un,cl100k_base,"['un', 'noticed']",Correct,byte_level_bpe,True
+7042,malnourished,mal,cl100k_base,"['mal', 'n', 'our', 'ished']",Correct,byte_level_bpe,True
+7052,innocuous,in,cl100k_base,"['inn', 'oc', 'uous']",Incorrect,byte_level_bpe,False
+7062,innumerate,in,cl100k_base,"['in', 'num', 'erate']",Correct,byte_level_bpe,True
+7072,disobedient,dis,cl100k_base,"['dis', 'ob', 'ed', 'ient']",Correct,byte_level_bpe,True
+7082,unobligated,un,cl100k_base,"['un', 'ob', 'lig', 'ated']",Correct,byte_level_bpe,True
+7092,unobstructed,un,cl100k_base,"['un', 'ob', 'struct', 'ed']",Correct,byte_level_bpe,True
+7102,unobtrusive,un,cl100k_base,"['un', 'ob', 'tr', 'usive']",Correct,byte_level_bpe,True
+7112,unobvious,un,cl100k_base,"['un', 'ob', 'vious']",Correct,byte_level_bpe,True
+7122,unoccupied,un,cl100k_base,"['un', 'occupied']",Correct,byte_level_bpe,True
+7132,odorless,less,cl100k_base,"['odor', 'less']",Correct,byte_level_bpe,True
+7142,off-street,off,cl100k_base,"['off', '-st', 'reet']",Correct,byte_level_bpe,False
+7152,unoffending,un,cl100k_base,"['un', 'off', 'ending']",Correct,byte_level_bpe,True
+7162,inoffensive,in,cl100k_base,"['in', 'off', 'ensive']",Correct,byte_level_bpe,True
+7172,unofficial,un,cl100k_base,"['un', 'official']",Correct,byte_level_bpe,True
+7182,offstage,off,cl100k_base,"['off', 'stage']",Correct,byte_level_bpe,False
+7192,unoiled,un,cl100k_base,"['uno', 'iled']",Incorrect,byte_level_bpe,True
+7202,insectivorous,in,cl100k_base,"['in', 'sect', 'iv', 'orous']",Correct,byte_level_bpe,False
+7212,off-line,off,cl100k_base,"['off', '-line']",Correct,byte_level_bpe,True
+7222,on-site,on,cl100k_base,"['on', '-site']",Correct,byte_level_bpe,False
+7232,offside,off,cl100k_base,"['off', 'side']",Correct,byte_level_bpe,False
+7242,inoperable,in,cl100k_base,"['in', 'oper', 'able']",Correct,byte_level_bpe,True
+7252,nonoperational,non,cl100k_base,"['non', 'oper', 'ational']",Correct,byte_level_bpe,True
+7262,inoperative,in,cl100k_base,"['in', 'operative']",Correct,byte_level_bpe,True
+7272,inopportune,in,cl100k_base,"['in', 'op', 'port', 'une']",Correct,byte_level_bpe,True
+7282,unopposable,un,cl100k_base,"['un', 'op', 'posable']",Correct,byte_level_bpe,True
+7292,unopposed,un,cl100k_base,"['un', 'op', 'posed']",Correct,byte_level_bpe,True
+7302,aboral,ab,cl100k_base,"['abor', 'al']",Incorrect,byte_level_bpe,True
+7312,disordered,dis,cl100k_base,"['dis', 'ordered']",Correct,byte_level_bpe,False
+7322,disorderly,dis,cl100k_base,"['dis', 'order', 'ly']",Correct,byte_level_bpe,False
+7332,extraordinary,extra,cl100k_base,"['extra', 'ordinary']",Correct,byte_level_bpe,False
+7342,inorganic,in,cl100k_base,"['in', 'organic']",Correct,byte_level_bpe,True
+7352,disorganized,dis,cl100k_base,"['dis', 'organized']",Correct,byte_level_bpe,True
+7362,unorganized,un,cl100k_base,"['un', 'organized']",Correct,byte_level_bpe,True
+7372,unoriented,un,cl100k_base,"['un', 'oriented']",Correct,byte_level_bpe,True
+7382,disorienting,dis,cl100k_base,"['dis', 'orient', 'ing']",Correct,byte_level_bpe,False
+7392,unoriginal,un,cl100k_base,"['un', 'original']",Correct,byte_level_bpe,True
+7402,unorthodox,un,cl100k_base,"['un', 'orth', 'odox']",Correct,byte_level_bpe,True
+7412,unostentatious,un,cl100k_base,"['un', 'ost', 'ent', 'at', 'ious']",Correct,byte_level_bpe,True
+7422,inner,in,cl100k_base,['inner'],Not segmented,byte_level_bpe,False
+7432,unowned,un,cl100k_base,"['un', 'owned']",Correct,byte_level_bpe,True
+7442,unpackaged,un,cl100k_base,"['unpack', 'aged']",Incorrect,byte_level_bpe,True
+7452,unpaid,un,cl100k_base,"['un', 'paid']",Correct,byte_level_bpe,True
+7462,painless,less,cl100k_base,"['p', 'ainless']",Incorrect,byte_level_bpe,True
+7472,unpaintable,un,cl100k_base,"['un', 'paint', 'able']",Correct,byte_level_bpe,True
+7482,unpainted,un,cl100k_base,"['un', 'p', 'ainted']",Correct,byte_level_bpe,True
+7492,unpalatable,un,cl100k_base,"['un', 'pal', 'atable']",Correct,byte_level_bpe,True
+7502,impalpable,im,cl100k_base,"['imp', 'al', 'p', 'able']",Incorrect,byte_level_bpe,True
+7512,unpardonable,un,cl100k_base,"['un', 'p', 'ardon', 'able']",Correct,byte_level_bpe,True
+7522,unparented,un,cl100k_base,"['un', 'parent', 'ed']",Correct,byte_level_bpe,True
+7532,impartial,im,cl100k_base,"['im', 'partial']",Correct,byte_level_bpe,False
+7542,nonparticulate,non,cl100k_base,"['non', 'part', 'ic', 'ulate']",Correct,byte_level_bpe,True
+7552,impassable,im,cl100k_base,"['im', 'pass', 'able']",Correct,byte_level_bpe,True
+7562,nonpasserine,non,cl100k_base,"['non', 'pass', 'er', 'ine']",Correct,byte_level_bpe,True
+7572,passionless,less,cl100k_base,"['pass', 'ion', 'less']",Correct,byte_level_bpe,True
+7582,impatient,im,cl100k_base,"['im', 'patient']",Correct,byte_level_bpe,True
+7592,unpatriotic,un,cl100k_base,"['un', 'p', 'atri', 'otic']",Correct,byte_level_bpe,True
+7602,unpatronized,un,cl100k_base,"['un', 'pat', 'ron', 'ized']",Correct,byte_level_bpe,True
+7612,unpaved,un,cl100k_base,"['un', 'p', 'aved']",Correct,byte_level_bpe,True
+7622,unpeaceful,un,cl100k_base,"['un', 'peace', 'ful']",Correct,byte_level_bpe,True
+7632,impenetrable,im,cl100k_base,"['im', 'pen', 'etr', 'able']",Correct,byte_level_bpe,True
+7642,impenitent,im,cl100k_base,"['im', 'pen', 'it', 'ent']",Correct,byte_level_bpe,True
+7652,imperceptible,im,cl100k_base,"['im', 'per', 'cept', 'ible']",Correct,byte_level_bpe,True
+7662,unperceptive,un,cl100k_base,"['un', 'per', 'ceptive']",Correct,byte_level_bpe,True
+7672,imperfect,im,cl100k_base,"['im', 'perfect']",Correct,byte_level_bpe,True
+7682,aperiodic,a,cl100k_base,"['aper', 'iod', 'ic']",Incorrect,byte_level_bpe,True
+7692,imperishable,im,cl100k_base,"['im', 'per', 'ish', 'able']",Correct,byte_level_bpe,True
+7702,impermanent,im,cl100k_base,"['im', 'permanent']",Correct,byte_level_bpe,True
+7712,impermeable,im,cl100k_base,"['im', 'per', 'me', 'able']",Correct,byte_level_bpe,True
+7722,impermissible,im,cl100k_base,"['im', 'per', 'missible']",Correct,byte_level_bpe,True
+7732,unpermissive,un,cl100k_base,"['un', 'per', 'missive']",Correct,byte_level_bpe,True
+7742,unperplexed,un,cl100k_base,"['un', 'per', 'plex', 'ed']",Correct,byte_level_bpe,True
+7752,impersonal,im,cl100k_base,"['imp', 'erson', 'al']",Incorrect,byte_level_bpe,True
+7762,dissuasive,dis,cl100k_base,"['d', 'iss', 'u', 'asive']",Incorrect,byte_level_bpe,True
+7772,impervious,im,cl100k_base,"['imp', 'erv', 'ious']",Incorrect,byte_level_bpe,True
+7782,apetalous,a,cl100k_base,"['ap', 'etal', 'ous']",Incorrect,byte_level_bpe,True
+7792,nonphotosynthetic,non,cl100k_base,"['non', 'photos', 'yn', 'thetic']",Correct,byte_level_bpe,True
+7802,impious,im,cl100k_base,"['imp', 'ious']",Incorrect,byte_level_bpe,True
+7812,implacable,im,cl100k_base,"['impl', 'ac', 'able']",Incorrect,byte_level_bpe,False
+7822,aplacental,a,cl100k_base,"['apl', 'ac', 'ental']",Incorrect,byte_level_bpe,True
+7832,unplanned,un,cl100k_base,"['un', 'pl', 'anned']",Correct,byte_level_bpe,True
+7842,unplanted,un,cl100k_base,"['un', 'pl', 'anted']",Correct,byte_level_bpe,True
+7852,implausible,im,cl100k_base,"['impl', 'ausible']",Incorrect,byte_level_bpe,True
+7862,unplayable,un,cl100k_base,"['un', 'play', 'able']",Correct,byte_level_bpe,True
+7872,unplayful,un,cl100k_base,"['un', 'play', 'ful']",Correct,byte_level_bpe,True
+7882,unpleasant,un,cl100k_base,"['un', 'pleasant']",Correct,byte_level_bpe,True
+7892,displeased,dis,cl100k_base,"['dis', 'ple', 'ased']",Correct,byte_level_bpe,True
+7902,displeasing,dis,cl100k_base,"['dis', 'ple', 'asing']",Correct,byte_level_bpe,True
+7912,unplowed,un,cl100k_base,"['un', 'pl', 'owed']",Correct,byte_level_bpe,True
+7922,pointless,less,cl100k_base,"['point', 'less']",Correct,byte_level_bpe,True
+7932,unpolished,un,cl100k_base,"['un', 'pol', 'ished']",Correct,byte_level_bpe,True
+7942,impolite,im,cl100k_base,"['imp', 'ol', 'ite']",Incorrect,byte_level_bpe,True
+7952,impolitic,im,cl100k_base,"['imp', 'ol', 'itic']",Incorrect,byte_level_bpe,True
+7962,nonpolitical,non,cl100k_base,"['non', 'political']",Correct,byte_level_bpe,True
+7972,imponderable,im,cl100k_base,"['im', 'ponder', 'able']",Correct,byte_level_bpe,True
+7982,unpopular,un,cl100k_base,"['un', 'popular']",Correct,byte_level_bpe,True
+7992,nonporous,non,cl100k_base,"['non', 'por', 'ous']",Correct,byte_level_bpe,True
+8002,unportable,un,cl100k_base,"['un', 'port', 'able']",Correct,byte_level_bpe,True
+8012,unposed,un,cl100k_base,"['un', 'posed']",Correct,byte_level_bpe,True
+8022,impossible,im,cl100k_base,"['im', 'possible']",Correct,byte_level_bpe,True
+8032,impotent,im,cl100k_base,"['imp', 'otent']",Incorrect,byte_level_bpe,False
+8042,unpotted,un,cl100k_base,"['un', 'p', 'otted']",Correct,byte_level_bpe,True
+8052,unpowered,un,cl100k_base,"['un', 'powered']",Correct,byte_level_bpe,True
+8062,powerless,less,cl100k_base,"['power', 'less']",Correct,byte_level_bpe,True
+8072,impractical,im,cl100k_base,"['im', 'pr', 'actical']",Correct,byte_level_bpe,True
+8082,unprecedented,un,cl100k_base,"['un', 'precedented']",Correct,byte_level_bpe,False
+8092,imprecise,im,cl100k_base,"['im', 'prec', 'ise']",Correct,byte_level_bpe,True
+8102,unpredictable,un,cl100k_base,"['un', 'predict', 'able']",Correct,byte_level_bpe,True
+8112,nonpregnant,non,cl100k_base,"['non', 'preg', 'nant']",Correct,byte_level_bpe,True
+8122,nonprehensile,non,cl100k_base,"['non', 'preh', 'ens', 'ile']",Correct,byte_level_bpe,True
+8132,unprejudiced,un,cl100k_base,"['un', 'pre', 'jud', 'iced']",Correct,byte_level_bpe,True
+8142,unpremeditated,un,cl100k_base,"['un', 'pre', 'med', 'itated']",Correct,byte_level_bpe,True
+8152,unprepared,un,cl100k_base,"['un', 'prepared']",Correct,byte_level_bpe,True
+8162,nonprescription,non,cl100k_base,"['non', 'pres', 'cription']",Correct,byte_level_bpe,True
+8172,unpresidential,un,cl100k_base,"['un', 'pres', 'idential']",Correct,byte_level_bpe,True
+8182,unpretentious,un,cl100k_base,"['un', 'pret', 'entious']",Correct,byte_level_bpe,True
+8192,unpreventable,un,cl100k_base,"['un', 'prevent', 'able']",Correct,byte_level_bpe,True
+8202,unpriestly,un,cl100k_base,"['un', 'pri', 'est', 'ly']",Correct,byte_level_bpe,True
+8212,unprincipled,un,cl100k_base,"['un', 'pr', 'incip', 'led']",Correct,byte_level_bpe,True
+8222,unprintable,un,cl100k_base,"['un', 'print', 'able']",Correct,byte_level_bpe,True
+8232,underprivileged,under,cl100k_base,"['under', 'privileged']",Correct,byte_level_bpe,False
+8242,improbable,im,cl100k_base,"['im', 'prob', 'able']",Correct,byte_level_bpe,True
+8252,unprocessed,un,cl100k_base,"['un', 'processed']",Correct,byte_level_bpe,True
+8262,unproductive,un,cl100k_base,"['un', 'productive']",Correct,byte_level_bpe,True
+8272,nonprofessional,non,cl100k_base,"['non', 'professional']",Correct,byte_level_bpe,True
+8282,unprofessional,un,cl100k_base,"['un', 'professional']",Correct,byte_level_bpe,True
+8292,unprofitable,un,cl100k_base,"['un', 'profit', 'able']",Correct,byte_level_bpe,True
+8302,unpronounceable,un,cl100k_base,"['un', 'pron', 'ounce', 'able']",Correct,byte_level_bpe,True
+8312,improper,im,cl100k_base,"['im', 'proper']",Correct,byte_level_bpe,True
+8322,unprophetic,un,cl100k_base,"['un', 'pro', 'ph', 'etic']",Correct,byte_level_bpe,True
+8332,unpropitious,un,cl100k_base,"['un', 'prop', 'itious']",Correct,byte_level_bpe,True
+8342,disproportionate,dis,cl100k_base,"['dis', 'pro', 'portion', 'ate']",Correct,byte_level_bpe,False
+8352,unprotected,un,cl100k_base,"['un', 'protected']",Correct,byte_level_bpe,True
+8362,unprotective,un,cl100k_base,"['un', 'protect', 'ive']",Correct,byte_level_bpe,True
+8372,unproved,un,cl100k_base,"['un', 'proved']",Correct,byte_level_bpe,True
+8382,improvident,im,cl100k_base,"['im', 'pro', 'vid', 'ent']",Correct,byte_level_bpe,True
+8392,unprovocative,un,cl100k_base,"['un', 'prov', 'oc', 'ative']",Correct,byte_level_bpe,True
+8402,imprudent,im,cl100k_base,"['im', 'pr', 'udent']",Correct,byte_level_bpe,True
+8412,nonpsychoactive,non,cl100k_base,"['non', 'psy', 'cho', 'active']",Correct,byte_level_bpe,True
+8422,unpublishable,un,cl100k_base,"['un', 'publish', 'able']",Correct,byte_level_bpe,True
+8432,unpublished,un,cl100k_base,"['un', 'published']",Correct,byte_level_bpe,True
+8442,unpunctual,un,cl100k_base,"['un', 'p', 'unct', 'ual']",Correct,byte_level_bpe,True
+8452,punctureless,less,cl100k_base,"['p', 'uncture', 'less']",Correct,byte_level_bpe,True
+8462,unpunished,un,cl100k_base,"['un', 'pun', 'ished']",Correct,byte_level_bpe,True
+8472,impure,im,cl100k_base,"['imp', 'ure']",Incorrect,byte_level_bpe,True
+8482,purposeless,less,cl100k_base,"['purpose', 'less']",Correct,byte_level_bpe,True
+8492,antipyretic,anti,cl100k_base,"['ant', 'ipy', 'ret', 'ic']",Incorrect,byte_level_bpe,False
+8502,unqualified,un,cl100k_base,"['un', 'qualified']",Correct,byte_level_bpe,True
+8512,unquestionable,un,cl100k_base,"['un', 'question', 'able']",Correct,byte_level_bpe,False
+8522,unquiet,un,cl100k_base,"['un', 'quiet']",Correct,byte_level_bpe,True
+8532,unquotable,un,cl100k_base,"['un', 'quot', 'able']",Correct,byte_level_bpe,True
+8542,nonracial,non,cl100k_base,"['non', 'racial']",Correct,byte_level_bpe,True
+8552,nonradioactive,non,cl100k_base,"['non', 'radio', 'active']",Correct,byte_level_bpe,True
+8562,nonrandom,non,cl100k_base,"['non', 'random']",Correct,byte_level_bpe,True
+8572,irrational,ir,cl100k_base,"['ir', 'r', 'ational']",Correct,byte_level_bpe,True
+8582,unreactive,un,cl100k_base,"['un', 'react', 'ive']",Correct,byte_level_bpe,True
+8592,unready,un,cl100k_base,"['un', 'ready']",Correct,byte_level_bpe,True
+8602,unreal,un,cl100k_base,"['un', 'real']",Correct,byte_level_bpe,True
+8612,unrealistic,un,cl100k_base,"['un', 'real', 'istic']",Correct,byte_level_bpe,True
+8622,unreasonable,un,cl100k_base,"['un', 'reasonable']",Correct,byte_level_bpe,True
+8632,unreassuring,un,cl100k_base,"['un', 're', 'ass', 'uring']",Correct,byte_level_bpe,True
+8642,unreceptive,un,cl100k_base,"['un', 're', 'ceptive']",Correct,byte_level_bpe,True
+8652,nonreciprocal,non,cl100k_base,"['non', 'rec', 'ipro', 'cal']",Correct,byte_level_bpe,True
+8662,irreconcilable,ir,cl100k_base,"['ir', 're', 'conc', 'il', 'able']",Correct,byte_level_bpe,True
+8672,unreconstructed,un,cl100k_base,"['un', 're', 'constructed']",Correct,byte_level_bpe,True
+8682,unrecoverable,un,cl100k_base,"['un', 'recover', 'able']",Correct,byte_level_bpe,True
+8692,irreducible,ir,cl100k_base,"['ir', 're', 'ducible']",Correct,byte_level_bpe,True
+8702,unrefined,un,cl100k_base,"['un', 'ref', 'ined']",Correct,byte_level_bpe,True
+8712,unreflected,un,cl100k_base,"['un', 'ref', 'lected']",Correct,byte_level_bpe,True
+8722,nonreflective,non,cl100k_base,"['non', 'reflect', 'ive']",Correct,byte_level_bpe,True
+8732,unregenerate,un,cl100k_base,"['un', 'reg', 'enerate']",Correct,byte_level_bpe,True
+8742,unregistered,un,cl100k_base,"['un', 'registered']",Correct,byte_level_bpe,True
+8752,unregretful,un,cl100k_base,"['un', 'reg', 'ret', 'ful']",Correct,byte_level_bpe,True
+8762,irregular,ir,cl100k_base,"['ir', 'regular']",Correct,byte_level_bpe,False
+8772,unregulated,un,cl100k_base,"['un', 'regulated']",Correct,byte_level_bpe,True
+8782,unrelated,un,cl100k_base,"['un', 'related']",Correct,byte_level_bpe,True
+8792,irrelevant,ir,cl100k_base,"['ir', 'relevant']",Correct,byte_level_bpe,True
+8802,unreliable,un,cl100k_base,"['un', 're', 'liable']",Correct,byte_level_bpe,True
+8812,irreligious,ir,cl100k_base,"['ir', 'religious']",Correct,byte_level_bpe,True
+8822,irremediable,ir,cl100k_base,"['ir', 'rem', 'ed', 'iable']",Correct,byte_level_bpe,True
+8832,irremovable,ir,cl100k_base,"['ir', 'rem', 'ovable']",Correct,byte_level_bpe,True
+8842,unrenewable,un,cl100k_base,"['un', 're', 'new', 'able']",Correct,byte_level_bpe,True
+8852,unrentable,un,cl100k_base,"['un', 'rent', 'able']",Correct,byte_level_bpe,True
+8862,irreparable,ir,cl100k_base,"['ir', 're', 'parable']",Correct,byte_level_bpe,True
+8872,unrepeatable,un,cl100k_base,"['un', 'repeat', 'able']",Correct,byte_level_bpe,True
+8882,unrepentant,un,cl100k_base,"['un', 'rep', 'ent', 'ant']",Correct,byte_level_bpe,True
+8892,nonrepetitive,non,cl100k_base,"['non', 're', 'pet', 'itive']",Correct,byte_level_bpe,True
+8902,irreplaceable,ir,cl100k_base,"['ir', 'replace', 'able']",Correct,byte_level_bpe,True
+8912,unreportable,un,cl100k_base,"['un', 'report', 'able']",Correct,byte_level_bpe,True
+8922,unreported,un,cl100k_base,"['un', 'reported']",Correct,byte_level_bpe,True
+8932,nonrepresentational,non,cl100k_base,"['non', 'represent', 'ational']",Correct,byte_level_bpe,True
+8942,nonrepresentative,non,cl100k_base,"['non', 'represent', 'ative']",Correct,byte_level_bpe,True
+8952,unreproducible,un,cl100k_base,"['un', 're', 'pro', 'ducible']",Correct,byte_level_bpe,True
+8962,disreputable,dis,cl100k_base,"['dis', 're', 'put', 'able']",Correct,byte_level_bpe,True
+8972,unrequested,un,cl100k_base,"['un', 'requested']",Correct,byte_level_bpe,True
+8982,unresentful,un,cl100k_base,"['un', 'resent', 'ful']",Correct,byte_level_bpe,True
+8992,unreserved,un,cl100k_base,"['un', 'reserved']",Correct,byte_level_bpe,True
+9002,nonresidential,non,cl100k_base,"['non', 'res', 'idential']",Correct,byte_level_bpe,True
+9012,irresistible,ir,cl100k_base,"['ir', 'res', 'ist', 'ible']",Correct,byte_level_bpe,False
+9022,irresolute,ir,cl100k_base,"['ir', 'res', 'olute']",Correct,byte_level_bpe,True
+9032,unrespectable,un,cl100k_base,"['un', 'respect', 'able']",Correct,byte_level_bpe,True
+9042,disrespectful,dis,cl100k_base,"['dis', 'respect', 'ful']",Correct,byte_level_bpe,True
+9052,irresponsible,ir,cl100k_base,"['ir', 'res', 'ponsible']",Correct,byte_level_bpe,True
+9062,unresponsive,un,cl100k_base,"['un', 'responsive']",Correct,byte_level_bpe,True
+9072,unrestrained,un,cl100k_base,"['un', 're', 'strained']",Correct,byte_level_bpe,True
+9082,unrestricted,un,cl100k_base,"['un', 'restricted']",Correct,byte_level_bpe,True
+9092,unrestrictive,un,cl100k_base,"['un', 'restrict', 'ive']",Correct,byte_level_bpe,True
+9102,unretentive,un,cl100k_base,"['un', 'ret', 'ent', 'ive']",Correct,byte_level_bpe,True
+9112,nonreticulate,non,cl100k_base,"['non', 'ret', 'ic', 'ulate']",Correct,byte_level_bpe,True
+9122,nonretractile,non,cl100k_base,"['non', 're', 'tract', 'ile']",Correct,byte_level_bpe,True
+9132,nonreturnable,non,cl100k_base,"['non', 'return', 'able']",Correct,byte_level_bpe,True
+9142,unreverberant,un,cl100k_base,"['un', 're', 'ver', 'ber', 'ant']",Correct,byte_level_bpe,True
+9152,irreverent,ir,cl100k_base,"['ir', 're', 'ver', 'ent']",Correct,byte_level_bpe,True
+9162,irreversible,ir,cl100k_base,"['ir', 're', 'versible']",Correct,byte_level_bpe,True
+9172,nonreversible,non,cl100k_base,"['non', 're', 'versible']",Correct,byte_level_bpe,True
+9182,unrevived,un,cl100k_base,"['un', 'rev', 'ived']",Correct,byte_level_bpe,True
+9192,irrevocable,ir,cl100k_base,"['ir', 'rev', 'oc', 'able']",Correct,byte_level_bpe,True
+9202,counterrevolutionary,counter,cl100k_base,"['counter', 'revolution', 'ary']",Correct,byte_level_bpe,True
+9212,unrewarding,un,cl100k_base,"['un', 'reward', 'ing']",Correct,byte_level_bpe,True
+9222,unrhetorical,un,cl100k_base,"['un', 'r', 'het', 'orical']",Correct,byte_level_bpe,True
+9232,unrhymed,un,cl100k_base,"['un', 'rh', 'ym', 'ed']",Correct,byte_level_bpe,True
+9242,unrhythmical,un,cl100k_base,"['un', 'r', 'hythm', 'ical']",Correct,byte_level_bpe,True
+9252,ribless,less,cl100k_base,"['rib', 'less']",Correct,byte_level_bpe,True
+9262,unrifled,un,cl100k_base,"['un', 'rif', 'led']",Correct,byte_level_bpe,True
+9272,unrigged,un,cl100k_base,"['un', 'rig', 'ged']",Correct,byte_level_bpe,True
+9282,unrighteous,un,cl100k_base,"['un', 'right', 'eous']",Correct,byte_level_bpe,True
+9292,nonrigid,non,cl100k_base,"['non', 'rig', 'id']",Correct,byte_level_bpe,True
+9302,rimless,less,cl100k_base,"['rim', 'less']",Correct,byte_level_bpe,True
+9312,roofless,less,cl100k_base,"['roof', 'less']",Correct,byte_level_bpe,True
+9322,nonruminant,non,cl100k_base,"['non', 'r', 'umin', 'ant']",Correct,byte_level_bpe,True
+9332,rustless,less,cl100k_base,"['rust', 'less']",Correct,byte_level_bpe,True
+9342,unsaddled,un,cl100k_base,"['uns', 'add', 'led']",Incorrect,byte_level_bpe,True
+9352,unsalable,un,cl100k_base,"['uns', 'al', 'able']",Incorrect,byte_level_bpe,True
+9362,insane,in,cl100k_base,"['ins', 'ane']",Incorrect,byte_level_bpe,False
+9372,unsanitary,un,cl100k_base,"['uns', 'an', 'itary']",Incorrect,byte_level_bpe,True
+9382,unsaponified,un,cl100k_base,"['uns', 'apon', 'ified']",Incorrect,byte_level_bpe,True
+9392,unsarcastic,un,cl100k_base,"['uns', 'ar', 'cast', 'ic']",Incorrect,byte_level_bpe,True
+9402,insatiate,in,cl100k_base,"['ins', 'at', 'iate']",Incorrect,byte_level_bpe,True
+9412,unsatisfactory,un,cl100k_base,"['uns', 'atisf', 'actory']",Incorrect,byte_level_bpe,True
+9422,unsaturated,un,cl100k_base,"['uns', 'aturated']",Incorrect,byte_level_bpe,True
+9432,unsavory,un,cl100k_base,"['uns', 'av', 'ory']",Incorrect,byte_level_bpe,True
+9442,unscalable,un,cl100k_base,"['un', 'scal', 'able']",Correct,byte_level_bpe,True
+9452,scentless,less,cl100k_base,"['s', 'cent', 'less']",Correct,byte_level_bpe,True
+9462,unscheduled,un,cl100k_base,"['uns', 'cheduled']",Incorrect,byte_level_bpe,True
+9472,unscholarly,un,cl100k_base,"['unsch', 'olar', 'ly']",Incorrect,byte_level_bpe,True
+9482,unscientific,un,cl100k_base,"['un', 'scientific']",Correct,byte_level_bpe,True
+9492,unscripted,un,cl100k_base,"['un', 'script', 'ed']",Correct,byte_level_bpe,True
+9502,unscrupulous,un,cl100k_base,"['un', 'scr', 'up', 'ulous']",Correct,byte_level_bpe,True
+9512,unsealed,un,cl100k_base,"['un', 'sealed']",Correct,byte_level_bpe,True
+9522,unseamanlike,un,cl100k_base,"['un', 'se', 'aman', 'like']",Correct,byte_level_bpe,True
+9532,unseasonable,un,cl100k_base,"['un', 'season', 'able']",Correct,byte_level_bpe,True
+9542,unseasoned,un,cl100k_base,"['un', 'season', 'ed']",Correct,byte_level_bpe,True
+9552,unseaworthy,un,cl100k_base,"['un', 'se', 'aw', 'orthy']",Correct,byte_level_bpe,True
+9562,nonsectarian,non,cl100k_base,"['non', 'sect', 'arian']",Correct,byte_level_bpe,True
+9572,insecure,in,cl100k_base,"['in', 'secure']",Correct,byte_level_bpe,True
+9582,unseductive,un,cl100k_base,"['uns', 'ed', 'uctive']",Incorrect,byte_level_bpe,True
+9592,unseeded,un,cl100k_base,"['un', 'seed', 'ed']",Correct,byte_level_bpe,True
+9602,seedless,less,cl100k_base,"['seed', 'less']",Correct,byte_level_bpe,True
+9612,unselected,un,cl100k_base,"['un', 'selected']",Correct,byte_level_bpe,True
+9622,unselfish,un,cl100k_base,"['un', 'self', 'ish']",Correct,byte_level_bpe,True
+9632,unsensational,un,cl100k_base,"['uns', 'ens', 'ational']",Incorrect,byte_level_bpe,True
+9642,insensible,in,cl100k_base,"['ins', 'ensible']",Incorrect,byte_level_bpe,True
+9652,insensitive,in,cl100k_base,"['ins', 'ensitive']",Incorrect,byte_level_bpe,True
+9662,desensitizing,de,cl100k_base,"['des', 'ens', 'it', 'izing']",Incorrect,byte_level_bpe,False
+9672,extrasensory,extra,cl100k_base,"['extras', 'ens', 'ory']",Incorrect,byte_level_bpe,False
+9682,unsent,un,cl100k_base,"['uns', 'ent']",Incorrect,byte_level_bpe,True
+9692,insentient,in,cl100k_base,"['ins', 'ent', 'ient']",Incorrect,byte_level_bpe,True
+9702,antiseptic,anti,cl100k_base,"['ant', 'ise', 'ptic']",Incorrect,byte_level_bpe,False
+9712,unserviceable,un,cl100k_base,"['un', 'service', 'able']",Correct,byte_level_bpe,True
+9722,unservile,un,cl100k_base,"['uns', 'erv', 'ile']",Incorrect,byte_level_bpe,True
+9732,unsettled,un,cl100k_base,"['unset', 't', 'led']",Incorrect,byte_level_bpe,True
+9742,asexual,a,cl100k_base,"['as', 'exual']",Incorrect,byte_level_bpe,False
+9752,unsexy,un,cl100k_base,"['un', 'sexy']",Correct,byte_level_bpe,True
+9762,unshaded,un,cl100k_base,"['un', 'sh', 'aded']",Correct,byte_level_bpe,True
+9772,unshapely,un,cl100k_base,"['un', 'sh', 'ap', 'ely']",Correct,byte_level_bpe,True
+9782,unshared,un,cl100k_base,"['un', 'shared']",Correct,byte_level_bpe,True
+9792,unshaven,un,cl100k_base,"['un', 'sh', 'aven']",Correct,byte_level_bpe,True
+9802,unsheared,un,cl100k_base,"['uns', 'he', 'ared']",Incorrect,byte_level_bpe,True
+9812,unsheathed,un,cl100k_base,"['uns', 'he', 'athed']",Incorrect,byte_level_bpe,True
+9822,unshelled,un,cl100k_base,"['un', 'sh', 'elled']",Correct,byte_level_bpe,True
+9832,unshockable,un,cl100k_base,"['un', 'sh', 'ock', 'able']",Correct,byte_level_bpe,True
+9842,unshod,un,cl100k_base,"['un', 'sh', 'od']",Correct,byte_level_bpe,True
+9852,unshrinkable,un,cl100k_base,"['un', 'sh', 'rink', 'able']",Correct,byte_level_bpe,True
+9862,unshuttered,un,cl100k_base,"['un', 'sh', 'utter', 'ed']",Correct,byte_level_bpe,True
+9872,unsigned,un,cl100k_base,['unsigned'],Not segmented,byte_level_bpe,True
+9882,insignificant,in,cl100k_base,"['ins', 'ign', 'ificant']",Incorrect,byte_level_bpe,True
+9892,nonsignificant,non,cl100k_base,"['n', 'ons', 'ign', 'ificant']",Incorrect,byte_level_bpe,True
+9902,unsilenced,un,cl100k_base,"['uns', 'il', 'enced']",Incorrect,byte_level_bpe,True
+9912,dissimilar,dis,cl100k_base,"['d', 'iss', 'imilar']",Incorrect,byte_level_bpe,True
+9922,insincere,in,cl100k_base,"['ins', 'inc', 'ere']",Incorrect,byte_level_bpe,True
+9932,unsinkable,un,cl100k_base,"['uns', 'ink', 'able']",Incorrect,byte_level_bpe,True
+9942,unsized,un,cl100k_base,"['uns', 'ized']",Incorrect,byte_level_bpe,True
+9952,unskilled,un,cl100k_base,"['un', 'sk', 'illed']",Correct,byte_level_bpe,True
+9962,skinless,less,cl100k_base,"['skin', 'less']",Correct,byte_level_bpe,True
+9972,sleeveless,less,cl100k_base,"['s', 'lee', 've', 'less']",Correct,byte_level_bpe,True
+9982,nonslippery,non,cl100k_base,"['n', 'ons', 'lip', 'pery']",Incorrect,byte_level_bpe,True
+9992,smokeless,less,cl100k_base,"['sm', 'oke', 'less']",Correct,byte_level_bpe,True
+10002,unsociable,un,cl100k_base,"['uns', 'oci', 'able']",Incorrect,byte_level_bpe,True
+10012,unsocial,un,cl100k_base,"['uns', 'ocial']",Incorrect,byte_level_bpe,True
+10022,unsold,un,cl100k_base,"['uns', 'old']",Incorrect,byte_level_bpe,True
+10032,soleless,less,cl100k_base,"['sole', 'less']",Correct,byte_level_bpe,True
+10042,insoluble,in,cl100k_base,"['ins', 'ol', 'uble']",Incorrect,byte_level_bpe,True
+10052,unsolved,un,cl100k_base,"['uns', 'olved']",Incorrect,byte_level_bpe,True
+10062,insolvent,in,cl100k_base,"['ins', 'ol', 'vent']",Incorrect,byte_level_bpe,True
+10072,subsonic,sub,cl100k_base,"['sub', 'son', 'ic']",Correct,byte_level_bpe,True
+10082,supersonic,super,cl100k_base,"['sup', 'ersonic']",Incorrect,byte_level_bpe,False
+10092,unsound,un,cl100k_base,"['uns', 'ound']",Incorrect,byte_level_bpe,True
+10102,unsoured,un,cl100k_base,"['uns', 'oured']",Incorrect,byte_level_bpe,True
+10112,unspaced,un,cl100k_base,"['un', 'sp', 'aced']",Correct,byte_level_bpe,True
+10122,nonspatial,non,cl100k_base,"['non', 'sp', 'atial']",Correct,byte_level_bpe,True
+10132,nonspeaking,non,cl100k_base,"['n', 'ons', 'pe', 'aking']",Incorrect,byte_level_bpe,True
+10142,unspecialized,un,cl100k_base,"['uns', 'pecial', 'ized']",Incorrect,byte_level_bpe,True
+10152,nonspecific,non,cl100k_base,"['n', 'ons', 'pecific']",Incorrect,byte_level_bpe,True
+10162,unspecified,un,cl100k_base,"['un', 'specified']",Correct,byte_level_bpe,False
+10172,nonspherical,non,cl100k_base,"['n', 'ons', 'pherical']",Incorrect,byte_level_bpe,True
+10182,spineless,less,cl100k_base,"['sp', 'ine', 'less']",Correct,byte_level_bpe,True
+10192,spiritless,less,cl100k_base,"['spirit', 'less']",Correct,byte_level_bpe,True
+10202,unstable,un,cl100k_base,"['un', 'stable']",Correct,byte_level_bpe,True
+10212,unstaged,un,cl100k_base,"['un', 'st', 'aged']",Correct,byte_level_bpe,True
+10222,unstained,un,cl100k_base,"['un', 'st', 'ained']",Correct,byte_level_bpe,True
+10232,nonstandard,non,cl100k_base,"['non', 'standard']",Correct,byte_level_bpe,True
+10242,starless,less,cl100k_base,"['star', 'less']",Correct,byte_level_bpe,True
+10252,unstatesmanlike,un,cl100k_base,"['un', 'states', 'man', 'like']",Correct,byte_level_bpe,True
+10262,unsteady,un,cl100k_base,"['un', 'steady']",Correct,byte_level_bpe,True
+10272,stemless,less,cl100k_base,"['stem', 'less']",Correct,byte_level_bpe,True
+10282,nonsteroidal,non,cl100k_base,"['non', 'ster', 'oidal']",Correct,byte_level_bpe,True
+10292,unstimulating,un,cl100k_base,"['un', 'stim', 'ulating']",Correct,byte_level_bpe,True
+10302,astomatous,a,cl100k_base,"['ast', 'omat', 'ous']",Incorrect,byte_level_bpe,True
+10312,unstoppable,un,cl100k_base,"['un', 'st', 'oppable']",Correct,byte_level_bpe,True
+10322,unstratified,un,cl100k_base,"['un', 'str', 'at', 'ified']",Correct,byte_level_bpe,True
+10332,unstressed,un,cl100k_base,"['un', 'st', 'ressed']",Correct,byte_level_bpe,True
+10342,unstructured,un,cl100k_base,"['un', 'structured']",Correct,byte_level_bpe,True
+10352,unstuck,un,cl100k_base,"['un', 'st', 'uck']",Correct,byte_level_bpe,True
+10362,unstudied,un,cl100k_base,"['un', 'stud', 'ied']",Correct,byte_level_bpe,True
+10372,styleless,less,cl100k_base,"['style', 'less']",Correct,byte_level_bpe,True
+10382,nonsubmersible,non,cl100k_base,"['non', 'sub', 'mers', 'ible']",Correct,byte_level_bpe,True
+10392,insubordinate,in,cl100k_base,"['ins', 'ub', 'ordinate']",Incorrect,byte_level_bpe,True
+10402,insubstantial,in,cl100k_base,"['ins', 'ub', 'stantial']",Incorrect,byte_level_bpe,True
+10412,subsurface,sub,cl100k_base,"['sub', 'surface']",Correct,byte_level_bpe,False
+10422,unsuccessful,un,cl100k_base,"['un', 'successful']",Correct,byte_level_bpe,True
+10432,insufficient,in,cl100k_base,"['ins', 'ufficient']",Incorrect,byte_level_bpe,True
+10442,sugarless,less,cl100k_base,"['s', 'ugar', 'less']",Correct,byte_level_bpe,True
+10452,subhuman,sub,cl100k_base,"['sub', 'human']",Correct,byte_level_bpe,False
+10462,subjacent,sub,cl100k_base,"['subj', 'acent']",Incorrect,byte_level_bpe,False
+10472,unsupervised,un,cl100k_base,"['uns', 'up', 'ervised']",Incorrect,byte_level_bpe,True
+10482,unsupported,un,cl100k_base,['unsupported'],Not segmented,byte_level_bpe,True
+10492,unsupportive,un,cl100k_base,"['uns', 'upport', 'ive']",Incorrect,byte_level_bpe,True
+10502,nonsuppurative,non,cl100k_base,"['n', 'ons', 'up', 'pur', 'ative']",Incorrect,byte_level_bpe,True
+10512,unsure,un,cl100k_base,"['uns', 'ure']",Incorrect,byte_level_bpe,True
+10522,nonsurgical,non,cl100k_base,"['n', 'ons', 'urgical']",Incorrect,byte_level_bpe,True
+10532,insurmountable,in,cl100k_base,"['ins', 'ur', 'mount', 'able']",Incorrect,byte_level_bpe,True
+10542,unsurprised,un,cl100k_base,"['uns', 'ur', 'pr', 'ised']",Incorrect,byte_level_bpe,True
+10552,unsurprising,un,cl100k_base,"['uns', 'ur', 'prising']",Incorrect,byte_level_bpe,True
+10562,unsusceptible,un,cl100k_base,"['uns', 'us', 'cept', 'ible']",Incorrect,byte_level_bpe,True
+10572,unswept,un,cl100k_base,"['uns', 'we', 'pt']",Incorrect,byte_level_bpe,True
+10582,unsworn,un,cl100k_base,"['un', 'sw', 'orn']",Correct,byte_level_bpe,True
+10592,nonsyllabic,non,cl100k_base,"['n', 'ons', 'yll', 'abic']",Incorrect,byte_level_bpe,True
+10602,asymmetrical,a,cl100k_base,"['as', 'ym', 'metrical']",Incorrect,byte_level_bpe,True
+10612,unsympathetic,un,cl100k_base,"['uns', 'y', 'mp', 'ath', 'etic']",Incorrect,byte_level_bpe,True
+10622,asynchronous,a,cl100k_base,"['as', 'ynchronous']",Incorrect,byte_level_bpe,True
+10632,asyndetic,a,cl100k_base,"['asy', 'nd', 'etic']",Incorrect,byte_level_bpe,True
+10642,synonymous,anti,cl100k_base,"['syn', 'onymous']",Incorrect,byte_level_bpe,False
+10652,unsystematic,un,cl100k_base,"['un', 'system', 'atic']",Correct,byte_level_bpe,True
+10662,tactless,less,cl100k_base,"['t', 'act', 'less']",Correct,byte_level_bpe,True
+10672,untalented,un,cl100k_base,"['unt', 'al', 'ented']",Incorrect,byte_level_bpe,True
+10682,intangible,in,cl100k_base,"['int', 'angible']",Incorrect,byte_level_bpe,True
+10692,untangled,un,cl100k_base,"['unt', 'angled']",Incorrect,byte_level_bpe,True
+10702,untanned,un,cl100k_base,"['unt', 'anned']",Incorrect,byte_level_bpe,True
+10712,untapped,un,cl100k_base,"['unt', 'apped']",Incorrect,byte_level_bpe,True
+10722,tasteless,less,cl100k_base,"['t', 'aste', 'less']",Correct,byte_level_bpe,True
+10732,nontaxable,non,cl100k_base,"['n', 'ont', 'ax', 'able']",Incorrect,byte_level_bpe,True
+10742,tearless,less,cl100k_base,"['te', 'ar', 'less']",Correct,byte_level_bpe,True
+10752,nontechnical,non,cl100k_base,"['n', 'onte', 'chn', 'ical']",Incorrect,byte_level_bpe,True
+10762,intemperate,in,cl100k_base,"['int', 'em', 'perate']",Incorrect,byte_level_bpe,True
+10772,untempered,un,cl100k_base,"['un', 'tem', 'pered']",Correct,byte_level_bpe,True
+10782,nonterritorial,non,cl100k_base,"['non', 'territ', 'orial']",Correct,byte_level_bpe,True
+10792,intestate,in,cl100k_base,"['int', 'estate']",Incorrect,byte_level_bpe,False
+10802,untheatrical,un,cl100k_base,"['un', 'the', 'at', 'rical']",Correct,byte_level_bpe,True
+10812,nonthermal,non,cl100k_base,"['non', 'thermal']",Correct,byte_level_bpe,True
+10822,unthinkable,un,cl100k_base,"['un', 'thinkable']",Correct,byte_level_bpe,True
+10832,thoughtless,less,cl100k_base,"['thought', 'less']",Correct,byte_level_bpe,True
+10842,untidy,un,cl100k_base,"['unt', 'idy']",Incorrect,byte_level_bpe,True
+10852,untied,un,cl100k_base,"['unt', 'ied']",Incorrect,byte_level_bpe,False
+10862,untimbered,un,cl100k_base,"['unt', 'im', 'ber', 'ed']",Incorrect,byte_level_bpe,True
+10872,untipped,un,cl100k_base,"['unt', 'ipped']",Incorrect,byte_level_bpe,True
+10882,toeless,less,cl100k_base,"['to', 'e', 'less']",Correct,byte_level_bpe,True
+10892,intolerable,in,cl100k_base,"['int', 'oler', 'able']",Incorrect,byte_level_bpe,True
+10902,intolerant,in,cl100k_base,"['int', 'oler', 'ant']",Incorrect,byte_level_bpe,True
+10912,atonal,a,cl100k_base,"['aton', 'al']",Incorrect,byte_level_bpe,True
+10922,toneless,less,cl100k_base,"['tone', 'less']",Correct,byte_level_bpe,True
+10932,tongueless,less,cl100k_base,"['t', 'ong', 'ue', 'less']",Correct,byte_level_bpe,True
+10942,atonic,a,cl100k_base,"['at', 'onic']",Incorrect,byte_level_bpe,True
+10952,toothless,less,cl100k_base,"['to', 'oth', 'less']",Correct,byte_level_bpe,True
+10962,topless,less,cl100k_base,"['top', 'less']",Correct,byte_level_bpe,True
+10972,untouched,un,cl100k_base,"['unt', 'ouched']",Incorrect,byte_level_bpe,True
+10982,nontoxic,non,cl100k_base,"['n', 'ont', 'oxic']",Incorrect,byte_level_bpe,True
+10992,untraceable,un,cl100k_base,"['un', 'trace', 'able']",Correct,byte_level_bpe,True
+11002,trackless,less,cl100k_base,"['track', 'less']",Correct,byte_level_bpe,True
+11012,intractable,in,cl100k_base,"['in', 'tract', 'able']",Correct,byte_level_bpe,True
+11022,nontraditional,non,cl100k_base,"['non', 'traditional']",Correct,byte_level_bpe,True
+11032,untrained,un,cl100k_base,"['un', 'trained']",Correct,byte_level_bpe,True
+11042,intransitive,in,cl100k_base,"['in', 'trans', 'itive']",Correct,byte_level_bpe,False
+11052,untranslatable,un,cl100k_base,"['un', 'trans', 'latable']",Correct,byte_level_bpe,True
+11062,untraveled,un,cl100k_base,"['un', 'tr', 'aveled']",Correct,byte_level_bpe,True
+11072,untreated,un,cl100k_base,"['unt', 'reated']",Incorrect,byte_level_bpe,True
+11082,untrimmed,un,cl100k_base,"['un', 'trimmed']",Correct,byte_level_bpe,True
+11092,untroubled,un,cl100k_base,"['un', 'tr', 'oub', 'led']",Correct,byte_level_bpe,True
+11102,distrustful,dis,cl100k_base,"['d', 'istr', 'ust', 'ful']",Incorrect,byte_level_bpe,True
+11112,untrustworthy,un,cl100k_base,"['un', 'trust', 'worthy']",Correct,byte_level_bpe,True
+11122,untruthful,un,cl100k_base,"['un', 'truth', 'ful']",Correct,byte_level_bpe,True
+11132,tubeless,less,cl100k_base,"['tube', 'less']",Correct,byte_level_bpe,True
+11142,untucked,un,cl100k_base,"['unt', 'ucked']",Incorrect,byte_level_bpe,True
+11152,tuneless,less,cl100k_base,"['t', 'une', 'less']",Correct,byte_level_bpe,True
+11162,unturned,un,cl100k_base,"['un', 'turned']",Correct,byte_level_bpe,True
+11172,atypical,a,cl100k_base,"['at', 'ypical']",Incorrect,byte_level_bpe,True
+11182,uncompromising,un,cl100k_base,"['un', 'comp', 'rom', 'ising']",Correct,byte_level_bpe,True
+11192,underhand,under,cl100k_base,"['under', 'hand']",Correct,byte_level_bpe,False
+11202,ununderstood,un,cl100k_base,"['un', 'under', 'stood']",Correct,byte_level_bpe,True
+11212,unguiculate,un,cl100k_base,"['ung', 'u', 'ic', 'ulate']",Incorrect,byte_level_bpe,False
+11222,nonunion,non,cl100k_base,"['non', 'union']",Correct,byte_level_bpe,True
+11232,misused,mis,cl100k_base,"['mis', 'used']",Correct,byte_level_bpe,True
+11242,useless,less,cl100k_base,"['use', 'less']",Correct,byte_level_bpe,True
+11252,unusual,un,cl100k_base,"['un', 'usual']",Correct,byte_level_bpe,False
+11262,dystopian,dys,cl100k_base,"['d', 'yst', 'opian']",Incorrect,byte_level_bpe,True
+11272,invalid,in,cl100k_base,['invalid'],Not segmented,byte_level_bpe,False
+11282,invariable,in,cl100k_base,"['in', 'variable']",Correct,byte_level_bpe,False
+11292,unvaried,un,cl100k_base,"['un', 'var', 'ied']",Correct,byte_level_bpe,True
+11302,avascular,a,cl100k_base,"['av', 'ascular']",Incorrect,byte_level_bpe,True
+11312,unveiled,un,cl100k_base,"['un', 've', 'iled']",Correct,byte_level_bpe,False
+11322,unventilated,un,cl100k_base,"['un', 'vent', 'ilated']",Correct,byte_level_bpe,True
+11332,invertebrate,in,cl100k_base,"['in', 'verte', 'brate']",Correct,byte_level_bpe,True
+11342,inviolable,in,cl100k_base,"['in', 'viol', 'able']",Correct,byte_level_bpe,True
+11352,nonviolent,non,cl100k_base,"['non', 'violent']",Correct,byte_level_bpe,True
+11362,avirulent,a,cl100k_base,"['av', 'ir', 'ulent']",Incorrect,byte_level_bpe,True
+11372,invisible,in,cl100k_base,['invisible'],Not segmented,byte_level_bpe,True
+11382,unvoiced,un,cl100k_base,"['un', 'vo', 'iced']",Correct,byte_level_bpe,True
+11392,nonvolatile,non,cl100k_base,"['non', 'volatile']",Correct,byte_level_bpe,True
+11402,involuntary,in,cl100k_base,"['in', 'vol', 'untary']",Correct,byte_level_bpe,True
+11412,invulnerable,in,cl100k_base,"['inv', 'ulnerable']",Incorrect,byte_level_bpe,True
+11422,unwanted,un,cl100k_base,"['un', 'wanted']",Correct,byte_level_bpe,True
+11432,unwary,un,cl100k_base,"['un', 'w', 'ary']",Correct,byte_level_bpe,True
+11442,nonwashable,non,cl100k_base,"['non', 'wash', 'able']",Correct,byte_level_bpe,True
+11452,unwaxed,un,cl100k_base,"['un', 'w', 'axed']",Correct,byte_level_bpe,True
+11462,unweaned,un,cl100k_base,"['un', 'we', 'aned']",Correct,byte_level_bpe,True
+11472,unwearable,un,cl100k_base,"['un', 'wear', 'able']",Correct,byte_level_bpe,True
+11482,unwebbed,un,cl100k_base,"['un', 'web', 'bed']",Correct,byte_level_bpe,True
+11492,weedless,less,cl100k_base,"['weed', 'less']",Correct,byte_level_bpe,True
+11502,weightless,less,cl100k_base,"['weight', 'less']",Correct,byte_level_bpe,False
+11512,unwelcome,un,cl100k_base,"['un', 'welcome']",Correct,byte_level_bpe,True
+11522,ill-advised,ill,cl100k_base,"['ill', '-ad', 'vised']",Correct,byte_level_bpe,True
+11532,ill-defined,ill,cl100k_base,"['ill', '-defined']",Correct,byte_level_bpe,True
+11542,wheelless,less,cl100k_base,"['wheel', 'less']",Correct,byte_level_bpe,True
+11552,unwholesome,un,cl100k_base,"['un', 'wh', 'oles', 'ome']",Correct,byte_level_bpe,True
+11562,unwieldy,un,cl100k_base,"['un', 'w', 'ield', 'y']",Correct,byte_level_bpe,True
+11572,wigless,less,cl100k_base,"['wig', 'less']",Correct,byte_level_bpe,True
+11582,unwilling,un,cl100k_base,"['un', 'w', 'illing']",Correct,byte_level_bpe,True
+11592,wired,un,cl100k_base,"['w', 'ired']",Incorrect,byte_level_bpe,False
+11602,unwitting,un,cl100k_base,"['un', 'w', 'itting']",Correct,byte_level_bpe,True
+11612,unwomanly,un,cl100k_base,"['un', 'woman', 'ly']",Correct,byte_level_bpe,True
+11622,unwooded,un,cl100k_base,"['un', 'wood', 'ed']",Correct,byte_level_bpe,True
+11632,nonwoody,non,cl100k_base,"['non', 'wo', 'ody']",Correct,byte_level_bpe,True
+11642,unworldly,un,cl100k_base,"['un', 'world', 'ly']",Correct,byte_level_bpe,True
+11652,unworthy,un,cl100k_base,"['un', 'worthy']",Correct,byte_level_bpe,True
+11662,unwoven,un,cl100k_base,"['un', 'w', 'oven']",Correct,byte_level_bpe,True
+11672,unwrapped,un,cl100k_base,"['un', 'wrapped']",Correct,byte_level_bpe,True
+11682,unwrinkled,un,cl100k_base,"['un', 'wr', 'ink', 'led']",Correct,byte_level_bpe,True
+11692,unwritten,un,cl100k_base,"['un', 'written']",Correct,byte_level_bpe,True
+11702,azonal,a,cl100k_base,"['azon', 'al']",Incorrect,byte_level_bpe,True
+11712,Nonconformist,non,cl100k_base,"['Non', 'con', 'form', 'ist']",Incorrect,byte_level_bpe,True
+11722,inability,in,cl100k_base,"['in', 'ability']",Correct,byte_level_bpe,True
+11732,nonabsorbency,non,cl100k_base,"['non', 'abs', 'orb', 'ency']",Correct,byte_level_bpe,True
+11742,deceleration,de,cl100k_base,"['de', 'cel', 'eration']",Correct,byte_level_bpe,True
+11752,unacceptability,un,cl100k_base,"['un', 'accept', 'ability']",Correct,byte_level_bpe,True
+11762,inaccessibility,in,cl100k_base,"['in', 'access', 'ibility']",Correct,byte_level_bpe,True
+11772,inaccuracy,in,cl100k_base,"['in', 'accuracy']",Correct,byte_level_bpe,True
+11782,inaction,in,cl100k_base,"['in', 'action']",Correct,byte_level_bpe,True
+11792,inactivation,in,cl100k_base,"['in', 'activation']",Correct,byte_level_bpe,True
+11802,inhibitor,in,cl100k_base,"['in', 'hib', 'itor']",Correct,byte_level_bpe,True
+11812,inactiveness,in,cl100k_base,"['in', 'act', 'iveness']",Correct,byte_level_bpe,True
+11822,inactivity,in,cl100k_base,"['in', 'activity']",Correct,byte_level_bpe,True
+11832,unadaptability,un,cl100k_base,"['un', 'adapt', 'ability']",Correct,byte_level_bpe,True
+11842,inadequacy,in,cl100k_base,"['in', 'ade', 'qu', 'acy']",Correct,byte_level_bpe,True
+11852,inadmissibility,in,cl100k_base,"['in', 'ad', 'miss', 'ibility']",Correct,byte_level_bpe,True
+11862,inadvisability,in,cl100k_base,"['in', 'ad', 'vis', 'ability']",Correct,byte_level_bpe,True
+11872,disagreeableness,dis,cl100k_base,"['dis', 'agree', 'ab', 'leness']",Correct,byte_level_bpe,True
+11882,disagreement,dis,cl100k_base,"['dis', 'ag', 'reement']",Correct,byte_level_bpe,True
+11892,nonalignment,non,cl100k_base,"['non', 'alignment']",Correct,byte_level_bpe,True
+11902,unalterability,un,cl100k_base,"['unal', 'ter', 'ability']",Incorrect,byte_level_bpe,True
+11912,inanimateness,in,cl100k_base,"['in', 'anim', 'aten', 'ess']",Correct,byte_level_bpe,True
+11922,anovulation,an,cl100k_base,"['an', 'ov', 'ulation']",Correct,byte_level_bpe,True
+11932,anaphrodisia,an,cl100k_base,"['an', 'aph', 'ro', 'dis', 'ia']",Correct,byte_level_bpe,True
+11942,disappearance,dis,cl100k_base,"['dis', 'appearance']",Correct,byte_level_bpe,False
+11952,unappetizingness,un,cl100k_base,"['un', 'app', 'et', 'izing', 'ness']",Correct,byte_level_bpe,True
+11962,inapplicability,in,cl100k_base,"['in', 'app', 'lic', 'ability']",Correct,byte_level_bpe,True
+11972,inappositeness,in,cl100k_base,"['in', 'app', 'os', 'iten', 'ess']",Correct,byte_level_bpe,True
+11982,depreciation,de,cl100k_base,"['de', 'preci', 'ation']",Correct,byte_level_bpe,False
+11992,unapproachability,un,cl100k_base,"['un', 'appro', 'ach', 'ability']",Correct,byte_level_bpe,True
+12002,disapprobation,dis,cl100k_base,"['dis', 'appro', 'b', 'ation']",Correct,byte_level_bpe,True
+12012,inappropriateness,in,cl100k_base,"['in', 'appropri', 'aten', 'ess']",Correct,byte_level_bpe,True
+12022,inaptitude,in,cl100k_base,"['in', 'apt', 'itude']",Correct,byte_level_bpe,True
+12032,inaptness,in,cl100k_base,"['in', 'ap', 'tn', 'ess']",Correct,byte_level_bpe,True
+12042,disarmament,dis,cl100k_base,"['dis', 'arm', 'ament']",Correct,byte_level_bpe,False
+12052,disarming,dis,cl100k_base,"['dis', 'arming']",Correct,byte_level_bpe,False
+12062,artlessness,less,cl100k_base,"['art', 'lessness']",Incorrect,byte_level_bpe,True
+12072,disassembly,dis,cl100k_base,"['dis', 'assembly']",Correct,byte_level_bpe,True
+12082,disassociation,dis,cl100k_base,"['dis', 'association']",Correct,byte_level_bpe,True
+12092,disassortative_mating,dis,cl100k_base,"['dis', 'ass', 'ort', 'ative', '_m', 'ating']",Correct,byte_level_bpe,False
+12102,nonattendance,non,cl100k_base,"['non', 'attendance']",Correct,byte_level_bpe,True
+12112,inattention,in,cl100k_base,"['in', 'attention']",Correct,byte_level_bpe,True
+12122,inattentiveness,in,cl100k_base,"['in', 'att', 'ent', 'iveness']",Correct,byte_level_bpe,True
+12132,unattractiveness,un,cl100k_base,"['un', 'at', 'tract', 'iveness']",Correct,byte_level_bpe,True
+12142,inaudibility,in,cl100k_base,"['ina', 'ud', 'ibility']",Incorrect,byte_level_bpe,True
+12152,uncle,un,cl100k_base,"['unc', 'le']",Incorrect,byte_level_bpe,False
+12162,inauspiciousness,in,cl100k_base,"['ina', 'usp', 'icious', 'ness']",Incorrect,byte_level_bpe,True
+12172,unavailability,un,cl100k_base,"['un', 'availability']",Correct,byte_level_bpe,True
+12182,imbalance,im,cl100k_base,"['imb', 'alance']",Incorrect,byte_level_bpe,True
+12192,unbecomingness,un,cl100k_base,"['un', 'bec', 'oming', 'ness']",Correct,byte_level_bpe,True
+12202,nonbeing,non,cl100k_base,"['non', 'being']",Correct,byte_level_bpe,True
+12212,unbelief,un,cl100k_base,"['un', 'belief']",Correct,byte_level_bpe,True
+12222,maleficence,mal,cl100k_base,"['male', 'fic', 'ence']",Incorrect,byte_level_bpe,False
+12232,malevolence,mal,cl100k_base,"['male', 'vol', 'ence']",Incorrect,byte_level_bpe,False
+12242,malignancy,mal,cl100k_base,"['m', 'align', 'ancy']",Incorrect,byte_level_bpe,False
+12252,malignity,mal,cl100k_base,"['m', 'align', 'ity']",Incorrect,byte_level_bpe,False
+12262,nonbiodegradable_pollution,non,cl100k_base,"['non', 'bi', 'ode', 'gradable', '_poll', 'ution']",Correct,byte_level_bpe,True
+12272,unbreakableness,un,cl100k_base,"['un', 'break', 'ab', 'leness']",Correct,byte_level_bpe,False
+12282,incapability,in,cl100k_base,"['inc', 'ap', 'ability']",Incorrect,byte_level_bpe,True
+12292,incapableness,in,cl100k_base,"['inc', 'ap', 'ab', 'leness']",Incorrect,byte_level_bpe,True
+12302,incapacity,in,cl100k_base,"['inc', 'ap', 'acity']",Incorrect,byte_level_bpe,True
+12312,carelessness,less,cl100k_base,"['care', 'lessness']",Incorrect,byte_level_bpe,False
+12322,anticatalyst,anti,cl100k_base,"['antic', 'atal', 'yst']",Incorrect,byte_level_bpe,True
+12332,syncategorem,syn,cl100k_base,"['sync', 'ateg', 'orem']",Incorrect,byte_level_bpe,False
+12342,syncategoreme,syn,cl100k_base,"['sync', 'ateg', 'ore', 'me']",Incorrect,byte_level_bpe,False
+12352,incaution,in,cl100k_base,"['in', 'ca', 'ution']",Correct,byte_level_bpe,True
+12362,decentralization,de,cl100k_base,"['de', 'central', 'ization']",Correct,byte_level_bpe,False
+12372,unceremoniousness,un,cl100k_base,"['unc', 'er', 'emon', 'ious', 'ness']",Incorrect,byte_level_bpe,True
+12382,uncertainty,un,cl100k_base,"['unc', 'ertainty']",Incorrect,byte_level_bpe,False
+12392,changelessness,less,cl100k_base,"['change', 'lessness']",Incorrect,byte_level_bpe,True
+12402,cheerlessness,less,cl100k_base,"['che', 'er', 'lessness']",Incorrect,byte_level_bpe,True
+12412,uncheerfulness,un,cl100k_base,"['un', 'che', 'er', 'fulness']",Correct,byte_level_bpe,True
+12422,achromatic_color,a,cl100k_base,"['ach', 'romatic', '_color']",Incorrect,byte_level_bpe,False
+12432,noncitizen,non,cl100k_base,"['non', 'cit', 'izen']",Correct,byte_level_bpe,True
+12442,incivility,in,cl100k_base,"['inc', 'iv', 'ility']",Incorrect,byte_level_bpe,True
+12452,declassification,de,cl100k_base,"['de', 'classification']",Correct,byte_level_bpe,False
+12462,uncleanliness,un,cl100k_base,"['unc', 'lean', 'liness']",Incorrect,byte_level_bpe,True
+12472,unclearness,un,cl100k_base,"['unc', 'lear', 'ness']",Incorrect,byte_level_bpe,False
+12482,incognizance,in,cl100k_base,"['inc', 'ogn', 'iz', 'ance']",Incorrect,byte_level_bpe,True
+12492,colorlessness,less,cl100k_base,"['color', 'lessness']",Incorrect,byte_level_bpe,True
+12502,discomfort,dis,cl100k_base,"['dis', 'comfort']",Correct,byte_level_bpe,True
+12512,uncommonness,un,cl100k_base,"['un', 'common', 'ness']",Correct,byte_level_bpe,False
+12522,uncommunicativeness,un,cl100k_base,"['un', 'communic', 'at', 'iveness']",Correct,byte_level_bpe,True
+12532,incompatibility,in,cl100k_base,"['in', 'compat', 'ibility']",Correct,byte_level_bpe,True
+12542,incompetence,in,cl100k_base,"['in', 'compet', 'ence']",Correct,byte_level_bpe,True
+12552,incompleteness,in,cl100k_base,"['in', 'com', 'ple', 'teness']",Correct,byte_level_bpe,True
+12562,discomposure,dis,cl100k_base,"['dis', 'com', 'posure']",Correct,byte_level_bpe,True
+12572,incomprehensibility,in,cl100k_base,"['in', 'com', 'preh', 'ens', 'ibility']",Correct,byte_level_bpe,True
+12582,incomprehension,in,cl100k_base,"['in', 'com', 'preh', 'ension']",Correct,byte_level_bpe,True
+12592,incompressibility,in,cl100k_base,"['in', 'compress', 'ibility']",Correct,byte_level_bpe,True
+12602,decompression,de,cl100k_base,"['de', 'compression']",Correct,byte_level_bpe,False
+12612,misconception,mis,cl100k_base,"['mis', 'con', 'ception']",Correct,byte_level_bpe,True
+12622,unconcern,un,cl100k_base,"['un', 'con', 'cern']",Correct,byte_level_bpe,True
+12632,inconclusiveness,in,cl100k_base,"['in', 'con', 'clus', 'iveness']",Correct,byte_level_bpe,False
+12642,insulator,in,cl100k_base,"['ins', 'ulator']",Incorrect,byte_level_bpe,False
+12652,nonconformism,non,cl100k_base,"['non', 'con', 'form', 'ism']",Correct,byte_level_bpe,True
+12662,nonconformist,non,cl100k_base,"['non', 'con', 'form', 'ist']",Correct,byte_level_bpe,True
+12672,nonconformity,non,cl100k_base,"['non', 'con', 'form', 'ity']",Correct,byte_level_bpe,True
+12682,uncongeniality,un,cl100k_base,"['un', 'con', 'gen', 'ial', 'ity']",Correct,byte_level_bpe,True
+12692,incongruity,in,cl100k_base,"['in', 'con', 'gr', 'uity']",Correct,byte_level_bpe,False
+12702,incongruousness,in,cl100k_base,"['in', 'con', 'gr', 'uous', 'ness']",Correct,byte_level_bpe,False
+12712,unconnectedness,un,cl100k_base,"['un', 'connected', 'ness']",Correct,byte_level_bpe,True
+12722,unconscientiousness,un,cl100k_base,"['un', 'con', 'scient', 'ious', 'ness']",Correct,byte_level_bpe,True
+12732,unconsciousness,un,cl100k_base,"['un', 'conscious', 'ness']",Correct,byte_level_bpe,True
+12742,inconsequence,in,cl100k_base,"['in', 'con', 'sequence']",Correct,byte_level_bpe,True
+12752,inconsideration,in,cl100k_base,"['in', 'consider', 'ation']",Correct,byte_level_bpe,True
+12762,inconsistency,in,cl100k_base,"['in', 'cons', 'istency']",Correct,byte_level_bpe,False
+12772,inconspicuousness,in,cl100k_base,"['in', 'con', 'sp', 'ic', 'uous', 'ness']",Correct,byte_level_bpe,True
+12782,misconstruction,mis,cl100k_base,"['mis', 'construction']",Correct,byte_level_bpe,True
+12792,destructiveness,de,cl100k_base,"['destruct', 'iveness']",Incorrect,byte_level_bpe,False
+12802,decontamination,de,cl100k_base,"['de', 'cont', 'amination']",Correct,byte_level_bpe,False
+12812,discontentment,dis,cl100k_base,"['dis', 'content', 'ment']",Correct,byte_level_bpe,True
+12822,discontinuance,dis,cl100k_base,"['dis', 'contin', 'u', 'ance']",Correct,byte_level_bpe,True
+12832,discontinuation,dis,cl100k_base,"['dis', 'contin', 'uation']",Correct,byte_level_bpe,True
+12842,inconvenience,in,cl100k_base,"['in', 'con', 'venience']",Correct,byte_level_bpe,True
+12852,convergence,dis,cl100k_base,"['con', 'vergence']",Incorrect,byte_level_bpe,False
+12862,divergency,di,cl100k_base,"['div', 'ergency']",Incorrect,byte_level_bpe,False
+12872,divergent_thinking,di,cl100k_base,"['div', 'erg', 'ent', '_th', 'inking']",Incorrect,byte_level_bpe,False
+12882,inconvertibility,in,cl100k_base,"['in', 'convert', 'ibility']",Correct,byte_level_bpe,True
+12892,incoordination,in,cl100k_base,"['in', 'coord', 'ination']",Correct,byte_level_bpe,True
+12902,incorporeality,in,cl100k_base,"['inc', 'orp', 'ore', 'ality']",Incorrect,byte_level_bpe,False
+12912,incorrectness,in,cl100k_base,"['incorrect', 'ness']",Incorrect,byte_level_bpe,True
+12922,incorruptibility,in,cl100k_base,"['inc', 'or', 'rupt', 'ibility']",Incorrect,byte_level_bpe,True
+12932,incorruptness,in,cl100k_base,"['inc', 'or', 'rupt', 'ness']",Incorrect,byte_level_bpe,False
+12942,discourtesy,dis,cl100k_base,"['disc', 'our', 'tesy']",Incorrect,byte_level_bpe,True
+12952,uncreativeness,un,cl100k_base,"['un', 'creat', 'iveness']",Correct,byte_level_bpe,True
+12962,incredibility,in,cl100k_base,"['in', 'cred', 'ibility']",Correct,byte_level_bpe,False
+12972,decriminalisation,de,cl100k_base,"['de', 'criminal', 'isation']",Correct,byte_level_bpe,False
+12982,decriminalization,de,cl100k_base,"['de', 'criminal', 'ization']",Correct,byte_level_bpe,False
+12992,incurability,in,cl100k_base,"['in', 'cur', 'ability']",Correct,byte_level_bpe,True
+13002,incurableness,in,cl100k_base,"['in', 'cur', 'ab', 'leness']",Correct,byte_level_bpe,False
+13012,deactivation,de,cl100k_base,"['de', 'activation']",Correct,byte_level_bpe,True
+13022,indecency,in,cl100k_base,"['in', 'dec', 'ency']",Correct,byte_level_bpe,False
+13032,indecision,in,cl100k_base,"['in', 'decision']",Correct,byte_level_bpe,True
+13042,indecisiveness,in,cl100k_base,"['in', 'dec', 'is', 'iveness']",Correct,byte_level_bpe,False
+13052,indecorousness,in,cl100k_base,"['inde', 'cor', 'ous', 'ness']",Incorrect,byte_level_bpe,True
+13062,indecorum,in,cl100k_base,"['inde', 'cor', 'um']",Incorrect,byte_level_bpe,True
+13072,increment,in,cl100k_base,['increment'],Not segmented,byte_level_bpe,False
+13082,non-dedicated_file_server,non,cl100k_base,"['non', '-d', 'ed', 'icated', '_file', '_server']",Correct,byte_level_bpe,True
+13092,disinflation,dis,cl100k_base,"['dis', 'in', 'flation']",Correct,byte_level_bpe,False
+13102,deflation,de,cl100k_base,"['def', 'lation']",Incorrect,byte_level_bpe,False
+13112,undependability,un,cl100k_base,"['und', 'epend', 'ability']",Incorrect,byte_level_bpe,True
+13122,undependableness,un,cl100k_base,"['und', 'epend', 'ab', 'leness']",Incorrect,byte_level_bpe,True
+13132,undesirability,un,cl100k_base,"['und', 'es', 'ir', 'ability']",Incorrect,byte_level_bpe,True
+13142,indestructibility,in,cl100k_base,"['inde', 'struct', 'ibility']",Incorrect,byte_level_bpe,False
+13152,nondevelopment,non,cl100k_base,"['non', 'development']",Correct,byte_level_bpe,True
+13162,indigestibility,in,cl100k_base,"['ind', 'igest', 'ibility']",Incorrect,byte_level_bpe,True
+13172,indirectness,in,cl100k_base,"['ind', 'irect', 'ness']",Incorrect,byte_level_bpe,True
+13182,disapproval,dis,cl100k_base,"['dis', 'approval']",Correct,byte_level_bpe,True
+13192,indiscipline,in,cl100k_base,"['ind', 'isc', 'ipline']",Incorrect,byte_level_bpe,True
+13202,disembarkation,dis,cl100k_base,"['dis', 'emb', 'ark', 'ation']",Correct,byte_level_bpe,False
+13212,disequilibrium,dis,cl100k_base,"['d', 'ise', 'qu', 'ilibrium']",Incorrect,byte_level_bpe,True
+13222,indistinctness,in,cl100k_base,"['ind', 'ist', 'inct', 'ness']",Incorrect,byte_level_bpe,True
+13232,downtick,down,cl100k_base,"['d', 'ownt', 'ick']",Incorrect,byte_level_bpe,False
+13242,nondriver,non,cl100k_base,"['n', 'ond', 'river']",Incorrect,byte_level_bpe,True
+13252,unearned_run,un,cl100k_base,"['un', 'earned', '_run']",Correct,byte_level_bpe,False
+13262,ineffectiveness,in,cl100k_base,"['ine', 'ffect', 'iveness']",Incorrect,byte_level_bpe,True
+13272,inefficacy,in,cl100k_base,"['ine', 'ffic', 'acy']",Incorrect,byte_level_bpe,True
+13282,inefficiency,in,cl100k_base,"['ine', 'ff', 'iciency']",Incorrect,byte_level_bpe,True
+13292,effortlessness,less,cl100k_base,"['eff', 'ort', 'lessness']",Incorrect,byte_level_bpe,False
+13302,inelasticity,in,cl100k_base,"['inel', 'astic', 'ity']",Incorrect,byte_level_bpe,False
+13312,inelegance,in,cl100k_base,"['ine', 'leg', 'ance']",Incorrect,byte_level_bpe,True
+13322,ineligibility,in,cl100k_base,"['inel', 'ig', 'ibility']",Incorrect,byte_level_bpe,True
+13332,disembarrassment,dis,cl100k_base,"['dis', 'emb', 'arrass', 'ment']",Correct,byte_level_bpe,True
+13342,immersion,im,cl100k_base,"['imm', 'ersion']",Incorrect,byte_level_bpe,False
+13352,unemotional_person,un,cl100k_base,"['un', 'em', 'otional', '_person']",Correct,byte_level_bpe,True
+13362,unemotionality,un,cl100k_base,"['un', 'emotion', 'ality']",Correct,byte_level_bpe,True
+13372,unemployment,un,cl100k_base,"['un', 'employment']",Correct,byte_level_bpe,False
+13382,discouragement,dis,cl100k_base,"['disc', 'our', 'agement']",Incorrect,byte_level_bpe,True
+13392,disenfranchisement,dis,cl100k_base,"['dis', 'en', 'fr', 'anch', 'is', 'ement']",Correct,byte_level_bpe,True
+13402,non-engagement,non,cl100k_base,"['non', '-eng', 'agement']",Correct,byte_level_bpe,True
+13412,unenlightenment,un,cl100k_base,"['un', 'en', 'light', 'enment']",Correct,byte_level_bpe,True
+13422,inequality,in,cl100k_base,"['ine', 'quality']",Incorrect,byte_level_bpe,False
+13432,inequity,in,cl100k_base,"['ine', 'qu', 'ity']",Incorrect,byte_level_bpe,True
+13442,nonequivalence,non,cl100k_base,"['none', 'qu', 'ivalence']",Incorrect,byte_level_bpe,True
+13452,inessential,in,cl100k_base,"['iness', 'ential']",Incorrect,byte_level_bpe,True
+13462,inessentiality,in,cl100k_base,"['iness', 'ential', 'ity']",Incorrect,byte_level_bpe,True
+13472,dysgenics,dys,cl100k_base,"['d', 'ys', 'gen', 'ics']",Incorrect,byte_level_bpe,True
+13482,dysphemism,dys,cl100k_base,"['d', 'ys', 'phem', 'ism']",Incorrect,byte_level_bpe,True
+13492,dysphoria,dys,cl100k_base,"['d', 'ys', 'ph', 'oria']",Incorrect,byte_level_bpe,True
+13502,unevenness,un,cl100k_base,"['une', 'ven', 'ness']",Incorrect,byte_level_bpe,False
+13512,inexactness,in,cl100k_base,"['in', 'exact', 'ness']",Correct,byte_level_bpe,True
+13522,unexchangeability,un,cl100k_base,"['un', 'exchange', 'ability']",Correct,byte_level_bpe,True
+13532,nonexistence,non,cl100k_base,"['non', 'existence']",Correct,byte_level_bpe,True
+13542,unexpectedness,un,cl100k_base,"['unexpected', 'ness']",Incorrect,byte_level_bpe,False
+13552,inexpedience,in,cl100k_base,"['in', 'exp', 'ed', 'ience']",Correct,byte_level_bpe,True
+13562,inexpediency,in,cl100k_base,"['in', 'exp', 'edi', 'ency']",Correct,byte_level_bpe,True
+13572,inexpensiveness,in,cl100k_base,"['in', 'exp', 'ens', 'iveness']",Correct,byte_level_bpe,False
+13582,inexperience,in,cl100k_base,"['in', 'experience']",Correct,byte_level_bpe,True
+13592,inexplicitness,in,cl100k_base,"['in', 'explicit', 'ness']",Correct,byte_level_bpe,True
+13602,counterfactuality,counter,cl100k_base,"['counter', 'fact', 'uality']",Correct,byte_level_bpe,False
+13612,unfairness,un,cl100k_base,"['un', 'fair', 'ness']",Correct,byte_level_bpe,True
+13622,unfaithfulness,un,cl100k_base,"['un', 'faith', 'fulness']",Correct,byte_level_bpe,True
+13632,infamy,in,cl100k_base,"['inf', 'amy']",Incorrect,byte_level_bpe,False
+13642,unfamiliarity,un,cl100k_base,"['un', 'f', 'amiliar', 'ity']",Correct,byte_level_bpe,True
+13652,unfavorableness,un,cl100k_base,"['un', 'favor', 'ab', 'leness']",Correct,byte_level_bpe,True
+13662,fearlessness,less,cl100k_base,"['f', 'ear', 'lessness']",Incorrect,byte_level_bpe,True
+13672,infeasibility,in,cl100k_base,"['in', 'feas', 'ibility']",Correct,byte_level_bpe,True
+13682,infelicity,in,cl100k_base,"['inf', 'elic', 'ity']",Incorrect,byte_level_bpe,True
+13692,infidelity,in,cl100k_base,"['inf', 'idelity']",Incorrect,byte_level_bpe,True
+13702,unfitness,un,cl100k_base,"['un', 'fitness']",Correct,byte_level_bpe,True
+13712,inflexibility,in,cl100k_base,"['in', 'flex', 'ibility']",Correct,byte_level_bpe,True
+13722,disfluency,dis,cl100k_base,"['dis', 'flu', 'ency']",Correct,byte_level_bpe,True
+13732,informality,in,cl100k_base,"['inform', 'ality']",Incorrect,byte_level_bpe,False
+13742,unfriendliness,un,cl100k_base,"['un', 'friend', 'liness']",Correct,byte_level_bpe,True
+13752,fruitlessness,less,cl100k_base,"['fruit', 'lessness']",Incorrect,byte_level_bpe,True
+13762,ungodliness,un,cl100k_base,"['ung', 'od', 'liness']",Incorrect,byte_level_bpe,True
+13772,misfortune,mis,cl100k_base,"['mis', 'fortune']",Correct,byte_level_bpe,True
+13782,ungraciousness,un,cl100k_base,"['un', 'gr', 'acious', 'ness']",Correct,byte_level_bpe,True
+13792,ingratitude,in,cl100k_base,"['ing', 'r', 'atitude']",Incorrect,byte_level_bpe,True
+13802,gutlessness,less,cl100k_base,"['g', 'ut', 'lessness']",Incorrect,byte_level_bpe,True
+13812,hairlessness,less,cl100k_base,"['hair', 'lessness']",Incorrect,byte_level_bpe,True
+13822,unhappiness,un,cl100k_base,"['un', 'h', 'appiness']",Correct,byte_level_bpe,True
+13832,dissonance,dis,cl100k_base,"['dis', 'son', 'ance']",Correct,byte_level_bpe,False
+13842,unhealthfulness,un,cl100k_base,"['un', 'health', 'fulness']",Correct,byte_level_bpe,True
+13852,heedlessness,less,cl100k_base,"['heed', 'lessness']",Incorrect,byte_level_bpe,True
+13862,off-season,off,cl100k_base,"['off', '-season']",Correct,byte_level_bpe,False
+13872,unholiness,un,cl100k_base,"['un', 'hol', 'iness']",Correct,byte_level_bpe,True
+13882,dishonesty,dis,cl100k_base,"['dish', 'onest', 'y']",Incorrect,byte_level_bpe,True
+13892,dishonorableness,dis,cl100k_base,"['dish', 'onor', 'ab', 'leness']",Incorrect,byte_level_bpe,True
+13902,hopelessness,less,cl100k_base,"['hope', 'lessness']",Incorrect,byte_level_bpe,True
+13912,inhospitableness,in,cl100k_base,"['inh', 'osp', 'it', 'ab', 'leness']",Incorrect,byte_level_bpe,True
+13922,inhospitality,in,cl100k_base,"['inh', 'ospital', 'ity']",Incorrect,byte_level_bpe,True
+13932,inhumaneness,in,cl100k_base,"['inh', 'uman', 'eness']",Incorrect,byte_level_bpe,True
+13942,hypoglycemia,hypo,cl100k_base,"['hyp', 'og', 'ly', 'c', 'emia']",Incorrect,byte_level_bpe,False
+13952,hypokalemia,hypo,cl100k_base,"['hyp', 'ok', 'alem', 'ia']",Incorrect,byte_level_bpe,False
+13962,hypoparathyroidism,hypo,cl100k_base,"['hyp', 'op', 'ar', 'athy', 'roid', 'ism']",Incorrect,byte_level_bpe,False
+13972,insomnia,in,cl100k_base,"['ins', 'omnia']",Incorrect,byte_level_bpe,False
+13982,hypothermia,hypo,cl100k_base,"['hyp', 'other', 'mia']",Incorrect,byte_level_bpe,False
+13992,hypotonia,hypo,cl100k_base,"['hyp', 'ot', 'onia']",Incorrect,byte_level_bpe,False
+14002,hypotonicity,hypo,cl100k_base,"['hyp', 'ot', 'onic', 'ity']",Incorrect,byte_level_bpe,False
+14012,hypotonus,hypo,cl100k_base,"['hyp', 'oton', 'us']",Incorrect,byte_level_bpe,False
+14022,hypovolemia,hypo,cl100k_base,"['hyp', 'ov', 'olem', 'ia']",Incorrect,byte_level_bpe,False
+14032,immediacy,im,cl100k_base,"['im', 'medi', 'acy']",Correct,byte_level_bpe,False
+14042,unimportance,un,cl100k_base,"['un', 'import', 'ance']",Correct,byte_level_bpe,True
+14052,impotence,im,cl100k_base,"['imp', 'otence']",Incorrect,byte_level_bpe,False
+14062,out-basket,out,cl100k_base,"['out', '-basket']",Correct,byte_level_bpe,False
+14072,disincentive,dis,cl100k_base,"['dis', 'in', 'cent', 'ive']",Correct,byte_level_bpe,True
+14082,disinclination,dis,cl100k_base,"['dis', 'incl', 'ination']",Correct,byte_level_bpe,True
+14092,incoherence,in,cl100k_base,"['in', 'co', 'herence']",Correct,byte_level_bpe,True
+14102,outgo,out,cl100k_base,"['out', 'go']",Correct,byte_level_bpe,False
+14112,contraindication,contra,cl100k_base,"['contr', 'ain', 'd', 'ication']",Incorrect,byte_level_bpe,True
+14122,indispensability,in,cl100k_base,"['ind', 'ispens', 'ability']",Incorrect,byte_level_bpe,False
+14132,indispensableness,in,cl100k_base,"['ind', 'ispens', 'ab', 'leness']",Incorrect,byte_level_bpe,False
+14142,inerrancy,in,cl100k_base,"['in', 'err', 'ancy']",Correct,byte_level_bpe,True
+14152,infallibility,in,cl100k_base,"['in', 'fall', 'ibility']",Correct,byte_level_bpe,False
+14162,infertility,in,cl100k_base,"['inf', 'ertility']",Incorrect,byte_level_bpe,True
+14172,outfield,out,cl100k_base,"['out', 'field']",Correct,byte_level_bpe,False
+14182,infiniteness,in,cl100k_base,"['inf', 'init', 'eness']",Incorrect,byte_level_bpe,False
+14192,deflationary_spiral,de,cl100k_base,"['def', 'lation', 'ary', '_s', 'pir', 'al']",Incorrect,byte_level_bpe,False
+14202,outflow,out,cl100k_base,"['out', 'flow']",Correct,byte_level_bpe,False
+14212,efflux,ef,cl100k_base,"['eff', 'lux']",Incorrect,byte_level_bpe,False
+14222,disingenuousness,dis,cl100k_base,"['d', 'ising', 'enuous', 'ness']",Incorrect,byte_level_bpe,True
+14232,uninitiate,un,cl100k_base,"['un', 'init', 'iate']",Correct,byte_level_bpe,True
+14242,outpatient,out,cl100k_base,"['out', 'patient']",Correct,byte_level_bpe,False
+14252,instability,in,cl100k_base,"['inst', 'ability']",Incorrect,byte_level_bpe,True
+14262,uninsurability,un,cl100k_base,"['un', 'ins', 'ur', 'ability']",Correct,byte_level_bpe,True
+14272,unintelligibility,un,cl100k_base,"['un', 'int', 'ellig', 'ibility']",Correct,byte_level_bpe,True
+14282,uninterestingness,un,cl100k_base,"['un', 'interesting', 'ness']",Correct,byte_level_bpe,True
+14292,noninterference,non,cl100k_base,"['non', 'inter', 'ference']",Correct,byte_level_bpe,True
+14302,nonintervention,non,cl100k_base,"['non', 'int', 'ervention']",Correct,byte_level_bpe,True
+14312,non-involvement,non,cl100k_base,"['non', '-in', 'vol', 'vement']",Correct,byte_level_bpe,True
+14322,injudiciousness,in,cl100k_base,"['in', 'jud', 'icious', 'ness']",Correct,byte_level_bpe,True
+14332,injustice,in,cl100k_base,"['in', 'justice']",Correct,byte_level_bpe,True
+14342,unkindness,un,cl100k_base,"['unk', 'ind', 'ness']",Incorrect,byte_level_bpe,True
+14352,unlawfulness,un,cl100k_base,"['un', 'law', 'fulness']",Correct,byte_level_bpe,True
+14362,unleaded_gasoline,un,cl100k_base,"['un', 'le', 'aded', '_gas', 'oline']",Correct,byte_level_bpe,False
+14372,illegality,il,cl100k_base,"['il', 'leg', 'ality']",Correct,byte_level_bpe,True
+14382,illegibility,il,cl100k_base,"['il', 'leg', 'ibility']",Correct,byte_level_bpe,True
+14392,illegitimacy,il,cl100k_base,"['il', 'leg', 'it', 'im', 'acy']",Correct,byte_level_bpe,True
+14402,illiberality,il,cl100k_base,"['ill', 'iber', 'ality']",Incorrect,byte_level_bpe,True
+14412,illicitness,il,cl100k_base,"['il', 'licit', 'ness']",Correct,byte_level_bpe,True
+14422,unlikelihood,un,cl100k_base,"['un', 'likelihood']",Correct,byte_level_bpe,True
+14432,unlikeliness,un,cl100k_base,"['un', 'lik', 'eliness']",Correct,byte_level_bpe,True
+14442,unlikeness,un,cl100k_base,"['un', 'li', 'ken', 'ess']",Correct,byte_level_bpe,True
+14452,dislike,dis,cl100k_base,"['dis', 'like']",Correct,byte_level_bpe,True
+14462,unlisted_security,un,cl100k_base,"['un', 'listed', '_security']",Correct,byte_level_bpe,False
+14472,illiteracy,il,cl100k_base,"['ill', 'iter', 'acy']",Incorrect,byte_level_bpe,True
+14482,unloading,un,cl100k_base,"['un', 'loading']",Correct,byte_level_bpe,False
+14492,illogicality,il,cl100k_base,"['il', 'logical', 'ity']",Correct,byte_level_bpe,True
+14502,illogicalness,il,cl100k_base,"['il', 'logical', 'ness']",Correct,byte_level_bpe,True
+14512,disloyalty,dis,cl100k_base,"['dis', 'loy', 'alty']",Correct,byte_level_bpe,True
+14522,unmalleability,un,cl100k_base,"['un', 'm', 'alle', 'ability']",Correct,byte_level_bpe,True
+14532,non-market_economy,non,cl100k_base,"['non', '-market', '_e', 'conomy']",Correct,byte_level_bpe,True
+14542,immateriality,im,cl100k_base,"['im', 'material', 'ity']",Correct,byte_level_bpe,True
+14552,immaturity,im,cl100k_base,"['imm', 'aturity']",Incorrect,byte_level_bpe,False
+14562,meaninglessness,less,cl100k_base,"['meaning', 'lessness']",Incorrect,byte_level_bpe,True
+14572,nonmember,non,cl100k_base,"['non', 'member']",Correct,byte_level_bpe,True
+14582,mercilessness,less,cl100k_base,"['merc', 'iless', 'ness']",Incorrect,byte_level_bpe,True
+14592,demerit,de,cl100k_base,"['dem', 'er', 'it']",Incorrect,byte_level_bpe,True
+14602,unmindfulness,un,cl100k_base,"['un', 'mind', 'fulness']",Correct,byte_level_bpe,True
+14612,immobility,im,cl100k_base,"['imm', 'ob', 'ility']",Incorrect,byte_level_bpe,True
+14622,demobilization,de,cl100k_base,"['dem', 'obil', 'ization']",Incorrect,byte_level_bpe,False
+14632,immoderation,im,cl100k_base,"['im', 'mod', 'eration']",Correct,byte_level_bpe,True
+14642,immodesty,im,cl100k_base,"['im', 'mod', 'esty']",Correct,byte_level_bpe,True
+14652,demonetization,de,cl100k_base,"['d', 'emon', 'et', 'ization']",Incorrect,byte_level_bpe,False
+14662,immorality,im,cl100k_base,"['imm', 'or', 'ality']",Incorrect,byte_level_bpe,True
+14672,immortality,im,cl100k_base,"['imm', 'ortality']",Incorrect,byte_level_bpe,False
+14682,immotility,im,cl100k_base,"['imm', 'ot', 'ility']",Incorrect,byte_level_bpe,True
+14692,motionlessness,less,cl100k_base,"['motion', 'lessness']",Incorrect,byte_level_bpe,True
+14702,immovability,im,cl100k_base,"['imm', 'ov', 'ability']",Incorrect,byte_level_bpe,False
+14712,immovableness,im,cl100k_base,"['imm', 'ov', 'ab', 'leness']",Incorrect,byte_level_bpe,False
+14722,immutability,im,cl100k_base,"['im', 'mut', 'ability']",Correct,byte_level_bpe,False
+14732,immutableness,im,cl100k_base,"['im', 'mut', 'ab', 'leness']",Correct,byte_level_bpe,False
+14742,denationalization,de,cl100k_base,"['den', 'ational', 'ization']",Incorrect,byte_level_bpe,True
+14752,unnaturalness,un,cl100k_base,"['unn', 'atural', 'ness']",Incorrect,byte_level_bpe,True
+14762,unneighborliness,un,cl100k_base,"['un', 'neighbor', 'liness']",Correct,byte_level_bpe,True
+14772,antinode,anti,cl100k_base,"['ant', 'inode']",Incorrect,byte_level_bpe,False
+14782,non-proliferation,non,cl100k_base,"['non', '-pro', 'l', 'ifer', 'ation']",Correct,byte_level_bpe,True
+14792,nondrinker,non,cl100k_base,"['n', 'ond', 'rink', 'er']",Incorrect,byte_level_bpe,True
+14802,nonproliferation,non,cl100k_base,"['non', 'pro', 'l', 'ifer', 'ation']",Correct,byte_level_bpe,True
+14812,nonsingular_matrix,non,cl100k_base,"['n', 'ons', 'ingular', '_matrix']",Incorrect,byte_level_bpe,False
+14822,nonsmoker,non,cl100k_base,"['n', 'ons', 'm', 'oker']",Incorrect,byte_level_bpe,True
+14832,nonvolatile_storage,non,cl100k_base,"['non', 'volatile', '_storage']",Correct,byte_level_bpe,True
+14842,nonworker,non,cl100k_base,"['non', 'worker']",Correct,byte_level_bpe,True
+14852,abnormality,ab,cl100k_base,"['ab', 'normal', 'ity']",Correct,byte_level_bpe,False
+14862,disobedience,dis,cl100k_base,"['dis', 'ob', 'ed', 'ience']",Correct,byte_level_bpe,True
+14872,nonobservance,non,cl100k_base,"['non', 'observ', 'ance']",Correct,byte_level_bpe,True
+14882,unobtrusiveness,un,cl100k_base,"['un', 'ob', 'tr', 'us', 'iveness']",Correct,byte_level_bpe,True
+14892,defense,de,cl100k_base,['defense'],Not segmented,byte_level_bpe,False
+14902,inopportuneness,in,cl100k_base,"['in', 'op', 'portun', 'eness']",Correct,byte_level_bpe,True
+14912,disorderliness,dis,cl100k_base,"['dis', 'order', 'liness']",Correct,byte_level_bpe,False
+14922,extraordinariness,extra,cl100k_base,"['extra', 'ordin', 'ar', 'iness']",Correct,byte_level_bpe,False
+14932,unoriginality,un,cl100k_base,"['un', 'original', 'ity']",Correct,byte_level_bpe,True
+14942,underachievement,under,cl100k_base,"['under', 'achievement']",Correct,byte_level_bpe,True
+14952,undergarment,under,cl100k_base,"['under', 'gar', 'ment']",Correct,byte_level_bpe,False
+14962,understatement,under,cl100k_base,"['under', 'statement']",Correct,byte_level_bpe,False
+14972,unpalatability,un,cl100k_base,"['un', 'pal', 'atab', 'ility']",Correct,byte_level_bpe,True
+14982,impalpability,im,cl100k_base,"['imp', 'al', 'p', 'ability']",Incorrect,byte_level_bpe,True
+14992,impartiality,im,cl100k_base,"['im', 'partial', 'ity']",Correct,byte_level_bpe,False
+15002,nonparticipation,non,cl100k_base,"['non', 'part', 'icipation']",Correct,byte_level_bpe,True
+15012,nonpartisan,non,cl100k_base,"['non', 'part', 'isan']",Correct,byte_level_bpe,True
+15022,impatience,im,cl100k_base,"['im', 'pat', 'ience']",Correct,byte_level_bpe,False
+15032,nonpayment,non,cl100k_base,"['non', 'payment']",Correct,byte_level_bpe,True
+15042,impenetrability,im,cl100k_base,"['im', 'pen', 'etr', 'ability']",Correct,byte_level_bpe,True
+15052,imperceptibility,im,cl100k_base,"['im', 'per', 'cept', 'ibility']",Correct,byte_level_bpe,True
+15062,unperceptiveness,un,cl100k_base,"['un', 'per', 'cept', 'iveness']",Correct,byte_level_bpe,True
+15072,imperfectibility,im,cl100k_base,"['im', 'perfect', 'ibility']",Correct,byte_level_bpe,True
+15082,imperfection,im,cl100k_base,"['im', 'per', 'fection']",Correct,byte_level_bpe,True
+15092,impermanence,im,cl100k_base,"['im', 'per', 'man', 'ence']",Correct,byte_level_bpe,True
+15102,impermeability,im,cl100k_base,"['im', 'per', 'me', 'ability']",Correct,byte_level_bpe,True
+15112,impermissibility,im,cl100k_base,"['im', 'per', 'miss', 'ibility']",Correct,byte_level_bpe,True
+15122,unpermissiveness,un,cl100k_base,"['un', 'per', 'miss', 'iveness']",Correct,byte_level_bpe,True
+15132,dissuasion,dis,cl100k_base,"['d', 'iss', 'u', 'asion']",Incorrect,byte_level_bpe,True
+15142,unpersuasiveness,un,cl100k_base,"['un', 'pers', 'u', 'as', 'iveness']",Correct,byte_level_bpe,True
+15152,imperviousness,im,cl100k_base,"['imp', 'erv', 'ious', 'ness']",Incorrect,byte_level_bpe,False
+15162,impiety,im,cl100k_base,"['im', 'pi', 'ety']",Correct,byte_level_bpe,True
+15172,depigmentation,de,cl100k_base,"['dep', 'ig', 'mentation']",Incorrect,byte_level_bpe,True
+15182,implausibility,im,cl100k_base,"['impl', 'aus', 'ibility']",Incorrect,byte_level_bpe,True
+15192,unpleasantness,un,cl100k_base,"['un', 'pleasant', 'ness']",Correct,byte_level_bpe,True
+15202,unpleasingness,un,cl100k_base,"['un', 'ple', 'asing', 'ness']",Correct,byte_level_bpe,True
+15212,unpointedness,un,cl100k_base,"['un', 'point', 'ed', 'ness']",Correct,byte_level_bpe,True
+15222,impoliteness,im,cl100k_base,"['imp', 'ol', 'iten', 'ess']",Incorrect,byte_level_bpe,True
+15232,political_correctness,in,cl100k_base,"['political', '_correct', 'ness']",Incorrect,byte_level_bpe,False
+15242,unpopularity,un,cl100k_base,"['un', 'pop', 'ularity']",Correct,byte_level_bpe,True
+15252,impossibility,im,cl100k_base,"['im', 'poss', 'ibility']",Correct,byte_level_bpe,True
+15262,powerlessness,less,cl100k_base,"['power', 'lessness']",Incorrect,byte_level_bpe,True
+15272,impracticability,im,cl100k_base,"['im', 'pr', 'actic', 'ability']",Correct,byte_level_bpe,True
+15282,impracticableness,im,cl100k_base,"['im', 'pr', 'actic', 'ab', 'leness']",Correct,byte_level_bpe,True
+15292,impracticality,im,cl100k_base,"['im', 'pr', 'actical', 'ity']",Correct,byte_level_bpe,True
+15302,impreciseness,im,cl100k_base,"['im', 'prec', 'isen', 'ess']",Correct,byte_level_bpe,False
+15312,imprecision,im,cl100k_base,"['im', 'precision']",Correct,byte_level_bpe,True
+15322,unpredictability,un,cl100k_base,"['un', 'predict', 'ability']",Correct,byte_level_bpe,True
+15332,improbability,im,cl100k_base,"['im', 'probability']",Correct,byte_level_bpe,True
+15342,unproductiveness,un,cl100k_base,"['un', 'product', 'iveness']",Correct,byte_level_bpe,True
+15352,unprofitability,un,cl100k_base,"['un', 'profit', 'ability']",Correct,byte_level_bpe,True
+15362,unprofitableness,un,cl100k_base,"['un', 'profit', 'ab', 'leness']",Correct,byte_level_bpe,True
+15372,demotion,de,cl100k_base,"['dem', 'otion']",Incorrect,byte_level_bpe,False
+15382,improperness,im,cl100k_base,"['im', 'proper', 'ness']",Correct,byte_level_bpe,False
+15392,unpropitiousness,un,cl100k_base,"['un', 'prop', 'itious', 'ness']",Correct,byte_level_bpe,True
+15402,disproportion,dis,cl100k_base,"['dis', 'pro', 'portion']",Correct,byte_level_bpe,True
+15412,impropriety,im,cl100k_base,"['im', 'propri', 'ety']",Correct,byte_level_bpe,True
+15422,improvidence,im,cl100k_base,"['im', 'pro', 'vidence']",Correct,byte_level_bpe,True
+15432,imprudence,im,cl100k_base,"['im', 'pr', 'udence']",Correct,byte_level_bpe,True
+15442,impurity,im,cl100k_base,"['imp', 'urity']",Incorrect,byte_level_bpe,False
+15452,purposelessness,less,cl100k_base,"['purpose', 'lessness']",Incorrect,byte_level_bpe,True
+15462,unreality,un,cl100k_base,"['un', 're', 'ality']",Correct,byte_level_bpe,True
+15472,irregularity,ir,cl100k_base,"['ir', 'regular', 'ity']",Correct,byte_level_bpe,False
+15482,overtime,over,cl100k_base,"['o', 'vertime']",Incorrect,byte_level_bpe,False
+15492,unrelatedness,un,cl100k_base,"['un', 'related', 'ness']",Correct,byte_level_bpe,True
+15502,irrelevance,ir,cl100k_base,"['ir', 're', 'levance']",Correct,byte_level_bpe,True
+15512,unreliability,un,cl100k_base,"['un', 're', 'li', 'ability']",Correct,byte_level_bpe,True
+15522,unreliableness,un,cl100k_base,"['un', 're', 'li', 'ab', 'leness']",Correct,byte_level_bpe,True
+15532,disreputability,dis,cl100k_base,"['dis', 're', 'put', 'ability']",Correct,byte_level_bpe,True
+15542,disrepute,dis,cl100k_base,"['dis', 're', 'pute']",Correct,byte_level_bpe,True
+15552,nonresident,non,cl100k_base,"['non', 'resident']",Correct,byte_level_bpe,True
+15562,irresoluteness,ir,cl100k_base,"['ir', 'res', 'olut', 'eness']",Correct,byte_level_bpe,True
+15572,unrespectability,un,cl100k_base,"['un', 'respect', 'ability']",Correct,byte_level_bpe,True
+15582,irresponsibility,ir,cl100k_base,"['ir', 'respons', 'ibility']",Correct,byte_level_bpe,True
+15592,irresponsibleness,ir,cl100k_base,"['ir', 'respons', 'ib', 'leness']",Correct,byte_level_bpe,True
+15602,unresponsiveness,un,cl100k_base,"['un', 'respons', 'iveness']",Correct,byte_level_bpe,True
+15612,unrestraint,un,cl100k_base,"['un', 're', 'straint']",Correct,byte_level_bpe,True
+15622,irreverence,ir,cl100k_base,"['ir', 're', 'ver', 'ence']",Correct,byte_level_bpe,True
+15632,irreversibility,ir,cl100k_base,"['ir', 're', 'vers', 'ibility']",Correct,byte_level_bpe,True
+15642,unrighteousness,un,cl100k_base,"['un', 'right', 'eous', 'ness']",Correct,byte_level_bpe,True
+15652,insalubriousness,in,cl100k_base,"['ins', 'al', 'ub', 'rious', 'ness']",Incorrect,byte_level_bpe,True
+15662,insalubrity,in,cl100k_base,"['ins', 'al', 'ub', 'r', 'ity']",Incorrect,byte_level_bpe,True
+15672,unsanitariness,un,cl100k_base,"['uns', 'an', 'itar', 'iness']",Incorrect,byte_level_bpe,True
+15682,insanity,in,cl100k_base,"['ins', 'anity']",Incorrect,byte_level_bpe,False
+15692,dissatisfaction,dis,cl100k_base,"['d', 'iss', 'atisfaction']",Incorrect,byte_level_bpe,True
+15702,unsatisfactoriness,un,cl100k_base,"['uns', 'atisf', 'actor', 'iness']",Incorrect,byte_level_bpe,True
+15712,unscrupulousness,un,cl100k_base,"['un', 'scr', 'up', 'ulous', 'ness']",Correct,byte_level_bpe,True
+15722,unseasonableness,un,cl100k_base,"['un', 'season', 'ab', 'leness']",Correct,byte_level_bpe,True
+15732,unsecured_bond,un,cl100k_base,"['un', 'secured', '_b', 'ond']",Correct,byte_level_bpe,False
+15742,insecureness,in,cl100k_base,"['in', 'secure', 'ness']",Correct,byte_level_bpe,True
+15752,insecurity,in,cl100k_base,"['in', 'security']",Correct,byte_level_bpe,True
+15762,unseemliness,un,cl100k_base,"['un', 'se', 'em', 'liness']",Correct,byte_level_bpe,True
+15772,integration,in,cl100k_base,['integration'],Not segmented,byte_level_bpe,False
+15782,unselfconsciousness,un,cl100k_base,"['un', 'self', 'conscious', 'ness']",Correct,byte_level_bpe,True
+15792,insensibility,in,cl100k_base,"['ins', 'ens', 'ibility']",Incorrect,byte_level_bpe,True
+15802,insensitiveness,in,cl100k_base,"['ins', 'ens', 'it', 'iveness']",Incorrect,byte_level_bpe,True
+15812,insensitivity,in,cl100k_base,"['ins', 'ensitivity']",Incorrect,byte_level_bpe,True
+15822,insentience,in,cl100k_base,"['ins', 'ent', 'ience']",Incorrect,byte_level_bpe,True
+15832,disservice,dis,cl100k_base,"['d', 'iss', 'ervice']",Incorrect,byte_level_bpe,True
+15842,insignificance,in,cl100k_base,"['ins', 'ign', 'ificance']",Incorrect,byte_level_bpe,True
+15852,dissimilarity,dis,cl100k_base,"['d', 'iss', 'im', 'ilarity']",Incorrect,byte_level_bpe,True
+15862,dissimilitude,dis,cl100k_base,"['d', 'iss', 'im', 'ilit', 'ude']",Incorrect,byte_level_bpe,True
+15872,insincerity,in,cl100k_base,"['ins', 'incer', 'ity']",Incorrect,byte_level_bpe,True
+15882,unskillfulness,un,cl100k_base,"['un', 'skill', 'fulness']",Correct,byte_level_bpe,True
+15892,unsociability,un,cl100k_base,"['uns', 'oci', 'ability']",Incorrect,byte_level_bpe,True
+15902,insolubility,in,cl100k_base,"['ins', 'ol', 'ub', 'ility']",Incorrect,byte_level_bpe,True
+15912,unsolvability,un,cl100k_base,"['uns', 'olv', 'ability']",Incorrect,byte_level_bpe,True
+15922,insolvency,in,cl100k_base,"['ins', 'olvency']",Incorrect,byte_level_bpe,False
+15932,unsoundness,un,cl100k_base,"['uns', 'ound', 'ness']",Incorrect,byte_level_bpe,True
+15942,destabilisation,de,cl100k_base,"['dest', 'abil', 'isation']",Incorrect,byte_level_bpe,True
+15952,destabilization,de,cl100k_base,"['dest', 'abil', 'ization']",Incorrect,byte_level_bpe,True
+15962,unsteadiness,un,cl100k_base,"['un', 'stead', 'iness']",Correct,byte_level_bpe,True
+15972,astigmatism,a,cl100k_base,"['ast', 'igmat', 'ism']",Incorrect,byte_level_bpe,False
+15982,unstratified_language,un,cl100k_base,"['un', 'str', 'at', 'ified', '_language']",Correct,byte_level_bpe,False
+15992,insubordination,in,cl100k_base,"['ins', 'ub', 'ordination']",Incorrect,byte_level_bpe,True
+16002,insubstantiality,in,cl100k_base,"['ins', 'ub', 'stantial', 'ity']",Incorrect,byte_level_bpe,True
+16012,subtraction,sub,cl100k_base,"['sub', 'traction']",Correct,byte_level_bpe,False
+16022,insufficiency,in,cl100k_base,"['ins', 'uff', 'iciency']",Incorrect,byte_level_bpe,True
+16032,unsuitability,un,cl100k_base,"['uns', 'uit', 'ability']",Incorrect,byte_level_bpe,True
+16042,unsuitableness,un,cl100k_base,"['uns', 'uit', 'ab', 'leness']",Incorrect,byte_level_bpe,True
+16052,inferior,in,cl100k_base,"['infer', 'ior']",Incorrect,byte_level_bpe,False
+16062,inferiority,in,cl100k_base,"['infer', 'ior', 'ity']",Incorrect,byte_level_bpe,False
+16072,asymmetry,a,cl100k_base,"['as', 'ym', 'metry']",Incorrect,byte_level_bpe,True
+16082,asynchronism,a,cl100k_base,"['as', 'ynchron', 'ism']",Incorrect,byte_level_bpe,True
+16092,desynchronization,de,cl100k_base,"['des', 'ynchronization']",Incorrect,byte_level_bpe,True
+16102,desynchronizing,de,cl100k_base,"['des', 'ynchron', 'izing']",Incorrect,byte_level_bpe,True
+16112,tactlessness,less,cl100k_base,"['t', 'act', 'lessness']",Incorrect,byte_level_bpe,True
+16122,intangibility,in,cl100k_base,"['int', 'ang', 'ibility']",Incorrect,byte_level_bpe,False
+16132,tastelessness,less,cl100k_base,"['t', 'aste', 'lessness']",Incorrect,byte_level_bpe,True
+16142,intemperance,in,cl100k_base,"['int', 'em', 'per', 'ance']",Incorrect,byte_level_bpe,True
+16152,thoughtlessness,less,cl100k_base,"['thought', 'lessness']",Incorrect,byte_level_bpe,True
+16162,unthoughtfulness,un,cl100k_base,"['un', 'thought', 'fulness']",Correct,byte_level_bpe,True
+16172,untidiness,un,cl100k_base,"['unt', 'id', 'iness']",Incorrect,byte_level_bpe,True
+16182,untimeliness,un,cl100k_base,"['unt', 'im', 'eliness']",Incorrect,byte_level_bpe,True
+16192,intolerance,in,cl100k_base,"['int', 'olerance']",Incorrect,byte_level_bpe,True
+16202,atonality,a,cl100k_base,"['aton', 'ality']",Incorrect,byte_level_bpe,True
+16212,atonicity,a,cl100k_base,"['at', 'onic', 'ity']",Incorrect,byte_level_bpe,False
+16222,intractability,in,cl100k_base,"['in', 'tract', 'ability']",Correct,byte_level_bpe,False
+16232,intransitivity,in,cl100k_base,"['in', 'trans', 'itivity']",Correct,byte_level_bpe,True
+16242,detribalisation,de,cl100k_base,"['det', 'rib', 'al', 'isation']",Incorrect,byte_level_bpe,False
+16252,detribalization,de,cl100k_base,"['det', 'rib', 'al', 'ization']",Incorrect,byte_level_bpe,False
+16262,untrustiness,un,cl100k_base,"['un', 'trust', 'iness']",Correct,byte_level_bpe,True
+16272,untrustworthiness,un,cl100k_base,"['un', 'trust', 'worth', 'iness']",Correct,byte_level_bpe,True
+16282,untruthfulness,un,cl100k_base,"['un', 'truth', 'fulness']",Correct,byte_level_bpe,True
+16292,antitype,anti,cl100k_base,"['antity', 'pe']",Incorrect,byte_level_bpe,True
+16302,atypicality,a,cl100k_base,"['at', 'ypical', 'ity']",Incorrect,byte_level_bpe,True
+16312,unaffectedness,un,cl100k_base,"['un', 'affected', 'ness']",Correct,byte_level_bpe,True
+16322,unequivocalness,un,cl100k_base,"['une', 'quiv', 'ocal', 'ness']",Incorrect,byte_level_bpe,False
+16332,nonuniformity,non,cl100k_base,"['non', 'uniform', 'ity']",Correct,byte_level_bpe,True
+16342,disunion,dis,cl100k_base,"['dis', 'union']",Correct,byte_level_bpe,True
+16352,unpretentiousness,un,cl100k_base,"['un', 'pret', 'entious', 'ness']",Correct,byte_level_bpe,True
+16362,unstableness,un,cl100k_base,"['un', 'stab', 'leness']",Correct,byte_level_bpe,True
+16372,unsusceptibility,un,cl100k_base,"['uns', 'us', 'cept', 'ibility']",Incorrect,byte_level_bpe,True
+16382,unwellness,un,cl100k_base,"['un', 'well', 'ness']",Correct,byte_level_bpe,True
+16392,uselessness,less,cl100k_base,"['use', 'lessness']",Incorrect,byte_level_bpe,True
+16402,unusualness,un,cl100k_base,"['un', 'usual', 'ness']",Correct,byte_level_bpe,False
+16412,inutility,in,cl100k_base,"['in', 'utility']",Correct,byte_level_bpe,True
+16422,dystopia,dys,cl100k_base,"['d', 'yst', 'opia']",Incorrect,byte_level_bpe,True
+16432,invariability,in,cl100k_base,"['in', 'vari', 'ability']",Correct,byte_level_bpe,False
+16442,invariableness,in,cl100k_base,"['in', 'vari', 'ab', 'leness']",Correct,byte_level_bpe,False
+16452,unvariedness,un,cl100k_base,"['un', 'var', 'ied', 'ness']",Correct,byte_level_bpe,False
+16462,invisibility,in,cl100k_base,"['in', 'visibility']",Correct,byte_level_bpe,False
+16472,unwariness,un,cl100k_base,"['un', 'war', 'iness']",Correct,byte_level_bpe,True
+16482,unwholesomeness,un,cl100k_base,"['un', 'wh', 'oles', 'omen', 'ess']",Correct,byte_level_bpe,True
+16492,unwillingness,un,cl100k_base,"['un', 'w', 'illing', 'ness']",Correct,byte_level_bpe,True
+16502,worthlessness,less,cl100k_base,"['worth', 'lessness']",Incorrect,byte_level_bpe,True
+16512,unworthiness,un,cl100k_base,"['un', 'worth', 'iness']",Correct,byte_level_bpe,True
+16522,unacceptably,un,cl100k_base,"['un', 'accept', 'ably']",Correct,byte_level_bpe,True
+16532,inaccurately,in,cl100k_base,"['in', 'accur', 'ately']",Correct,byte_level_bpe,True
+16542,inadequately,in,cl100k_base,"['in', 'ade', 'qu', 'ately']",Correct,byte_level_bpe,True
+16552,maladroitly,mal,cl100k_base,"['mal', 'ad', 'roit', 'ly']",Correct,byte_level_bpe,True
+16562,disadvantageously,dis,cl100k_base,"['dis', 'adv', 'antage', 'ously']",Correct,byte_level_bpe,True
+16572,inadvertently,in,cl100k_base,"['in', 'advert', 'ently']",Correct,byte_level_bpe,True
+16582,disagreeably,dis,cl100k_base,"['dis', 'agree', 'ably']",Correct,byte_level_bpe,False
+16592,unambiguously,un,cl100k_base,"['un', 'amb', 'igu', 'ously']",Correct,byte_level_bpe,False
+16602,unambitiously,un,cl100k_base,"['un', 'amb', 'it', 'iously']",Correct,byte_level_bpe,True
+16612,unappealingly,un,cl100k_base,"['un', 'appe', 'aling', 'ly']",Correct,byte_level_bpe,True
+16622,unappreciatively,un,cl100k_base,"['un', 'app', 'rec', 'i', 'atively']",Correct,byte_level_bpe,True
+16632,inappropriately,in,cl100k_base,"['in', 'appropri', 'ately']",Correct,byte_level_bpe,False
+16642,disapprovingly,dis,cl100k_base,"['dis', 'appro', 'ving', 'ly']",Correct,byte_level_bpe,False
+16652,inarticulately,in,cl100k_base,"['in', 'artic', 'ul', 'ately']",Correct,byte_level_bpe,False
+16662,unassertively,un,cl100k_base,"['un', 'assert', 'ively']",Correct,byte_level_bpe,False
+16672,unattractively,un,cl100k_base,"['un', 'at', 'tract', 'ively']",Correct,byte_level_bpe,True
+16682,inaudibly,in,cl100k_base,"['ina', 'ud', 'ibly']",Incorrect,byte_level_bpe,True
+16692,inauspiciously,in,cl100k_base,"['ina', 'usp', 'icious', 'ly']",Incorrect,byte_level_bpe,True
+16702,unbelievably,un,cl100k_base,"['un', 'belie', 'vably']",Correct,byte_level_bpe,False
+16712,malevolently,mal,cl100k_base,"['male', 'vol', 'ently']",Incorrect,byte_level_bpe,False
+16722,carelessly,less,cl100k_base,"['care', 'lessly']",Incorrect,byte_level_bpe,False
+16732,incautiously,in,cl100k_base,"['in', 'ca', 'ut', 'iously']",Correct,byte_level_bpe,True
+16742,uncharacteristically,un,cl100k_base,"['un', 'character', 'istically']",Correct,byte_level_bpe,False
+16752,cheerlessly,less,cl100k_base,"['che', 'er', 'lessly']",Incorrect,byte_level_bpe,False
+16762,unchivalrously,un,cl100k_base,"['unch', 'ival', 'rous', 'ly']",Incorrect,byte_level_bpe,True
+16772,uncivilly,un,cl100k_base,"['unc', 'ivil', 'ly']",Incorrect,byte_level_bpe,True
+16782,incoherently,in,cl100k_base,"['in', 'co', 'her', 'ently']",Correct,byte_level_bpe,False
+16792,uncomfortably,un,cl100k_base,"['un', 'comfort', 'ably']",Correct,byte_level_bpe,False
+16802,incompatibly,in,cl100k_base,"['in', 'compat', 'ibly']",Correct,byte_level_bpe,True
+16812,incompetently,in,cl100k_base,"['in', 'compet', 'ently']",Correct,byte_level_bpe,False
+16822,noncompetitively,non,cl100k_base,"['non', 'compet', 'it', 'ively']",Correct,byte_level_bpe,True
+16832,noncomprehensively,non,cl100k_base,"['non', 'com', 'preh', 'ensively']",Correct,byte_level_bpe,True
+16842,inconclusively,in,cl100k_base,"['in', 'con', 'clus', 'ively']",Correct,byte_level_bpe,False
+16852,unconditionally,un,cl100k_base,"['un', 'conditionally']",Correct,byte_level_bpe,False
+16862,unconsciously,un,cl100k_base,"['un', 'con', 'sciously']",Correct,byte_level_bpe,False
+16872,inconsequentially,in,cl100k_base,"['in', 'con', 'sequ', 'entially']",Correct,byte_level_bpe,False
+16882,inconsiderately,in,cl100k_base,"['in', 'consider', 'ately']",Correct,byte_level_bpe,True
+16892,inconsistently,in,cl100k_base,"['in', 'cons', 'ist', 'ently']",Correct,byte_level_bpe,False
+16902,inconspicuously,in,cl100k_base,"['in', 'con', 'sp', 'ic', 'uously']",Correct,byte_level_bpe,True
+16912,unconstitutionally,un,cl100k_base,"['un', 'constitution', 'ally']",Correct,byte_level_bpe,True
+16922,uncontroversially,un,cl100k_base,"['un', 'cont', 'rovers', 'ially']",Correct,byte_level_bpe,False
+16932,inconveniently,in,cl100k_base,"['in', 'con', 'venient', 'ly']",Correct,byte_level_bpe,False
+16942,unconventionally,un,cl100k_base,"['un', 'con', 'vention', 'ally']",Correct,byte_level_bpe,False
+16952,unconvincingly,un,cl100k_base,"['un', 'conv', 'inc', 'ingly']",Correct,byte_level_bpe,True
+16962,incorrectly,in,cl100k_base,"['incorrect', 'ly']",Incorrect,byte_level_bpe,True
+16972,discourteously,dis,cl100k_base,"['disc', 'our', 'te', 'ously']",Incorrect,byte_level_bpe,True
+16982,uncritically,un,cl100k_base,"['unc', 'rit', 'ically']",Incorrect,byte_level_bpe,True
+16992,indecently,in,cl100k_base,"['inde', 'cent', 'ly']",Incorrect,byte_level_bpe,False
+17002,indecisively,in,cl100k_base,"['in', 'dec', 'is', 'ively']",Correct,byte_level_bpe,False
+17012,indecorously,in,cl100k_base,"['inde', 'cor', 'ously']",Incorrect,byte_level_bpe,True
+17022,defensively,de,cl100k_base,"['def', 'ensively']",Incorrect,byte_level_bpe,False
+17032,undemocratically,un,cl100k_base,"['und', 'em', 'ocr', 'atically']",Incorrect,byte_level_bpe,True
+17042,undependably,un,cl100k_base,"['und', 'epend', 'ably']",Incorrect,byte_level_bpe,True
+17052,undeservedly,un,cl100k_base,"['und', 'es', 'erved', 'ly']",Incorrect,byte_level_bpe,True
+17062,undiplomatically,un,cl100k_base,"['und', 'ipl', 'om', 'atically']",Incorrect,byte_level_bpe,True
+17072,indirectly,in,cl100k_base,"['ind', 'irect', 'ly']",Incorrect,byte_level_bpe,False
+17082,indiscreetly,in,cl100k_base,"['ind', 'is', 'cre', 'et', 'ly']",Incorrect,byte_level_bpe,True
+17092,dishonorably,dis,cl100k_base,"['dish', 'onor', 'ably']",Incorrect,byte_level_bpe,True
+17102,disproportionately,dis,cl100k_base,"['dis', 'pro', 'portion', 'ately']",Correct,byte_level_bpe,False
+17112,disreputably,dis,cl100k_base,"['dis', 're', 'put', 'ably']",Correct,byte_level_bpe,False
+17122,distrustfully,dis,cl100k_base,"['d', 'istr', 'ust', 'fully']",Incorrect,byte_level_bpe,True
+17132,downwardly,down,cl100k_base,"['down', 'ward', 'ly']",Correct,byte_level_bpe,False
+17142,downwards,down,cl100k_base,"['down', 'wards']",Correct,byte_level_bpe,False
+17152,undramatically,un,cl100k_base,"['und', 'ram', 'atically']",Incorrect,byte_level_bpe,True
+17162,ineffectively,in,cl100k_base,"['ine', 'ffect', 'ively']",Incorrect,byte_level_bpe,True
+17172,ineffectually,in,cl100k_base,"['ine', 'ffect', 'ually']",Incorrect,byte_level_bpe,True
+17182,inefficaciously,in,cl100k_base,"['ine', 'ffic', 'ac', 'iously']",Incorrect,byte_level_bpe,True
+17192,inefficiently,in,cl100k_base,"['ine', 'ff', 'icient', 'ly']",Incorrect,byte_level_bpe,True
+17202,inelegantly,in,cl100k_base,"['ine', 'leg', 'antly']",Incorrect,byte_level_bpe,False
+17212,ineloquently,in,cl100k_base,"['in', 'elo', 'qu', 'ently']",Correct,byte_level_bpe,True
+17222,unemotionally,un,cl100k_base,"['un', 'emotion', 'ally']",Correct,byte_level_bpe,False
+17232,discouragingly,dis,cl100k_base,"['disc', 'our', 'aging', 'ly']",Incorrect,byte_level_bpe,False
+17242,unenthusiastically,un,cl100k_base,"['un', 'ent', 'hus', 'i', 'astically']",Correct,byte_level_bpe,True
+17252,unequally,un,cl100k_base,"['une', 'qu', 'ally']",Incorrect,byte_level_bpe,False
+17262,inequitably,in,cl100k_base,"['ine', 'quit', 'ably']",Incorrect,byte_level_bpe,True
+17272,unethically,un,cl100k_base,"['un', 'eth', 'ically']",Correct,byte_level_bpe,True
+17282,unevenly,un,cl100k_base,"['une', 'ven', 'ly']",Incorrect,byte_level_bpe,False
+17292,inexactly,in,cl100k_base,"['in', 'ex', 'actly']",Correct,byte_level_bpe,True
+17302,unexcitingly,un,cl100k_base,"['un', 'exc', 'iting', 'ly']",Correct,byte_level_bpe,True
+17312,inexcusably,in,cl100k_base,"['in', 'exc', 'us', 'ably']",Correct,byte_level_bpe,True
+17322,inexpediently,in,cl100k_base,"['in', 'exp', 'ed', 'ient', 'ly']",Correct,byte_level_bpe,True
+17332,inexpressively,in,cl100k_base,"['in', 'express', 'ively']",Correct,byte_level_bpe,False
+17342,unfairly,un,cl100k_base,"['un', 'fair', 'ly']",Correct,byte_level_bpe,False
+17352,unfaithfully,un,cl100k_base,"['un', 'faith', 'fully']",Correct,byte_level_bpe,True
+17362,unfashionably,un,cl100k_base,"['un', 'f', 'ashion', 'ably']",Correct,byte_level_bpe,False
+17372,unfavorably,un,cl100k_base,"['un', 'favor', 'ably']",Correct,byte_level_bpe,True
+17382,fearlessly,less,cl100k_base,"['f', 'ear', 'lessly']",Incorrect,byte_level_bpe,False
+17392,unfeelingly,un,cl100k_base,"['un', 'feel', 'ingly']",Correct,byte_level_bpe,True
+17402,infelicitously,in,cl100k_base,"['inf', 'el', 'icit', 'ously']",Incorrect,byte_level_bpe,True
+17412,inflexibly,in,cl100k_base,"['in', 'flex', 'ibly']",Correct,byte_level_bpe,False
+17422,unforgivably,un,cl100k_base,"['un', 'forg', 'iv', 'ably']",Correct,byte_level_bpe,True
+17432,unforgivingly,un,cl100k_base,"['un', 'forg', 'iving', 'ly']",Correct,byte_level_bpe,False
+17442,unfortunately,un,cl100k_base,"['un', 'fortunately']",Correct,byte_level_bpe,False
+17452,infrequently,in,cl100k_base,"['inf', 'requently']",Incorrect,byte_level_bpe,True
+17462,fruitlessly,less,cl100k_base,"['fruit', 'lessly']",Incorrect,byte_level_bpe,True
+17472,gracelessly,less,cl100k_base,"['gr', 'ace', 'lessly']",Incorrect,byte_level_bpe,True
+17482,ungracefully,un,cl100k_base,"['un', 'gr', 'ace', 'fully']",Correct,byte_level_bpe,True
+17492,ungraciously,un,cl100k_base,"['un', 'gr', 'ac', 'iously']",Correct,byte_level_bpe,True
+17502,ungratefully,un,cl100k_base,"['un', 'gr', 'ate', 'fully']",Correct,byte_level_bpe,True
+17512,ungrudgingly,un,cl100k_base,"['un', 'gr', 'udging', 'ly']",Correct,byte_level_bpe,True
+17522,unhappily,un,cl100k_base,"['un', 'h', 'app', 'ily']",Correct,byte_level_bpe,True
+17532,harmlessly,less,cl100k_base,"['h', 'arm', 'lessly']",Incorrect,byte_level_bpe,False
+17542,unhelpfully,un,cl100k_base,"['un', 'help', 'fully']",Correct,byte_level_bpe,True
+17552,dishonestly,dis,cl100k_base,"['dish', 'onestly']",Incorrect,byte_level_bpe,True
+17562,hopelessly,less,cl100k_base,"['hope', 'lessly']",Incorrect,byte_level_bpe,False
+17572,inhospitably,in,cl100k_base,"['inh', 'osp', 'itably']",Incorrect,byte_level_bpe,True
+17582,inhumanely,in,cl100k_base,"['inh', 'uman', 'ely']",Incorrect,byte_level_bpe,False
+17592,humorlessly,less,cl100k_base,"['hum', 'or', 'lessly']",Incorrect,byte_level_bpe,False
+17602,unhurriedly,un,cl100k_base,"['un', 'h', 'ur', 'ried', 'ly']",Correct,byte_level_bpe,False
+17612,unhygienically,un,cl100k_base,"['un', 'hy', 'gien', 'ically']",Correct,byte_level_bpe,True
+17622,illegitimately,il,cl100k_base,"['il', 'leg', 'it', 'imately']",Correct,byte_level_bpe,True
+17632,illicitly,il,cl100k_base,"['il', 'licit', 'ly']",Correct,byte_level_bpe,True
+17642,unimaginatively,un,cl100k_base,"['un', 'imagin', 'atively']",Correct,byte_level_bpe,True
+17652,immaturely,im,cl100k_base,"['imm', 'ature', 'ly']",Incorrect,byte_level_bpe,False
+17662,immeasurably,im,cl100k_base,"['im', 'me', 'as', 'ur', 'ably']",Correct,byte_level_bpe,False
+17672,impatiently,im,cl100k_base,"['im', 'patient', 'ly']",Correct,byte_level_bpe,False
+17682,imperceptibly,im,cl100k_base,"['im', 'per', 'cept', 'ibly']",Correct,byte_level_bpe,True
+17692,impersonally,im,cl100k_base,"['imp', 'erson', 'ally']",Incorrect,byte_level_bpe,False
+17702,unimpressively,un,cl100k_base,"['un', 'im', 'press', 'ively']",Correct,byte_level_bpe,True
+17712,incomparably,in,cl100k_base,"['in', 'com', 'par', 'ably']",Correct,byte_level_bpe,False
+17722,incredibly,in,cl100k_base,"['in', 'cred', 'ibly']",Correct,byte_level_bpe,False
+17732,incredulously,in,cl100k_base,"['in', 'cred', 'ulously']",Correct,byte_level_bpe,False
+17742,outdoors,out,cl100k_base,"['out', 'doors']",Correct,byte_level_bpe,False
+17752,infinitely,in,cl100k_base,"['inf', 'initely']",Incorrect,byte_level_bpe,False
+17762,informally,in,cl100k_base,"['inform', 'ally']",Incorrect,byte_level_bpe,False
+17772,uninformatively,un,cl100k_base,"['un', 'in', 'format', 'ively']",Correct,byte_level_bpe,False
+17782,inoffensively,in,cl100k_base,"['in', 'off', 'ensively']",Correct,byte_level_bpe,True
+17792,inopportunely,in,cl100k_base,"['in', 'op', 'portun', 'ely']",Correct,byte_level_bpe,True
+17802,insanely,in,cl100k_base,"['ins', 'an', 'ely']",Incorrect,byte_level_bpe,False
+17812,uninstructively,un,cl100k_base,"['un', 'in', 'struct', 'ively']",Correct,byte_level_bpe,True
+17822,unintelligently,un,cl100k_base,"['un', 'int', 'ellig', 'ently']",Correct,byte_level_bpe,True
+17832,unintelligibly,un,cl100k_base,"['un', 'int', 'ellig', 'ibly']",Correct,byte_level_bpe,True
+17842,unintentionally,un,cl100k_base,"['un', 'int', 'ention', 'ally']",Correct,byte_level_bpe,True
+17852,uninterestingly,un,cl100k_base,"['un', 'interest', 'ingly']",Correct,byte_level_bpe,False
+17862,internally,in,cl100k_base,"['intern', 'ally']",Incorrect,byte_level_bpe,False
+17872,joylessly,less,cl100k_base,"['joy', 'lessly']",Incorrect,byte_level_bpe,True
+17882,injudiciously,in,cl100k_base,"['in', 'jud', 'icious', 'ly']",Correct,byte_level_bpe,True
+17892,unjustifiably,un,cl100k_base,"['un', 'just', 'ifi', 'ably']",Correct,byte_level_bpe,True
+17902,unjustly,un,cl100k_base,"['un', 'just', 'ly']",Correct,byte_level_bpe,False
+17912,unkindly,un,cl100k_base,"['unk', 'ind', 'ly']",Incorrect,byte_level_bpe,True
+17922,unknowingly,un,cl100k_base,"['unk', 'now', 'ingly']",Incorrect,byte_level_bpe,False
+17932,unlawfully,un,cl100k_base,"['un', 'law', 'fully']",Correct,byte_level_bpe,True
+17942,lawlessly,less,cl100k_base,"['law', 'lessly']",Incorrect,byte_level_bpe,True
+17952,illegibly,il,cl100k_base,"['il', 'leg', 'ibly']",Correct,byte_level_bpe,True
+17962,illogically,il,cl100k_base,"['il', 'log', 'ically']",Correct,byte_level_bpe,True
+17972,disloyally,dis,cl100k_base,"['dis', 'loy', 'ally']",Correct,byte_level_bpe,True
+17982,unluckily,un,cl100k_base,"['un', 'luck', 'ily']",Correct,byte_level_bpe,True
+17992,unmanageably,un,cl100k_base,"['un', 'manage', 'ably']",Correct,byte_level_bpe,True
+18002,unmanfully,un,cl100k_base,"['un', 'man', 'fully']",Correct,byte_level_bpe,True
+18012,unmelodiously,un,cl100k_base,"['un', 'mel', 'od', 'iously']",Correct,byte_level_bpe,True
+18022,unmemorably,un,cl100k_base,"['un', 'mem', 'or', 'ably']",Correct,byte_level_bpe,True
+18032,unmindfully,un,cl100k_base,"['un', 'mind', 'fully']",Correct,byte_level_bpe,True
+18042,immoderately,im,cl100k_base,"['im', 'mod', 'er', 'ately']",Correct,byte_level_bpe,False
+18052,immodestly,im,cl100k_base,"['im', 'mod', 'est', 'ly']",Correct,byte_level_bpe,False
+18062,immorally,im,cl100k_base,"['imm', 'or', 'ally']",Incorrect,byte_level_bpe,False
+18072,unmusically,un,cl100k_base,"['un', 'mus', 'ically']",Correct,byte_level_bpe,True
+18082,unnaturally,un,cl100k_base,"['unn', 'aturally']",Incorrect,byte_level_bpe,False
+18092,unnecessarily,un,cl100k_base,"['unn', 'ecessarily']",Incorrect,byte_level_bpe,True
+18102,disobediently,dis,cl100k_base,"['dis', 'ob', 'ed', 'ient', 'ly']",Correct,byte_level_bpe,True
+18112,unobtrusively,un,cl100k_base,"['un', 'ob', 'tr', 'us', 'ively']",Correct,byte_level_bpe,True
+18122,unofficially,un,cl100k_base,"['un', 'official', 'ly']",Correct,byte_level_bpe,False
+18132,aborad,ab,cl100k_base,"['abor', 'ad']",Incorrect,byte_level_bpe,False
+18142,inorganically,in,cl100k_base,"['in', 'organ', 'ically']",Correct,byte_level_bpe,False
+18152,painlessly,less,cl100k_base,"['pain', 'lessly']",Incorrect,byte_level_bpe,False
+18162,unpalatably,un,cl100k_base,"['un', 'pal', 'atab', 'ly']",Correct,byte_level_bpe,True
+18172,unpardonably,un,cl100k_base,"['un', 'p', 'ardon', 'ably']",Correct,byte_level_bpe,True
+18182,unpatriotically,un,cl100k_base,"['un', 'p', 'atri', 'ot', 'ically']",Correct,byte_level_bpe,True
+18192,imperfectly,im,cl100k_base,"['im', 'perfect', 'ly']",Correct,byte_level_bpe,True
+18202,impermissibly,im,cl100k_base,"['im', 'per', 'miss', 'ibly']",Correct,byte_level_bpe,True
+18212,unpleasantly,un,cl100k_base,"['un', 'pleasant', 'ly']",Correct,byte_level_bpe,False
+18222,impolitely,im,cl100k_base,"['imp', 'ol', 'it', 'ely']",Incorrect,byte_level_bpe,False
+18232,impossibly,im,cl100k_base,"['im', 'possibly']",Correct,byte_level_bpe,False
+18242,unprecedentedly,un,cl100k_base,"['un', 'precedented', 'ly']",Correct,byte_level_bpe,False
+18252,imprecisely,im,cl100k_base,"['im', 'prec', 'is', 'ely']",Correct,byte_level_bpe,False
+18262,unpretentiously,un,cl100k_base,"['un', 'pret', 'ent', 'iously']",Correct,byte_level_bpe,True
+18272,unproductively,un,cl100k_base,"['un', 'product', 'ively']",Correct,byte_level_bpe,True
+18282,unprofitably,un,cl100k_base,"['un', 'profit', 'ably']",Correct,byte_level_bpe,True
+18292,unpropitiously,un,cl100k_base,"['un', 'prop', 'it', 'iously']",Correct,byte_level_bpe,True
+18302,imprudently,im,cl100k_base,"['im', 'pr', 'ud', 'ently']",Correct,byte_level_bpe,True
+18312,unquietly,un,cl100k_base,"['un', 'quiet', 'ly']",Correct,byte_level_bpe,True
+18322,irrationally,ir,cl100k_base,"['ir', 'ration', 'ally']",Correct,byte_level_bpe,False
+18332,unrealistically,un,cl100k_base,"['un', 'real', 'istically']",Correct,byte_level_bpe,False
+18342,unreasonably,un,cl100k_base,"['un', 'reason', 'ably']",Correct,byte_level_bpe,True
+18352,unrecognizably,un,cl100k_base,"['un', 'recogn', 'iz', 'ably']",Correct,byte_level_bpe,True
+18362,irregularly,ir,cl100k_base,"['ir', 'regular', 'ly']",Correct,byte_level_bpe,False
+18372,unreliably,un,cl100k_base,"['un', 're', 'li', 'ably']",Correct,byte_level_bpe,True
+18382,irresolutely,ir,cl100k_base,"['ir', 'res', 'olutely']",Correct,byte_level_bpe,True
+18392,disrespectfully,dis,cl100k_base,"['dis', 'respect', 'fully']",Correct,byte_level_bpe,False
+18402,irresponsibly,ir,cl100k_base,"['ir', 'respons', 'ibly']",Correct,byte_level_bpe,True
+18412,unrighteously,un,cl100k_base,"['un', 'right', 'e', 'ously']",Correct,byte_level_bpe,True
+18422,unromantically,un,cl100k_base,"['un', 'rom', 'antically']",Correct,byte_level_bpe,True
+18432,unsatisfactorily,un,cl100k_base,"['uns', 'atisf', 'actor', 'ily']",Incorrect,byte_level_bpe,True
+18442,unseasonably,un,cl100k_base,"['un', 'season', 'ably']",Correct,byte_level_bpe,False
+18452,insecurely,in,cl100k_base,"['in', 'secure', 'ly']",Correct,byte_level_bpe,False
+18462,unselfconsciously,un,cl100k_base,"['un', 'self', 'con', 'sciously']",Correct,byte_level_bpe,True
+18472,unselfishly,un,cl100k_base,"['un', 'self', 'ishly']",Correct,byte_level_bpe,False
+18482,insensitively,in,cl100k_base,"['ins', 'ens', 'it', 'ively']",Incorrect,byte_level_bpe,False
+18492,unsentimentally,un,cl100k_base,"['uns', 'ent', 'iment', 'ally']",Incorrect,byte_level_bpe,True
+18502,inseparably,in,cl100k_base,"['in', 'se', 'par', 'ably']",Correct,byte_level_bpe,False
+18512,insignificantly,in,cl100k_base,"['ins', 'ign', 'ificantly']",Incorrect,byte_level_bpe,True
+18522,insincerely,in,cl100k_base,"['ins', 'incerely']",Incorrect,byte_level_bpe,True
+18532,unsmilingly,un,cl100k_base,"['un', 'sm', 'iling', 'ly']",Correct,byte_level_bpe,True
+18542,unsociably,un,cl100k_base,"['uns', 'oci', 'ably']",Incorrect,byte_level_bpe,True
+18552,unsportingly,un,cl100k_base,"['uns', 'port', 'ingly']",Incorrect,byte_level_bpe,True
+18562,unsuccessfully,un,cl100k_base,"['un', 'successfully']",Correct,byte_level_bpe,True
+18572,insufficiently,in,cl100k_base,"['ins', 'ufficient', 'ly']",Incorrect,byte_level_bpe,True
+18582,unsuitably,un,cl100k_base,"['uns', 'uit', 'ably']",Incorrect,byte_level_bpe,True
+18592,asymmetrically,a,cl100k_base,"['as', 'ymmetric', 'ally']",Incorrect,byte_level_bpe,False
+18602,unsympathetically,un,cl100k_base,"['uns', 'y', 'mp', 'ath', 'etically']",Incorrect,byte_level_bpe,True
+18612,unsystematically,un,cl100k_base,"['un', 'system', 'atically']",Correct,byte_level_bpe,True
+18622,tactlessly,less,cl100k_base,"['t', 'act', 'lessly']",Incorrect,byte_level_bpe,True
+18632,tastelessly,less,cl100k_base,"['t', 'aste', 'lessly']",Incorrect,byte_level_bpe,False
+18642,thoughtlessly,less,cl100k_base,"['thought', 'lessly']",Incorrect,byte_level_bpe,False
+18652,intolerably,in,cl100k_base,"['int', 'oler', 'ably']",Incorrect,byte_level_bpe,False
+18662,intolerantly,in,cl100k_base,"['int', 'oler', 'antly']",Incorrect,byte_level_bpe,False
+18672,intransitively,in,cl100k_base,"['in', 'trans', 'it', 'ively']",Correct,byte_level_bpe,False
+18682,atypically,a,cl100k_base,"['at', 'yp', 'ically']",Incorrect,byte_level_bpe,True
+18692,unashamedly,un,cl100k_base,"['un', 'ash', 'amed', 'ly']",Correct,byte_level_bpe,True
+18702,unbelievingly,un,cl100k_base,"['un', 'belie', 'ving', 'ly']",Correct,byte_level_bpe,True
+18712,unceremoniously,un,cl100k_base,"['unc', 'er', 'emon', 'iously']",Incorrect,byte_level_bpe,False
+18722,uncomplainingly,un,cl100k_base,"['un', 'com', 'pl', 'aining', 'ly']",Correct,byte_level_bpe,True
+18732,ungrammatically,un,cl100k_base,"['un', 'gram', 'm', 'atically']",Correct,byte_level_bpe,True
+18742,unhesitatingly,un,cl100k_base,"['un', 'hes', 'itating', 'ly']",Correct,byte_level_bpe,False
+18752,unremarkably,un,cl100k_base,"['un', 'remark', 'ably']",Correct,byte_level_bpe,True
+18762,unsteadily,un,cl100k_base,"['un', 'stead', 'ily']",Correct,byte_level_bpe,False
+18772,untruthfully,un,cl100k_base,"['un', 'truth', 'fully']",Correct,byte_level_bpe,True
+18782,uselessly,less,cl100k_base,"['use', 'lessly']",Incorrect,byte_level_bpe,False
+18792,nonviolently,non,cl100k_base,"['non', 'viol', 'ently']",Correct,byte_level_bpe,True
+18802,involuntarily,in,cl100k_base,"['in', 'vol', 'unt', 'arily']",Correct,byte_level_bpe,False
+18812,unwarily,un,cl100k_base,"['un', 'w', 'arily']",Correct,byte_level_bpe,True
+18822,unwillingly,un,cl100k_base,"['un', 'w', 'illing', 'ly']",Correct,byte_level_bpe,True
+18832,unwittingly,un,cl100k_base,"['un', 'w', 'itting', 'ly']",Correct,byte_level_bpe,False
+18842,decelerate,de,cl100k_base,"['de', 'cel', 'erate']",Correct,byte_level_bpe,True
+18852,inactivate,in,cl100k_base,"['in', 'activate']",Correct,byte_level_bpe,True
+18862,disadvantage,dis,cl100k_base,"['dis', 'adv', 'antage']",Correct,byte_level_bpe,True
+18872,degrade,de,cl100k_base,"['de', 'grade']",Correct,byte_level_bpe,False
+18882,disappear,dis,cl100k_base,"['dis', 'appear']",Correct,byte_level_bpe,False
+18892,disapprove,dis,cl100k_base,"['dis', 'approve']",Correct,byte_level_bpe,True
+18902,disarm,dis,cl100k_base,"['dis', 'arm']",Correct,byte_level_bpe,True
+18912,disarrange,dis,cl100k_base,"['dis', 'arr', 'ange']",Correct,byte_level_bpe,True
+18922,descend,de,cl100k_base,"['desc', 'end']",Incorrect,byte_level_bpe,False
+18932,disassemble,dis,cl100k_base,"['dis', 'assemble']",Correct,byte_level_bpe,True
+18942,dissent,dis,cl100k_base,"['d', 'issent']",Incorrect,byte_level_bpe,True
+18952,dissimilate,dis,cl100k_base,"['d', 'iss', 'im', 'ilate']",Incorrect,byte_level_bpe,True
+18962,dissociate,dis,cl100k_base,"['d', 'iss', 'oci', 'ate']",Incorrect,byte_level_bpe,False
+18972,detach,de,cl100k_base,['detach'],Not segmented,byte_level_bpe,False
+18982,disavow,dis,cl100k_base,"['dis', 'av', 'ow']",Correct,byte_level_bpe,True
+18992,unbalance,un,cl100k_base,"['un', 'balance']",Correct,byte_level_bpe,True
+19002,unbar,un,cl100k_base,"['un', 'bar']",Correct,byte_level_bpe,True
+19012,disbelieve,dis,cl100k_base,"['dis', 'bel', 'ieve']",Correct,byte_level_bpe,True
+19022,unbelt,un,cl100k_base,"['un', 'belt']",Correct,byte_level_bpe,True
+19032,unbend,un,cl100k_base,"['un', 'b', 'end']",Correct,byte_level_bpe,True
+19042,disinherit,dis,cl100k_base,"['dis', 'inherit']",Correct,byte_level_bpe,True
+19052,unbind,un,cl100k_base,['unbind'],Not segmented,byte_level_bpe,True
+19062,unblock,un,cl100k_base,"['un', 'block']",Correct,byte_level_bpe,True
+19072,unbolt,un,cl100k_base,"['un', 'bolt']",Correct,byte_level_bpe,True
+19082,unbox,un,cl100k_base,"['un', 'box']",Correct,byte_level_bpe,False
+19092,unbraid,un,cl100k_base,"['un', 'b', 'raid']",Correct,byte_level_bpe,True
+19102,unbridle,un,cl100k_base,"['un', 'brid', 'le']",Correct,byte_level_bpe,True
+19112,unbuckle,un,cl100k_base,"['un', 'b', 'uckle']",Correct,byte_level_bpe,True
+19122,unburden,un,cl100k_base,"['un', 'bur', 'den']",Correct,byte_level_bpe,True
+19132,unbutton,un,cl100k_base,"['un', 'button']",Correct,byte_level_bpe,True
+19142,decalcify,de,cl100k_base,"['de', 'calc', 'ify']",Correct,byte_level_bpe,True
+19152,miscarry,mis,cl100k_base,"['misc', 'arry']",Incorrect,byte_level_bpe,True
+19162,decentralise,de,cl100k_base,"['de', 'central', 'ise']",Correct,byte_level_bpe,False
+19172,decentralize,de,cl100k_base,"['de', 'central', 'ize']",Correct,byte_level_bpe,True
+19182,decertify,de,cl100k_base,"['dec', 'ert', 'ify']",Incorrect,byte_level_bpe,True
+19192,unchain,un,cl100k_base,"['unch', 'ain']",Incorrect,byte_level_bpe,True
+19202,discharge,dis,cl100k_base,"['dis', 'charge']",Correct,byte_level_bpe,False
+19212,disclaim,dis,cl100k_base,"['dis', 'claim']",Correct,byte_level_bpe,True
+19222,unclasp,un,cl100k_base,"['un', 'cl', 'asp']",Correct,byte_level_bpe,True
+19232,declassify,de,cl100k_base,"['de', 'classify']",Correct,byte_level_bpe,False
+19242,unclip,un,cl100k_base,"['un', 'clip']",Correct,byte_level_bpe,True
+19252,unclog,un,cl100k_base,"['unc', 'log']",Incorrect,byte_level_bpe,True
+19262,uncoil,un,cl100k_base,"['un', 'coil']",Correct,byte_level_bpe,False
+19272,decolonise,de,cl100k_base,"['de', 'colon', 'ise']",Correct,byte_level_bpe,False
+19282,decolonize,de,cl100k_base,"['de', 'colon', 'ize']",Correct,byte_level_bpe,False
+19292,decompress,de,cl100k_base,"['de', 'compress']",Correct,byte_level_bpe,False
+19302,deconcentrate,de,cl100k_base,"['de', 'con', 'cent', 'rate']",Correct,byte_level_bpe,False
+19312,disconnect,dis,cl100k_base,['disconnect'],Not segmented,byte_level_bpe,True
+19322,desecrate,de,cl100k_base,"['des', 'ec', 'rate']",Incorrect,byte_level_bpe,False
+19332,discontent,dis,cl100k_base,"['dis', 'content']",Correct,byte_level_bpe,True
+19342,discontinue,dis,cl100k_base,"['dis', 'continue']",Correct,byte_level_bpe,True
+19352,uncork,un,cl100k_base,"['unc', 'ork']",Incorrect,byte_level_bpe,False
+19362,uncouple,un,cl100k_base,"['unc', 'ouple']",Incorrect,byte_level_bpe,True
+19372,uncover,un,cl100k_base,"['un', 'cover']",Correct,byte_level_bpe,False
+19382,uncrate,un,cl100k_base,"['unc', 'rate']",Incorrect,byte_level_bpe,True
+19392,decrescendo,de,cl100k_base,"['dec', 'res', 'c', 'endo']",Incorrect,byte_level_bpe,False
+19402,decriminalise,de,cl100k_base,"['de', 'criminal', 'ise']",Correct,byte_level_bpe,False
+19412,decriminalize,de,cl100k_base,"['de', 'criminal', 'ize']",Correct,byte_level_bpe,False
+19422,uncross,un,cl100k_base,"['unc', 'ross']",Incorrect,byte_level_bpe,True
+19432,de-ionate,de,cl100k_base,"['de', '-ion', 'ate']",Correct,byte_level_bpe,True
+19442,undeceive,un,cl100k_base,"['unde', 'ceive']",Incorrect,byte_level_bpe,True
+19452,decrease,de,cl100k_base,"['de', 'crease']",Correct,byte_level_bpe,False
+19462,dehumanize,de,cl100k_base,"['de', 'human', 'ize']",Correct,byte_level_bpe,True
+19472,demobilise,de,cl100k_base,"['dem', 'obil', 'ise']",Incorrect,byte_level_bpe,False
+19482,demobilize,de,cl100k_base,"['dem', 'obil', 'ize']",Incorrect,byte_level_bpe,False
+19492,denazify,de,cl100k_base,"['den', 'az', 'ify']",Incorrect,byte_level_bpe,True
+19502,denitrify,de,cl100k_base,"['den', 'itr', 'ify']",Incorrect,byte_level_bpe,False
+19512,deoxidise,de,cl100k_base,"['de', 'oxid', 'ise']",Correct,byte_level_bpe,False
+19522,depreciate,de,cl100k_base,"['de', 'preci', 'ate']",Correct,byte_level_bpe,False
+19532,desegregate,de,cl100k_base,"['des', 'eg', 'reg', 'ate']",Incorrect,byte_level_bpe,True
+19542,desensitise,de,cl100k_base,"['des', 'ens', 'it', 'ise']",Incorrect,byte_level_bpe,False
+19552,dedifferentiate,de,cl100k_base,"['ded', 'ifferent', 'iate']",Incorrect,byte_level_bpe,True
+19562,disable,dis,cl100k_base,['disable'],Not segmented,byte_level_bpe,True
+19572,disagree,dis,cl100k_base,"['dis', 'agree']",Correct,byte_level_bpe,True
+19582,disallow,dis,cl100k_base,"['dis', 'allow']",Correct,byte_level_bpe,True
+19592,discolor,dis,cl100k_base,"['dis', 'color']",Correct,byte_level_bpe,False
+19602,disembark,dis,cl100k_base,"['dis', 'emb', 'ark']",Correct,byte_level_bpe,False
+19612,disenfranchise,dis,cl100k_base,"['dis', 'en', 'fr', 'anchise']",Correct,byte_level_bpe,True
+19622,disintegrate,dis,cl100k_base,"['dis', 'int', 'egrate']",Correct,byte_level_bpe,True
+19632,indispose,in,cl100k_base,"['ind', 'is', 'pose']",Incorrect,byte_level_bpe,True
+19642,diverge,di,cl100k_base,"['div', 'erge']",Incorrect,byte_level_bpe,False
+19652,undock,un,cl100k_base,"['und', 'ock']",Incorrect,byte_level_bpe,True
+19662,downgrade,down,cl100k_base,"['down', 'grade']",Correct,byte_level_bpe,False
+19672,undress,un,cl100k_base,"['und', 'ress']",Incorrect,byte_level_bpe,False
+19682,depress,de,cl100k_base,"['de', 'press']",Correct,byte_level_bpe,False
+19692,demulsify,de,cl100k_base,"['dem', 'uls', 'ify']",Incorrect,byte_level_bpe,False
+19702,disenchant,dis,cl100k_base,"['dis', 'en', 'chant']",Correct,byte_level_bpe,True
+19712,decode,de,cl100k_base,['decode'],Not segmented,byte_level_bpe,False
+19722,discourage,dis,cl100k_base,"['disc', 'ourage']",Incorrect,byte_level_bpe,True
+19732,de-energise,de,cl100k_base,"['de', '-', 'ener', 'g', 'ise']",Correct,byte_level_bpe,True
+19742,de-energize,de,cl100k_base,"['de', '-', 'ener', 'g', 'ize']",Correct,byte_level_bpe,True
+19752,disengage,dis,cl100k_base,"['dis', 'engage']",Correct,byte_level_bpe,True
+19762,disentangle,dis,cl100k_base,"['dis', 'ent', 'angle']",Correct,byte_level_bpe,False
+19772,dethrone,de,cl100k_base,"['d', 'eth', 'rone']",Incorrect,byte_level_bpe,True
+19782,de-escalate,de,cl100k_base,"['de', '-', 'escal', 'ate']",Correct,byte_level_bpe,True
+19792,disesteem,dis,cl100k_base,"['dis', 'esteem']",Correct,byte_level_bpe,True
+19802,exclude,ex,cl100k_base,['exclude'],Not segmented,byte_level_bpe,True
+19812,excommunicate,ex,cl100k_base,"['ex', 'communic', 'ate']",Correct,byte_level_bpe,True
+19822,import,im,cl100k_base,['import'],Not segmented,byte_level_bpe,False
+19832,unfasten,un,cl100k_base,"['un', 'fast', 'en']",Correct,byte_level_bpe,True
+19842,unfold,un,cl100k_base,['unfold'],Not segmented,byte_level_bpe,False
+19852,unfreeze,un,cl100k_base,"['un', 'freeze']",Correct,byte_level_bpe,True
+19862,deglycerolize,de,cl100k_base,"['deg', 'lycer', 'ol', 'ize']",Incorrect,byte_level_bpe,False
+19872,unharness,un,cl100k_base,"['un', 'h', 'arness']",Correct,byte_level_bpe,True
+19882,dishearten,dis,cl100k_base,"['dis', 'heart', 'en']",Correct,byte_level_bpe,True
+19892,unhitch,un,cl100k_base,"['un', 'h', 'itch']",Correct,byte_level_bpe,True
+19902,dishonor,dis,cl100k_base,"['dish', 'onor']",Incorrect,byte_level_bpe,True
+19912,unhook,un,cl100k_base,"['un', 'hook']",Correct,byte_level_bpe,True
+19922,dehumidify,de,cl100k_base,"['de', 'hum', 'id', 'ify']",Correct,byte_level_bpe,False
+19932,immigrate,im,cl100k_base,"['imm', 'igrate']",Incorrect,byte_level_bpe,False
+19942,implode,im,cl100k_base,['implode'],Not segmented,byte_level_bpe,False
+19952,disincarnate,dis,cl100k_base,"['dis', 'inc', 'arn', 'ate']",Correct,byte_level_bpe,True
+19962,contraindicate,contra,cl100k_base,"['contr', 'ain', 'd', 'icate']",Incorrect,byte_level_bpe,True
+19972,disinfect,dis,cl100k_base,"['dis', 'in', 'fect']",Correct,byte_level_bpe,False
+19982,deflate,de,cl100k_base,"['def', 'late']",Incorrect,byte_level_bpe,True
+19992,outspan,out,cl100k_base,"['out', 'span']",Correct,byte_level_bpe,False
+20002,divest,di,cl100k_base,"['div', 'est']",Incorrect,byte_level_bpe,True
+20012,de-iodinate,de,cl100k_base,"['de', '-', 'iod', 'inate']",Correct,byte_level_bpe,False
+20022,disjoin,dis,cl100k_base,"['dis', 'join']",Correct,byte_level_bpe,True
+20032,unlash,un,cl100k_base,"['un', 'lash']",Correct,byte_level_bpe,True
+20042,outlaw,out,cl100k_base,"['out', 'law']",Correct,byte_level_bpe,True
+20052,unlock,un,cl100k_base,['unlock'],Not segmented,byte_level_bpe,False
+20062,dislodge,dis,cl100k_base,"['dis', 'l', 'odge']",Correct,byte_level_bpe,False
+20072,demagnetise,de,cl100k_base,"['dem', 'agnet', 'ise']",Incorrect,byte_level_bpe,True
+20082,demagnetize,de,cl100k_base,"['dem', 'agnet', 'ize']",Incorrect,byte_level_bpe,True
+20092,unmake,un,cl100k_base,"['un', 'make']",Correct,byte_level_bpe,True
+20102,malfunction,mal,cl100k_base,"['mal', 'function']",Correct,byte_level_bpe,True
+20112,unmask,un,cl100k_base,"['un', 'mask']",Correct,byte_level_bpe,True
+20122,dematerialise,de,cl100k_base,"['dem', 'aterial', 'ise']",Incorrect,byte_level_bpe,True
+20132,dematerialize,de,cl100k_base,"['dem', 'aterial', 'ize']",Incorrect,byte_level_bpe,True
+20142,demilitarise,de,cl100k_base,"['dem', 'ilit', 'ar', 'ise']",Incorrect,byte_level_bpe,True
+20152,demilitarize,de,cl100k_base,"['dem', 'ilit', 'ar', 'ize']",Incorrect,byte_level_bpe,True
+20162,misbehave,mis,cl100k_base,"['mis', 'be', 'have']",Correct,byte_level_bpe,True
+20172,mistrust,mis,cl100k_base,"['m', 'istr', 'ust']",Incorrect,byte_level_bpe,True
+20182,unmuzzle,un,cl100k_base,"['un', 'm', 'uzzle']",Correct,byte_level_bpe,True
+20192,demystify,de,cl100k_base,"['dem', 'yst', 'ify']",Incorrect,byte_level_bpe,True
+20202,demythologize,de,cl100k_base,"['d', 'emy', 'th', 'olog', 'ize']",Incorrect,byte_level_bpe,True
+20212,denationalise,de,cl100k_base,"['den', 'ational', 'ise']",Incorrect,byte_level_bpe,True
+20222,denationalize,de,cl100k_base,"['den', 'ational', 'ize']",Incorrect,byte_level_bpe,True
+20232,denaturalize,de,cl100k_base,"['den', 'atural', 'ize']",Incorrect,byte_level_bpe,True
+20242,disobey,dis,cl100k_base,"['dis', 'ob', 'ey']",Correct,byte_level_bpe,True
+20252,disoblige,dis,cl100k_base,"['dis', 'obl', 'ige']",Correct,byte_level_bpe,True
+20262,deodorize,de,cl100k_base,"['de', 'odor', 'ize']",Correct,byte_level_bpe,False
+20272,deodourise,de,cl100k_base,"['de', 'od', 'our', 'ise']",Correct,byte_level_bpe,False
+20282,disorder,dis,cl100k_base,"['dis', 'order']",Correct,byte_level_bpe,False
+20292,disorganise,dis,cl100k_base,"['dis', 'organ', 'ise']",Correct,byte_level_bpe,True
+20302,disorganize,dis,cl100k_base,"['dis', 'organ', 'ize']",Correct,byte_level_bpe,True
+20312,disorient,dis,cl100k_base,"['dis', 'orient']",Correct,byte_level_bpe,False
+20322,underbid,under,cl100k_base,"['under', 'bid']",Correct,byte_level_bpe,False
+20332,underact,under,cl100k_base,"['under', 'act']",Correct,byte_level_bpe,False
+20342,undercharge,under,cl100k_base,"['under', 'charge']",Correct,byte_level_bpe,False
+20352,underdress,under,cl100k_base,"['under', 'dress']",Correct,byte_level_bpe,False
+20362,underexpose,under,cl100k_base,"['under', 'ex', 'pose']",Correct,byte_level_bpe,True
+20372,underpay,under,cl100k_base,"['under', 'pay']",Correct,byte_level_bpe,True
+20382,undershoot,under,cl100k_base,"['unders', 'hoot']",Incorrect,byte_level_bpe,False
+20392,underspend,under,cl100k_base,"['unders', 'pend']",Incorrect,byte_level_bpe,False
+20402,understate,under,cl100k_base,"['under', 'state']",Correct,byte_level_bpe,False
+20412,understock,under,cl100k_base,"['under', 'stock']",Correct,byte_level_bpe,False
+20422,undervalue,under,cl100k_base,"['und', 'erv', 'alue']",Incorrect,byte_level_bpe,True
+20432,unpack,un,cl100k_base,['unpack'],Not segmented,byte_level_bpe,False
+20442,depersonalise,de,cl100k_base,"['de', 'personal', 'ise']",Correct,byte_level_bpe,True
+20452,depersonalize,de,cl100k_base,"['de', 'personal', 'ize']",Correct,byte_level_bpe,True
+20462,dissuade,dis,cl100k_base,"['d', 'iss', 'u', 'ade']",Incorrect,byte_level_bpe,True
+20472,unpin,un,cl100k_base,"['un', 'pin']",Correct,byte_level_bpe,True
+20482,displease,dis,cl100k_base,"['dis', 'please']",Correct,byte_level_bpe,True
+20492,unplug,un,cl100k_base,"['un', 'plug']",Correct,byte_level_bpe,True
+20502,depressurise,de,cl100k_base,"['de', 'press', 'ur', 'ise']",Correct,byte_level_bpe,False
+20512,depressurize,de,cl100k_base,"['de', 'press', 'ur', 'ize']",Correct,byte_level_bpe,True
+20522,demote,de,cl100k_base,"['dem', 'ote']",Incorrect,byte_level_bpe,False
+20532,disprove,dis,cl100k_base,"['dis', 'prove']",Correct,byte_level_bpe,True
+20542,disqualify,dis,cl100k_base,"['dis', 'qual', 'ify']",Correct,byte_level_bpe,True
+20552,deregulate,de,cl100k_base,"['d', 'ereg', 'ulate']",Incorrect,byte_level_bpe,False
+20562,derequisition,de,cl100k_base,"['dere', 'quisition']",Incorrect,byte_level_bpe,True
+20572,disrespect,dis,cl100k_base,"['dis', 'respect']",Correct,byte_level_bpe,True
+20582,derestrict,de,cl100k_base,"['der', 'estr', 'ict']",Incorrect,byte_level_bpe,True
+20592,unsaddle,un,cl100k_base,"['uns', 'addle']",Incorrect,byte_level_bpe,True
+20602,desalinate,de,cl100k_base,"['des', 'al', 'inate']",Incorrect,byte_level_bpe,False
+20612,dissatisfy,dis,cl100k_base,"['d', 'iss', 'atisf', 'y']",Incorrect,byte_level_bpe,True
+20622,unscramble,un,cl100k_base,"['un', 'sc', 'ram', 'ble']",Correct,byte_level_bpe,False
+20632,unseal,un,cl100k_base,"['un', 'se', 'al']",Correct,byte_level_bpe,True
+20642,desensitize,de,cl100k_base,"['des', 'ens', 'itize']",Incorrect,byte_level_bpe,False
+20652,unsheathe,un,cl100k_base,"['uns', 'heat', 'he']",Incorrect,byte_level_bpe,False
+20662,unsnarl,un,cl100k_base,"['un', 'sn', 'arl']",Correct,byte_level_bpe,True
+20672,unspell,un,cl100k_base,"['un', 'spell']",Correct,byte_level_bpe,True
+20682,destabilise,de,cl100k_base,"['dest', 'abil', 'ise']",Incorrect,byte_level_bpe,True
+20692,destabilize,de,cl100k_base,"['dest', 'abil', 'ize']",Incorrect,byte_level_bpe,True
+20702,destalinize,de,cl100k_base,"['dest', 'alin', 'ize']",Incorrect,byte_level_bpe,False
+20712,unstaple,un,cl100k_base,"['un', 'st', 'ap', 'le']",Correct,byte_level_bpe,True
+20722,unstrain,un,cl100k_base,"['un', 'strain']",Correct,byte_level_bpe,True
+20732,unstrap,un,cl100k_base,"['un', 'strap']",Correct,byte_level_bpe,True
+20742,unstring,un,cl100k_base,"['un', 'string']",Correct,byte_level_bpe,True
+20752,unstuff,un,cl100k_base,"['un', 'stuff']",Correct,byte_level_bpe,True
+20762,desynchronise,de,cl100k_base,"['des', 'ynchron', 'ise']",Incorrect,byte_level_bpe,True
+20772,desynchronize,de,cl100k_base,"['des', 'ynchronize']",Incorrect,byte_level_bpe,True
+20782,detransitivize,de,cl100k_base,"['d', 'etr', 'ans', 'it', 'iv', 'ize']",Incorrect,byte_level_bpe,False
+20792,distrust,dis,cl100k_base,"['d', 'istr', 'ust']",Incorrect,byte_level_bpe,True
+20802,untune,un,cl100k_base,"['unt', 'une']",Incorrect,byte_level_bpe,True
+20812,untwine,un,cl100k_base,"['unt', 'wine']",Incorrect,byte_level_bpe,True
+20822,untwist,un,cl100k_base,"['unt', 'w', 'ist']",Incorrect,byte_level_bpe,True
+20832,unclutter,un,cl100k_base,"['un', 'cl', 'utter']",Correct,byte_level_bpe,True
+20842,underestimate,under,cl100k_base,"['under', 'estimate']",Correct,byte_level_bpe,True
+20852,unfurl,un,cl100k_base,"['un', 'f', 'url']",Correct,byte_level_bpe,False
+20862,disunify,dis,cl100k_base,"['dis', 'un', 'ify']",Correct,byte_level_bpe,True
+20872,unknot,un,cl100k_base,"['unk', 'not']",Incorrect,byte_level_bpe,True
+20882,unscrew,un,cl100k_base,"['uns', 'crew']",Incorrect,byte_level_bpe,True
+20892,untie,un,cl100k_base,"['unt', 'ie']",Incorrect,byte_level_bpe,True
+20902,invalidate,in,cl100k_base,['invalidate'],Not segmented,byte_level_bpe,True
+20912,unveil,un,cl100k_base,"['un', 've', 'il']",Correct,byte_level_bpe,False
+20922,devitalize,de,cl100k_base,"['dev', 'italize']",Incorrect,byte_level_bpe,True
+20932,unweave,un,cl100k_base,"['un', 'we', 'ave']",Correct,byte_level_bpe,True
+20942,unwind,un,cl100k_base,"['un', 'wind']",Correct,byte_level_bpe,False
+20952,unwire,un,cl100k_base,"['un', 'wire']",Correct,byte_level_bpe,True
+20962,unwrap,un,cl100k_base,['unwrap'],Not segmented,byte_level_bpe,True
+20972,unyoke,un,cl100k_base,"['un', 'y', 'oke']",Correct,byte_level_bpe,True

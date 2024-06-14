@@ -1,0 +1,37 @@
+Setting,Subset,Dataset,Model,Accuracy
+Affix,Neg,SST-2,GPT-4,1.0
+Affix,Pos,SST-2,GPT-4,0.9285714285714286
+Non affix,Neg,SST-2,GPT-4,0.974293059125964
+Non affix,Pos,SST-2,GPT-4,0.9447115384615384
+Replace affix,Neg,SST-2,GPT-4,0.974293059125964
+Replace affix,Pos,SST-2,GPT-4,0.9285714285714286
+Affix,Neg,RT,GPT-4,0.9833333333333333
+Affix,Pos,RT,GPT-4,0.875
+Non affix,Neg,RT,GPT-4,0.9287211740041929
+Non affix,Pos,RT,GPT-4,0.9032921810699589
+Replace affix,Neg,RT,GPT-4,0.9287211740041929
+Replace affix,Pos,RT,GPT-4,0.875
+Affix,Neg,SST-2,Flan-T5-xxl,1.0
+Affix,Pos,SST-2,Flan-T5-xxl,0.9285714285714286
+Non affix,Neg,SST-2,Flan-T5-xxl,0.9717223650385605
+Non affix,Pos,SST-2,Flan-T5-xxl,0.9447115384615384
+Replace affix,Neg,SST-2,Flan-T5-xxl,1.0
+Replace affix,Pos,SST-2,Flan-T5-xxl,0.8928571428571429
+Affix,Neg,RT,Flan-T5-xxl,0.9666666666666667
+Affix,Pos,RT,Flan-T5-xxl,0.8958333333333334
+Non affix,Neg,RT,Flan-T5-xxl,0.9433962264150944
+Non affix,Pos,RT,Flan-T5-xxl,0.9259259259259259
+Replace affix,Neg,RT,Flan-T5-xxl,0.95
+Replace affix,Pos,RT,Flan-T5-xxl,0.875
+Affix,Neg,SST-2,Llama-2-13B,0.9302325581395349
+Affix,Pos,SST-2,Llama-2-13B,0.8214285714285714
+Non affix,Neg,SST-2,Llama-2-13B,0.9511568123393316
+Non affix,Pos,SST-2,Llama-2-13B,0.9014423076923077
+Replace affix,Neg,SST-2,Llama-2-13B,0.9069767441860465
+Replace affix,Pos,SST-2,Llama-2-13B,0.8214285714285714
+Affix,Neg,RT,Llama-2-13B,1.0
+Affix,Pos,RT,Llama-2-13B,0.9166666666666666
+Non affix,Neg,RT,Llama-2-13B,0.8909853249475891
+Non affix,Pos,RT,Llama-2-13B,0.8930041152263375
+Replace affix,Neg,RT,Llama-2-13B,0.9833333333333333
+Replace affix,Pos,RT,Llama-2-13B,0.9375
